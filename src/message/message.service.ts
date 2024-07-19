@@ -22,10 +22,15 @@ export abstract class MessageService {
       });
       return response.data;
     } catch (error) {
+      console.log('error', error.data);
       throw new CustomException(error);
     }
   }
 
   abstract sendWelcomeMessage(from: string, language: string);
+  abstract difficultyButtons(from: string);
+  abstract getQuestionByDifficulty(from: string, selectedDifficulty: string);
+  abstract checkAnswer(from: string, selectedOption: string);
+  abstract afterAnswerButtons(from: string);
   abstract sendLanguageChangedMessage(from: string, language: string);
 }
