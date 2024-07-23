@@ -31,12 +31,11 @@ export class ChatbotService {
     );
     if (!userData) {
       console.log('User not found, creating a new user.');
-      const selectedDifficulty = button_response.body;
+
       userData = await this.userService.createUser(
         from,
         'english',
         process.env.BOT_ID,
-        selectedDifficulty,
       );
     }
 

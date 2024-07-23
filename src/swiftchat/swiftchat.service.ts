@@ -29,11 +29,7 @@ export class SwiftchatMessageService extends MessageService {
   }
 
   async sendWelcomeMessage(from: string, language: string) {
-
-    const requestData = this.prepareRequestData(
-      from,
-      localised.welcomeMessage,
-    );
+    const requestData = this.prepareRequestData(from, localised.welcomeMessage);
 
     const response = await this.sendMessage(
       this.baseUrl,
@@ -139,8 +135,6 @@ export class SwiftchatMessageService extends MessageService {
   }
 
   async checkAnswer(from: string, selectedOption: string) {
-    
-
     const difficultyLevels = ['easy', 'medium', 'hard'];
     let correctAnswer = '';
 
@@ -155,12 +149,7 @@ export class SwiftchatMessageService extends MessageService {
     }
 
     if (selectedOption === correctAnswer) {
-    
-
-      const requestData = this.prepareRequestData(
-        from,
-        localised.correct,
-      );
+      const requestData = this.prepareRequestData(from, localised.correct);
 
       const response = await this.sendMessage(
         this.baseUrl,
@@ -169,11 +158,7 @@ export class SwiftchatMessageService extends MessageService {
       );
       return 'correct';
     } else {
-     
-      const requestData = this.prepareRequestData(
-        from,
-        localised.wrong,
-      );
+      const requestData = this.prepareRequestData(from, localised.wrong);
 
       const response = await this.sendMessage(
         this.baseUrl,
