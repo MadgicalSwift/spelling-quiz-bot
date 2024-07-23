@@ -2,10 +2,11 @@ import { Body, Injectable } from '@nestjs/common';
 import * as dotenv from 'dotenv';
 import { LocalizationService } from 'src/localization/localization.service';
 import { MessageService } from 'src/message/message.service';
-import axios from 'axios';
+import { UserService } from 'src/model/user.service';
 import questionData from '../chat/questions.json';
 import { response } from 'express';
 import { repl } from '@nestjs/core';
+import { localised } from 'src/i18n/quiz/localised-string';
 
 dotenv.config();
 
@@ -15,6 +16,7 @@ export class SwiftchatMessageService extends MessageService {
   private apiKey = process.env.API_KEY;
   private apiUrl = process.env.API_URL;
   private baseUrl = `${this.apiUrl}/${this.botId}/messages`;
+  private userService: UserService;
 
   private prepareRequestData(from: string, requestBody: string): any {
     return {
@@ -27,10 +29,10 @@ export class SwiftchatMessageService extends MessageService {
   }
 
   async sendWelcomeMessage(from: string, language: string) {
-    const localisedStrings = LocalizationService.getLocalisedString(language);
+
     const requestData = this.prepareRequestData(
       from,
-      localisedStrings.welcomeMessage,
+      localised.welcomeMessage,
     );
 
     const response = await this.sendMessage(
@@ -42,6 +44,15 @@ export class SwiftchatMessageService extends MessageService {
     return response;
   }
 
+  async sendScore(from: string, score: string) {
+    const requestData = this.prepareRequestData(from, score);
+    const response = await this.sendMessage(
+      this.baseUrl,
+      requestData,
+      this.apiKey,
+    );
+    await this.difficultyButtons(from);
+  }
   async difficultyButtons(from: string) {
     const messageData = {
       to: from,
@@ -50,7 +61,7 @@ export class SwiftchatMessageService extends MessageService {
         body: {
           type: 'text',
           text: {
-            body: 'Choose difficulty level.',
+            body: localised.difficulty,
           },
         },
         buttons: [
@@ -82,24 +93,22 @@ export class SwiftchatMessageService extends MessageService {
   }
 
   async getQuestionByDifficulty(from: string, selectedOption: string) {
-    console.log('User selected difficulty ====', selectedOption);
     let questions = [];
-    console.log('questionssssss=====11111', questions);
+
     if (selectedOption === 'Easy') {
-      questions = questionData.easy.questions;  
-  } else if (selectedOption === 'Medium') {
+      questions = questionData.easy.questions;
+    } else if (selectedOption === 'Medium') {
       questions = questionData.medium.questions;
-  } else if (selectedOption === 'Hard') {
+    } else if (selectedOption === 'Hard') {
       questions = questionData.hard.questions;
-  } else {
+    } else {
       console.log('Difficulty Not found');
       return;
-  }
-  console.log('Questions for selected difficulty:', questions);
+    }
+
     const randomIndex = Math.floor(Math.random() * questions.length);
     const question = questions[randomIndex];
-    console.log('question==', question);
-    
+
     const chooseAnswer = {
       to: from,
       type: 'button',
@@ -107,7 +116,7 @@ export class SwiftchatMessageService extends MessageService {
         body: {
           type: 'text',
           text: {
-            body: 'Choose the correct Spelling.',
+            body: localised.spelling,
           },
         },
 
@@ -119,19 +128,18 @@ export class SwiftchatMessageService extends MessageService {
         allow_custom_response: false,
       },
     };
-    console.log('Sending question to user:', chooseAnswer);
+
     const response = await this.sendMessage(
       this.baseUrl,
       chooseAnswer,
       this.apiKey,
     );
 
-    console.log('Response from sending question:', response);
     return response;
   }
 
   async checkAnswer(from: string, selectedOption: string) {
-    console.log('selectedOption Answer====', selectedOption);
+    
 
     const difficultyLevels = ['easy', 'medium', 'hard'];
     let correctAnswer = '';
@@ -147,10 +155,11 @@ export class SwiftchatMessageService extends MessageService {
     }
 
     if (selectedOption === correctAnswer) {
-      console.log('Correct');
+    
+
       const requestData = this.prepareRequestData(
         from,
-        'Congratulations!Your answer is correct!',
+        localised.correct,
       );
 
       const response = await this.sendMessage(
@@ -158,13 +167,12 @@ export class SwiftchatMessageService extends MessageService {
         requestData,
         this.apiKey,
       );
-      await this.afterAnswerButtons(from);
-      return response;
+      return 'correct';
     } else {
-      console.log('Incorrect');
+     
       const requestData = this.prepareRequestData(
         from,
-        `That's incorrect. Try again!`,
+        localised.wrong,
       );
 
       const response = await this.sendMessage(
@@ -172,8 +180,7 @@ export class SwiftchatMessageService extends MessageService {
         requestData,
         this.apiKey,
       );
-      await this.afterAnswerButtons(from);
-      return response;
+      return 'incorrect';
     }
   }
 
@@ -185,14 +192,14 @@ export class SwiftchatMessageService extends MessageService {
         body: {
           type: 'text',
           text: {
-            body: 'Next Question, Back to Main Menu.',
+            body: localised.nextquestion,
           },
         },
         buttons: [
           {
             type: 'solid',
             body: 'Next Question',
-            reply: 'Next Question.',
+            reply: 'Next Question',
           },
           {
             type: 'solid',

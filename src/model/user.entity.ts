@@ -12,4 +12,14 @@ export class User {
   language: string;
   @Column()
   botID: string;
+  
+  @Column({ nullable: true })
+  difficulty: string;
+
+  @Column({ default: 0 }) 
+  questionsAnswered: number;
+
+  @Column({ default: 0 }) 
+  score: number;
+ 
 }

@@ -11,4 +11,5 @@ export const databaseConfig: TypeOrmModuleOptions = {
   database: process.env.DATA_BASE,
   entities: [User],
   synchronize: true,
+  // logging: true,  // Add this line to enable logging
 };

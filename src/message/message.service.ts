@@ -26,7 +26,7 @@ export abstract class MessageService {
       throw new CustomException(error);
     }
   }
-
+  abstract sendScore(from: string, score: string);
   abstract sendWelcomeMessage(from: string, language: string);
   abstract difficultyButtons(from: string);
   abstract getQuestionByDifficulty(from: string, selectedDifficulty: string);

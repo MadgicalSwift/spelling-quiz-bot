@@ -7,33 +7,51 @@ import { User } from './user.entity';
 export class UserService {
   constructor(
     @InjectRepository(User)
-    private userRepository: Repository<User>,
+    private readonly userRepository: Repository<User>,
   ) {}
+
   async createUser(
     mobileNumber: string,
     language: string,
     botID: string,
+    difficulty?: string,
   ): Promise<User> {
-    const existingUser = await this.findUserByMobileNumber(mobileNumber);
-    if (existingUser) {
-      existingUser.language = language;
-      return this.userRepository.save(existingUser);
+    let user = await this.userRepository.findOne({
+      where: { mobileNumber, botID },
+    });
+
+    if (user) {
+      user.language = language;
+      if (difficulty) {
+        user.difficulty = difficulty;
+      }
     } else {
-      const newUser = new User();
-      newUser.mobileNumber = mobileNumber;
-      newUser.language = language;
-      newUser.botID = botID;
-      return this.userRepository.save(newUser);
+      user = this.userRepository.create({
+        mobileNumber,
+        language,
+        botID,
+        difficulty,
+      });
     }
+    return this.userRepository.save(user);
   }
 
   async findUserByMobileNumber(
     mobileNumber: string,
-  ): Promise<User | undefined> {
-    return this.userRepository.findOne({ where: { mobileNumber } });
+    botID: string,
+  ): Promise<User> {
+    return this.userRepository.findOne({ where: { mobileNumber, botID } });
   }
 
-  async saveUser(user: User): Promise<User | undefined> {
+  async saveUser(user: User): Promise<User> {
     return this.userRepository.save(user);
+  }
+
+  async updateUserScore(user: User, isCorrect: string): Promise<void> {
+    user.questionsAnswered += 1;
+    if (isCorrect === 'correct') {
+      user.score += 1;
+    }
+    await this.userRepository.save(user);
   }
 }
