@@ -49,6 +49,7 @@ export class SwiftchatMessageService extends MessageService {
     );
     await this.difficultyButtons(from);
   }
+  
   async difficultyButtons(from: string) {
     const messageData = {
       to: from,
@@ -89,21 +90,30 @@ export class SwiftchatMessageService extends MessageService {
   }
 
   async getQuestionByDifficulty(from: string, selectedOption: string) {
-    let questions = [];
+    let sets = [];
 
     if (selectedOption === 'Easy') {
-      questions = questionData.easy.questions;
+      sets = questionData.easy.sets;
     } else if (selectedOption === 'Medium') {
-      questions = questionData.medium.questions;
+      sets = questionData.medium.sets;
     } else if (selectedOption === 'Hard') {
-      questions = questionData.hard.questions;
+      sets = questionData.hard.sets;
     } else {
       console.log('Difficulty Not found');
       return;
     }
 
-    const randomIndex = Math.floor(Math.random() * questions.length);
-    const question = questions[randomIndex];
+    // Select a random set
+    const randomSetIndex = Math.floor(Math.random() * sets.length);
+    const selectedSet = sets[randomSetIndex];
+
+    // // Pick a random question from the selected set
+    // const randomQuestionIndex = Math.floor(
+    //   Math.random() * selectedSet.questions.length,
+    // );
+    // Initialize current question index to 0
+    const currentQuestionIndex = 0;
+    const question = selectedSet.questions[currentQuestionIndex];
 
     const chooseAnswer = {
       to: from,
@@ -131,7 +141,71 @@ export class SwiftchatMessageService extends MessageService {
       this.apiKey,
     );
 
-    return response;
+    return { response, selectedSet };
+  }
+
+  async getQuestionBySet(
+    from: string,
+    difficulty: string,
+    setNumber: string,
+    currentQuestionIndex: number,
+  ) {
+    let sets = [];
+
+    if (difficulty === 'Easy') {
+      sets = questionData.easy.sets;
+    } else if (difficulty === 'Medium') {
+      sets = questionData.medium.sets;
+    } else if (difficulty === 'Hard') {
+      sets = questionData.hard.sets;
+    } else {
+      console.log('Difficulty Not found');
+      return;
+    }
+
+    const setNumberAsNumber = Number(setNumber);
+    //Find the set by setNumber
+    const selectedSet = sets.find((set) => set.setNumber === setNumberAsNumber);
+    if (!selectedSet) {
+      console.log('Set not found');
+      return;
+    }
+
+    // Pick a random question from the selected set
+    // const randomQuestionIndex = Math.floor(
+    //   Math.random() * selectedSet.questions.length,
+    // );
+    if (currentQuestionIndex >= selectedSet.questions.length) {
+      console.log('No more questions in the set');
+      return;
+    }
+    const question = selectedSet.questions[currentQuestionIndex];
+    const chooseAnswer = {
+      to: from,
+      type: 'button',
+      button: {
+        body: {
+          type: 'text',
+          text: {
+            body: localised.spelling,
+          },
+        },
+        buttons: question.options.map((option: string) => ({
+          type: 'solid',
+          body: option,
+          reply: option,
+        })),
+        allow_custom_response: false,
+      },
+    };
+
+    const response = await this.sendMessage(
+      this.baseUrl,
+      chooseAnswer,
+      this.apiKey,
+    );
+
+    return { response, selectedSet };
   }
 
   async checkAnswer(from: string, selectedOption: string) {
@@ -139,11 +213,23 @@ export class SwiftchatMessageService extends MessageService {
     let correctAnswer = '';
 
     for (const level of difficultyLevels) {
-      const question = questionData[level].questions.find(
-        (currentQuestion) => currentQuestion.correctAnswer === selectedOption,
-      );
-      if (question) {
-        correctAnswer = question.correctAnswer;
+      const levelData = questionData[level];
+      if (!levelData) {
+        console.log(`Difficulty level ${level} not found in questionData.`);
+        continue;
+      }
+
+      for (const set of levelData.sets) {
+        const question = set.questions.find(
+          (currentQuestion) => currentQuestion.correctAnswer === selectedOption,
+        );
+        if (question) {
+          correctAnswer = question.correctAnswer;
+          break;
+        }
+      }
+
+      if (correctAnswer) {
         break;
       }
     }

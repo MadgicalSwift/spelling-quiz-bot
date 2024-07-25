@@ -33,4 +33,5 @@ export abstract class MessageService {
   abstract checkAnswer(from: string, selectedOption: string);
   abstract afterAnswerButtons(from: string);
   abstract sendLanguageChangedMessage(from: string, language: string);
+  abstract getQuestionBySet(from: string, difficulty: string, setNumber: string, currentQuestionIndex: number);
 }

@@ -25,10 +25,14 @@ export class ChatbotService {
 
   public async processMessage(body: any): Promise<any> {
     const { from, text, button_response } = body;
+
+    //find user exist
     let userData = await this.userService.findUserByMobileNumber(
       from,
       process.env.BOT_ID,
     );
+
+    //if user not found
     if (!userData) {
       console.log('User not found, creating a new user.');
 
@@ -46,28 +50,45 @@ export class ChatbotService {
 
       // if the selected option is a difficulty level
       if (difficulty.includes(selectedOption)) {
+        // save user data along with selected difficulty and set current index
         userData.difficulty = selectedOption;
+        userData.currentQuestionIndex = 0;
+        await this.userService.saveUser(userData);
+
+        const { response, selectedSet } =
+          await this.swiftchatMessageService.getQuestionByDifficulty(
+            from,
+            selectedOption,
+          );
+
+        // Save user data along with the selected set and next question index
+        userData.selectedSet = selectedSet.setNumber;
+        userData.currentQuestionIndex = 1;
 
         await this.userService.saveUser(userData);
-        await this.swiftchatMessageService.getQuestionByDifficulty(
-          from,
-          selectedOption,
-        );
         return 'done';
       }
 
       // if the selected option is 'Main Menu'
       else if (selectedOption === 'Main Menu') {
+        userData.questionsAnswered = 0;
+        userData.score = 0;
+        await this.userService.saveUser(userData);
         await this.message.sendWelcomeMessage(from, userData.language);
         return 'ok';
       }
 
       // if the selected option is 'Next Question'
       else if (selectedOption === 'Next Question') {
-        await this.swiftchatMessageService.getQuestionByDifficulty(
+        const currentQuestionIndex = userData.currentQuestionIndex || 0;
+        await this.swiftchatMessageService.getQuestionBySet(
           from,
           userData.difficulty,
+          userData.selectedSet,
+          currentQuestionIndex,
         );
+        userData.currentQuestionIndex += 1;
+        await this.userService.saveUser(userData);
 
         return 'ok';
       }
@@ -78,8 +99,11 @@ export class ChatbotService {
           from,
           selectedOption,
         );
+
+        //update user question and score
         await this.userService.updateUserScore(userData, answer);
 
+        //after 10 questionsAnswered gives score
         if (userData.questionsAnswered >= 10) {
           await this.swiftchatMessageService.sendScore(
             from,
@@ -87,10 +111,12 @@ export class ChatbotService {
           );
           userData.questionsAnswered = 0;
           userData.score = 0;
+          userData.currentQuestionIndex = 0;
           await this.userService.saveUser(userData);
           return 'done';
         }
 
+        //buttons(nextquestion, mainmenu)
         await this.swiftchatMessageService.afterAnswerButtons(from);
         return 'done';
       }
