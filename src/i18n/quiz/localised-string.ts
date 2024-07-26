@@ -6,4 +6,5 @@ export const localised = {
   correct: 'Well done! Your answer is correct. Great job!',
   wrong: `Unfortunately, that's not correct. Please try again!`,
   nextquestion: 'Next Question or Back to Main Menu.',
+  validText:['hi', 'Hi', 'HI', 'hI', 'Hello', 'hello', 'hola'],
 };

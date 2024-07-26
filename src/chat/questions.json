@@ -54,7 +54,7 @@
           { "word": "umbrella", "options": ["umbrella", "umberela", "umbrel"], "correctAnswer": "umbrella" },
           { "word": "violin", "options": ["violin", "violon", "vialin"], "correctAnswer": "violin" },
           { "word": "water", "options": ["water", "watar", "weter"], "correctAnswer": "water" },
-          { "word": "xylophone", "options": ["xylophone", "xilofone", "zylophone"], "correctAnswer": "xylophone" },
+          { "word": "allow", "options": ["alow", "allow", "alloww"], "correctAnswer": "allow" },
           { "word": "yarn", "options": ["yarn", "yern", "yarne"], "correctAnswer": "yarn" },
           { "word": "zebra", "options": ["zebra", "zebbra", "zebra"], "correctAnswer": "zebra" },
           { "word": "airplane", "options": ["airplane", "aerplane", "airplaine"], "correctAnswer": "airplane" },
@@ -140,13 +140,13 @@
     {
         "setNumber": 10,
         "questions": [
-            { "word": "car", "options": ["car", "carr", "kar"], "correctAnswer": "car" },
+            { "word": "van", "options": ["van", "vann", "van"], "correctAnswer": "van" },
             { "word": "bar", "options": ["bar", "barr", "par"], "correctAnswer": "bar" },
             { "word": "tar", "options": ["tar", "tarr", "dar"], "correctAnswer": "tar" },
             { "word": "jar", "options": ["jar", "jarr", "kar"], "correctAnswer": "jar" },
             { "word": "far", "options": ["far", "farr", "par"], "correctAnswer": "far" },
             { "word": "war", "options": ["war", "warr", "wor"], "correctAnswer": "war" },
-            { "word": "star", "options": ["star", "starr", "star"], "correctAnswer": "star" },
+            { "word": "beam", "options": ["beam", "beam", "beem"], "correctAnswer": "beam" },
             { "word": "scar", "options": ["scar", "scarr", "scar"], "correctAnswer": "scar" },
             { "word": "spar", "options": ["spar", "sparr", "spar"], "correctAnswer": "spar" },
             { "word": "mar", "options": ["mar", "marr", "mar"], "correctAnswer": "mar" }
@@ -171,9 +171,9 @@
       "setNumber": 12,
       "questions": [
           { "word": "fan", "options": ["fan", "fann", "fen"], "correctAnswer": "fan" },
-          { "word": "man", "options": ["man", "mann", "men"], "correctAnswer": "man" },
+          { "word": "guy", "options": ["guy", "guy", "guy"], "correctAnswer": "guy" },
           { "word": "pan", "options": ["pan", "pann", "pen"], "correctAnswer": "pan" },
-          { "word": "van", "options": ["van", "vann", "ven"], "correctAnswer": "van" },
+          { "word": "punting", "options": ["punting", "puning", "puntingg"], "correctAnswer": "punting" },
           { "word": "can", "options": ["can", "cann", "cen"], "correctAnswer": "can" },
           { "word": "ran", "options": ["ran", "rann", "ren"], "correctAnswer": "ran" },
           { "word": "tan", "options": ["tan", "tann", "ten"], "correctAnswer": "tan" },
@@ -216,7 +216,7 @@
       "setNumber": 15,
       "questions": [
           { "word": "bat", "options": ["bat", "batt", "bet"], "correctAnswer": "bat" },
-          { "word": "cat", "options": ["cat", "catt", "cet"], "correctAnswer": "cat" },
+          { "word": "soda", "options": ["soda", "sodaa", "sodda"], "correctAnswer": "soda" },
           { "word": "rat", "options": ["rat", "ratt", "ret"], "correctAnswer": "rat" },
           { "word": "mat", "options": ["mat", "matt", "met"], "correctAnswer": "mat" },
           { "word": "pat", "options": ["pat", "patt", "pet"], "correctAnswer": "pat" },
@@ -224,7 +224,8 @@
           { "word": "chat", "options": ["chat", "chatt", "chet"], "correctAnswer": "chat" },
           { "word": "flat", "options": ["flat", "flatt", "flet"], "correctAnswer": "flat" },
           { "word": "that", "options": ["that", "thatt", "thet"], "correctAnswer": "that" },
-          { "word": "hat", "options": ["hat", "hatt", "het"], "correctAnswer": "hat" }
+          { "word": "crowd", "options": ["crod", "crowd", "crawd"], "correctAnswer": "crowd" }
+
       ]
   },
   {
@@ -232,14 +233,14 @@
       "questions": [
           { "word": "bet", "options": ["bet", "bett", "bat"], "correctAnswer": "bet" },
           { "word": "get", "options": ["get", "gett", "gat"], "correctAnswer": "get" },
-          { "word": "jet", "options": ["jet", "jett", "jat"], "correctAnswer": "jet" },
+          { "word": "secret", "options": ["secrat", "secreet", "secret"], "correctAnswer": "secret" },
           { "word": "let", "options": ["let", "lett", "lat"], "correctAnswer": "let" },
           { "word": "met", "options": ["met", "mett", "mat"], "correctAnswer": "met" },
-          { "word": "net", "options": ["net", "nett", "nat"], "correctAnswer": "net" },
-          { "word": "pet", "options": ["pet", "pett", "pat"], "correctAnswer": "pet" },
+          { "word": "fumble", "options": ["fumbel", "fumbl", "fumble"], "correctAnswer": "fumble" },
+          { "word": "pond", "options": ["pond", "pondd", "pund"], "correctAnswer": "pond" },
           { "word": "set", "options": ["set", "sett", "sat"], "correctAnswer": "set" },
-          { "word": "vet", "options": ["vet", "vett", "vat"], "correctAnswer": "vet" },
-          { "word": "wet", "options": ["wet", "wett", "wat"], "correctAnswer": "wet" }
+          { "word": "health", "options": ["helth", "health", "heath"], "correctAnswer": "health" },
+          { "word": "pardon", "options": ["pardon", "pardone", "pardun"], "correctAnswer": "pardon" }
       ]
   },
   {
@@ -262,11 +263,11 @@
       "questions":  [
           { "word": "log", "options": ["log", "logg", "lag"], "correctAnswer": "log" },
           { "word": "fog", "options": ["fog", "fogg", "fag"], "correctAnswer": "fog" },
-          { "word": "dog", "options": ["dog", "dogg", "dag"], "correctAnswer": "dog" },
+          { "word": "shake", "options": ["shak", "shake", "shakke"], "correctAnswer": "shake" },
           { "word": "bog", "options": ["bog", "bogg", "bag"], "correctAnswer": "bog" },
           { "word": "jog", "options": ["jog", "jogg", "jag"], "correctAnswer": "jog" },
           { "word": "clog", "options": ["clog", "clogg", "clag"], "correctAnswer": "clog" },
-          { "word": "frog", "options": ["frog", "frogg", "frag"], "correctAnswer": "frog" },
+          { "word": "kiddo", "options": ["kiddo", "kiddoe", "kido"], "correctAnswer": "kiddo" },
           { "word": "slog", "options": ["slog", "slogg", "slag"], "correctAnswer": "slog" },
           { "word": "blog", "options": ["blog", "blogg", "blag"], "correctAnswer": "blog" },
           { "word": "smog", "options": ["smog", "smogg", "smag"], "correctAnswer": "smog" }
@@ -321,12 +322,12 @@
   {
       "setNumber": 22,
       "questions": [
-          { "word": "not", "options": ["not", "nott", "net"], "correctAnswer": "not" },
-          { "word": "pot", "options": ["pot", "pott", "pet"], "correctAnswer": "pot" },
-          { "word": "dot", "options": ["dot", "dott", "det"], "correctAnswer": "dot" },
-          { "word": "cot", "options": ["cot", "cott", "cet"], "correctAnswer": "cot" },
-          { "word": "hot", "options": ["hot", "hott", "het"], "correctAnswer": "hot" },
-          { "word": "lot", "options": ["lot", "lott", "let"], "correctAnswer": "lot" },
+        { "word": "proof", "options": ["proofe", "proff", "proof"], "correctAnswer": "proof" },
+        { "word": "gorp", "options": ["gorp", "gorpp", "gorpe"], "correctAnswer": "gorp" },
+        { "word": "town", "options": ["townn", "tawn", "town"], "correctAnswer": "town" },
+        { "word": "bingo", "options": ["bingo", "binggo", "bigo"], "correctAnswer": "bingo" },
+        { "word": "clever", "options": ["cleaver", "clever", "clevar"], "correctAnswer": "clever" },
+        { "word": "inside", "options": ["insid", "inside", "insidde"], "correctAnswer": "inside" },
           { "word": "plot", "options": ["plot", "plott", "plet"], "correctAnswer": "plot" },
           { "word": "slot", "options": ["slot", "slott", "slet"], "correctAnswer": "slot" },
           { "word": "shot", "options": ["shot", "shott", "shet"], "correctAnswer": "shot" },
@@ -336,12 +337,12 @@
   {
       "setNumber": 23,
       "questions": [
-          { "word": "cop", "options": ["cop", "copp", "cap"], "correctAnswer": "cop" },
-          { "word": "hop", "options": ["hop", "hopp", "hap"], "correctAnswer": "hop" },
-          { "word": "mop", "options": ["mop", "mopp", "map"], "correctAnswer": "mop" },
-          { "word": "top", "options": ["top", "topp", "tap"], "correctAnswer": "top" },
-          { "word": "pop", "options": ["pop", "popp", "pap"], "correctAnswer": "pop" },
-          { "word": "bop", "options": ["bop", "bopp", "bap"], "correctAnswer": "bop" },
+        { "word": "reply", "options": ["reply", "replie", "repli"], "correctAnswer": "reply" },
+        { "word": "frozen", "options": ["frozan", "frozeen", "frozen"], "correctAnswer": "frozen" },
+        { "word": "special", "options": ["speacial", "special", "speccial"], "correctAnswer": "special" },
+        { "word": "film", "options": ["filmm", "film", "fillm"], "correctAnswer": "film" },
+        { "word": "results", "options": ["results", "resultts", "resuls"], "correctAnswer": "results" },
+        { "word": "seal", "options": ["seel", "seal", "seall"], "correctAnswer": "seal" },
           { "word": "drop", "options": ["drop", "dropp", "drap"], "correctAnswer": "drop" },
           { "word": "crop", "options": ["crop", "cropp", "crap"], "correctAnswer": "crop" },
           { "word": "shop", "options": ["shop", "shopp", "shap"], "correctAnswer": "shop" },
@@ -370,7 +371,7 @@
           { "word": "bun", "options": ["bun", "bunn", "ban"], "correctAnswer": "bun" },
           { "word": "fun", "options": ["fun", "funn", "fan"], "correctAnswer": "fun" },
           { "word": "run", "options": ["run", "runn", "ran"], "correctAnswer": "run" },
-          { "word": "sun", "options": ["sun", "sunn", "san"], "correctAnswer": "sun" },
+          { "word": "twirled", "options": ["twirled", "twerled", "twirld"], "correctAnswer": "twirled" },
           { "word": "pun", "options": ["pun", "punn", "pan"], "correctAnswer": "pun" },
           { "word": "shun", "options": ["shun", "shunn", "shan"], "correctAnswer": "shun" },
           { "word": "stun", "options": ["stun", "stunn", "stan"], "correctAnswer": "stun" },
@@ -381,14 +382,14 @@
   {
       "setNumber": 26,
       "questions": [
-          { "word": "bed", "options": ["bed", "bedd", "bad"], "correctAnswer": "bed" },
-          { "word": "red", "options": ["red", "redd", "rad"], "correctAnswer": "red" },
-          { "word": "wed", "options": ["wed", "wedd", "wad"], "correctAnswer": "wed" },
-          { "word": "shed", "options": ["shed", "shedd", "shad"], "correctAnswer": "shed" },
-          { "word": "sled", "options": ["sled", "sledd", "slad"], "correctAnswer": "sled" },
-          { "word": "bled", "options": ["bled", "bledd", "blad"], "correctAnswer": "bled" },
-          { "word": "bred", "options": ["bred", "bredd", "brad"], "correctAnswer": "bred" },
-          { "word": "fled", "options": ["fled", "fledd", "flad"], "correctAnswer": "fled" },
+        { "word": "admit", "options": ["admit", "admett", "admet"], "correctAnswer": "admit" },
+        { "word": "grown-ups", "options": ["grown-ups", "grownups", "groun-ups"], "correctAnswer": "grown-ups" },
+        { "word": "pieces", "options": ["peices", "pieces", "piecess"], "correctAnswer": "pieces" },
+        { "word": "brass", "options": ["brass", "bras", "brasss"], "correctAnswer": "brass" },
+        { "word": "onshore", "options": ["onshore", "onshorre", "onshure"], "correctAnswer": "onshore" },
+        { "word": "stunts", "options": ["stunts", "stunnts", "stunts"], "correctAnswer": "stunts" },
+        { "word": "deny", "options": ["deny", "denny", "deni"], "correctAnswer": "deny" },
+        { "word": "jolly", "options": ["jolly", "joly", "jolli"], "correctAnswer": "jolly" },
           { "word": "kled", "options": ["kled", "kledd", "klad"], "correctAnswer": "kled" },
           { "word": "cred", "options": ["cred", "credd", "crad"], "correctAnswer": "cred" }
       ]
@@ -440,13 +441,13 @@
     "setNumber": 30,
     "questions": [
       { "word": "pear", "options": ["pear", "peer", "pare"], "correctAnswer": "pear" },
-      { "word": "chair", "options": ["chair", "chare", "chaer"], "correctAnswer": "chair" },
+      { "word": "sawdust", "options": ["sawdust", "sawduast", "sawust"], "correctAnswer": "sawdust" },
       { "word": "dance", "options": ["dance", "dence", "danns"], "correctAnswer": "dance" },
       { "word": "globe", "options": ["globe", "glowbe", "globb"], "correctAnswer": "globe" },
       { "word": "hike", "options": ["hike", "hyk", "hik"], "correctAnswer": "hike" },
-      { "word": "juice", "options": ["juice", "juce", "juise"], "correctAnswer": "juice" },
+      { "word": "walnut", "options": ["walnut", "walnutt", "walnet"], "correctAnswer": "walnut" },
       { "word": "knife", "options": ["knife", "knyfe", "knif"], "correctAnswer": "knife" },
-      { "word": "lamp", "options": ["lamp", "lump", "lampp"], "correctAnswer": "lamp" },
+      { "word": "powder", "options": ["powder", "powdar", "poweder"], "correctAnswer": "powder" },
       { "word": "melon", "options": ["melon", "mellon", "melun"], "correctAnswer": "melon" },
       { "word": "nurse", "options": ["nurse", "nurs", "nirse"], "correctAnswer": "nurse" }
     ]
@@ -459,10 +460,10 @@
       { "word": "quiet", "options": ["quiet", "quiete", "quiat"], "correctAnswer": "quiet" },
       { "word": "rope", "options": ["rope", "roap", "rop"], "correctAnswer": "rope" },
       { "word": "snake", "options": ["snake", "snack", "snak"], "correctAnswer": "snake" },
-      { "word": "table", "options": ["table", "taible", "tabl"], "correctAnswer": "table" },
-      { "word": "umbrella", "options": ["umbrella", "umberela", "umbrel"], "correctAnswer": "umbrella" },
+      { "word": "flustered", "options": ["flustered", "flusterd", "flusterd"], "correctAnswer": "flustered" },
+      { "word": "barber", "options": ["barber", "barbr", "barbar"], "correctAnswer": "barber" },
       { "word": "violet", "options": ["violet", "vyolet", "violete"], "correctAnswer": "violet" },
-      { "word": "water", "options": ["water", "watter", "weter"], "correctAnswer": "water" },
+      { "word": "chimes", "options": ["chimes", "chimes", "chimm"], "correctAnswer": "chimes" },
       { "word": "yogurt", "options": ["yogurt", "yoghurt", "yogert"], "correctAnswer": "yogurt" }
     ]
   },
@@ -488,9 +489,9 @@
       { "word": "lumber", "options": ["lumber", "lumbir", "lumbre"], "correctAnswer": "lumber" },
       { "word": "mountain", "options": ["mountain", "mountan", "moutain"], "correctAnswer": "mountain" },
       { "word": "needle", "options": ["needle", "nedle", "needel"], "correctAnswer": "needle" },
-      { "word": "orange", "options": ["orange", "orenge", "orrange"], "correctAnswer": "orange" },
+      { "word": "cabin", "options": ["cabin", "caban", "cabinn"], "correctAnswer": "cabin" },
       { "word": "pencil", "options": ["pencil", "pensil", "pencel"], "correctAnswer": "pencil" },
-      { "word": "queen", "options": ["queen", "quene", "quean"], "correctAnswer": "queen" },
+      { "word": "faint", "options": ["faint", "faindt", "faintt"], "correctAnswer": "faint" },
       { "word": "rocket", "options": ["rocket", "roket", "rockett"], "correctAnswer": "rocket" },
       { "word": "sunset", "options": ["sunset", "sunsett", "sonset"], "correctAnswer": "sunset" },
       { "word": "turtle", "options": ["turtle", "tortle", "turttle"], "correctAnswer": "turtle" }
@@ -500,7 +501,7 @@
     "setNumber": 34,
     "questions": [
       { "word": "uniform", "options": ["uniform", "unifom", "unifor"], "correctAnswer": "uniform" },
-      { "word": "violin", "options": ["violin", "vialin", "violyn"], "correctAnswer": "violin" },
+      { "word": "manger", "options": ["manger", "mangger", "mangr"], "correctAnswer": "manger" },
       { "word": "whistle", "options": ["whistle", "whistel", "wistle"], "correctAnswer": "whistle" },
       { "word": "xylophone", "options": ["xylophone", "xilofone", "zylophone"], "correctAnswer": "xylophone" },
       { "word": "yawn", "options": ["yawn", "yaun", "yawnn"], "correctAnswer": "yawn" },
@@ -519,7 +520,7 @@
       { "word": "hammer", "options": ["hammer", "hamer", "hamir"], "correctAnswer": "hammer" },
       { "word": "iceberg", "options": ["iceberg", "iceburg", "icberg"], "correctAnswer": "iceberg" },
       { "word": "jigsaw", "options": ["jigsaw", "jigsow", "jigsa"], "correctAnswer": "jigsaw" },
-      { "word": "kangaroo", "options": ["kangaroo", "kangeroo", "kangaru"], "correctAnswer": "kangaroo" },
+      { "word": "peppermint", "options": ["peppermint", "peppermintt", "pepermint"], "correctAnswer": "peppermint" },
       { "word": "leopard", "options": ["leopard", "leoperd", "leopird"], "correctAnswer": "leopard" },
       { "word": "meadow", "options": ["meadow", "medow", "meedow"], "correctAnswer": "meadow" },
       { "word": "nugget", "options": ["nugget", "nuggette", "nuget"], "correctAnswer": "nugget" },
@@ -531,13 +532,13 @@
     "questions": [
       { "word": "parrot", "options": ["parrot", "parot", "parrott"], "correctAnswer": "parrot" },
       { "word": "quiver", "options": ["quiver", "quivir", "quver"], "correctAnswer": "quiver" },
-      { "word": "rocket", "options": ["rocket", "rokket", "rockit"], "correctAnswer": "rocket" },
+      { "word": "broth", "options": ["broth", "brothh", "brothe"], "correctAnswer": "broth" },
       { "word": "straw", "options": ["straw", "straww", "strawr"], "correctAnswer": "straw" },
       { "word": "telephone", "options": ["telephone", "telephon", "telefhone"], "correctAnswer": "telephone" },
-      { "word": "umbrella", "options": ["umbrella", "umberla", "umbrell"], "correctAnswer": "umbrella" },
+      { "word": "social", "options": ["social", "socail", "soshial"], "correctAnswer": "social" },
       { "word": "vulture", "options": ["vulture", "vultur", "vulter"], "correctAnswer": "vulture" },
       { "word": "window", "options": ["window", "windoe", "windw"], "correctAnswer": "window" },
-      { "word": "xylophone", "options": ["xylophone", "xilophone", "zylophone"], "correctAnswer": "xylophone" },
+      { "word": "behold", "options": ["behold", "beholld", "bhold"], "correctAnswer": "behold" },
       { "word": "yacht", "options": ["yacht", "yatcht", "yact"], "correctAnswer": "yacht" }
     ]
   },
@@ -548,12 +549,12 @@
       { "word": "cradle", "options": ["cradle", "cradel", "cradell"], "correctAnswer": "cradle" },
       { "word": "diamond", "options": ["diamond", "diemond", "diamind"], "correctAnswer": "diamond" },
       { "word": "earth", "options": ["earth", "erth", "earthe"], "correctAnswer": "earth" },
-      { "word": "feather", "options": ["feather", "fether", "fathar"], "correctAnswer": "feather" },
+      { "word": "mix", "options": ["mix", "mixx", "micks"], "correctAnswer": "mix" },
       { "word": "giraffe", "options": ["giraffe", "giraff", "giraf"], "correctAnswer": "giraffe" },
       { "word": "helmet", "options": ["helmet", "helmut", "helmutt"], "correctAnswer": "helmet" },
       { "word": "insect", "options": ["insect", "insekt", "inseect"], "correctAnswer": "insect" },
-      { "word": "jacket", "options": ["jacket", "jackit", "jaket"], "correctAnswer": "jacket" },
-      { "word": "kite", "options": ["kite", "kyte", "kitte"], "correctAnswer": "kite" }
+      { "word": "drool", "options": ["drool", "drol", "drooll"], "correctAnswer": "drool" },
+      { "word": "neon", "options": ["neon", "neonn", "nein"], "correctAnswer": "neon" }
     ]
   },
   {
@@ -561,14 +562,14 @@
     "questions": [
       { "word": "ladder", "options": ["ladder", "lader", "ladderr"], "correctAnswer": "ladder" },
       { "word": "mango", "options": ["mango", "mangoe", "mengo"], "correctAnswer": "mango" },
-      { "word": "notebook", "options": ["notebook", "noteboke", "notbok"], "correctAnswer": "notebook" },
+      { "word": "sweeten", "options": ["sweeten", "sweten", "sweeton"], "correctAnswer": "sweeten" },
       { "word": "orchid", "options": ["orchid", "orkid", "orchide"], "correctAnswer": "orchid" },
       { "word": "puzzle", "options": ["puzzle", "puzel", "puzzl"], "correctAnswer": "puzzle" },
       { "word": "quilt", "options": ["quilt", "quilt", "quilte"], "correctAnswer": "quilt" },
       { "word": "rabbit", "options": ["rabbit", "rabit", "rabbitt"], "correctAnswer": "rabbit" },
       { "word": "spoon", "options": ["spoon", "spune", "spoonn"], "correctAnswer": "spoon" },
       { "word": "tiger", "options": ["tiger", "tigir", "tigerr"], "correctAnswer": "tiger" },
-      { "word": "umbrella", "options": ["umbrella", "umberela", "umbrell"], "correctAnswer": "umbrella" }
+      { "word": "adrift", "options": ["adrift", "adrif", "adrift"], "correctAnswer": "adrift" }
     ]
   },
   {
@@ -581,24 +582,25 @@
       { "word": "fable", "options": ["fable", "fabble", "fabel"], "correctAnswer": "fable" },
       { "word": "gutter", "options": ["gutter", "gutar", "gutterr"], "correctAnswer": "gutter" },
       { "word": "hurdle", "options": ["hurdle", "hurdel", "hurddle"], "correctAnswer": "hurdle" },
-      { "word": "insect", "options": ["insect", "insek", "insekt"], "correctAnswer": "insect" },
-      { "word": "jigsaw", "options": ["jigsaw", "jigsow", "jigsa"], "correctAnswer": "jigsaw" },
-      { "word": "kettle", "options": ["kettle", "ketle", "kettel"], "correctAnswer": "kettle" }
+      { "word": "stubborn", "options": ["stubborn", "stuborn", "stuberon"], "correctAnswer": "stubborn" },
+      { "word": "plumbing", "options": ["plumbing", "pluming", "plummbing"], "correctAnswer": "plumbing" },
+      { "word": "feats", "options": ["feats", "feates", "fets"], "correctAnswer": "feats" }
     ]
   },
   {
     "setNumber": 40,
     "questions": [
-      { "word": "garden", "options": ["garden", "gardin", "gardan"], "correctAnswer": "garden" },
-      { "word": "hammer", "options": ["hammer", "hamer", "hamir"], "correctAnswer": "hammer" },
-      { "word": "iceberg", "options": ["iceberg", "iceburg", "icberg"], "correctAnswer": "iceberg" },
-      { "word": "jigsaw", "options": ["jigsaw", "jigsow", "jigsa"], "correctAnswer": "jigsaw" },
-      { "word": "kangaroo", "options": ["kangaroo", "kangeroo", "kangaru"], "correctAnswer": "kangaroo" },
-      { "word": "leopard", "options": ["leopard", "leoperd", "leopird"], "correctAnswer": "leopard" },
-      { "word": "meadow", "options": ["meadow", "medow", "meedow"], "correctAnswer": "meadow" },
-      { "word": "nugget", "options": ["nugget", "nuggette", "nuget"], "correctAnswer": "nugget" },
-      { "word": "octopus", "options": ["octopus", "octopuss", "octopas"], "correctAnswer": "octopus" },
-      { "word": "parrot", "options": ["parrot", "parot", "parrott"], "correctAnswer": "parrot" }
+      { "word": "proper", "options": ["proper", "propar", "propr"], "correctAnswer": "proper" },
+      { "word": "basement", "options": ["basement", "basemant", "basemant"], "correctAnswer": "basement" },
+      { "word": "ripple", "options": ["ripple", "ripel", "rippel"], "correctAnswer": "ripple" },
+      { "word": "collect", "options": ["collect", "collecct", "collet"], "correctAnswer": "collect" },
+      { "word": "local", "options": ["local", "locall", "lokal"], "correctAnswer": "local" },
+      { "word": "amazed", "options": ["amazed", "amaized", "amzed"], "correctAnswer": "amazed" },
+      { "word": "cooking", "options": ["cooking", "cookin", "cookking"], "correctAnswer": "cooking" },
+      { "word": "hook", "options": ["hook", "houk", "hock"], "correctAnswer": "hook" },
+      { "word": "number", "options": ["number", "nummber", "numbar"], "correctAnswer": "number" },
+      { "word": "understand", "options": ["understand", "understad", "understandd"], "correctAnswer": "understand" }
+
     ]
   },{
     "setNumber": 41,
@@ -609,7 +611,7 @@
       { "word": "easel", "options": ["easel", "easle", "ezel"], "correctAnswer": "easel" },
       { "word": "fence", "options": ["fence", "fense", "fens"], "correctAnswer": "fence" },
       { "word": "goblin", "options": ["goblin", "goblen", "goblan"], "correctAnswer": "goblin" },
-      { "word": "hammer", "options": ["hammer", "hammar", "hammir"], "correctAnswer": "hammer" },
+      { "word": "sound", "options": ["sound", "sund", "soundd"], "correctAnswer": "sound" },
       { "word": "icicle", "options": ["icicle", "icicel", "isicle"], "correctAnswer": "icicle" },
       { "word": "jewel", "options": ["jewel", "jewal", "jewl"], "correctAnswer": "jewel" },
       { "word": "kitten", "options": ["kitten", "kiton", "kittin"], "correctAnswer": "kitten" }
@@ -618,7 +620,7 @@
   {
     "setNumber": 42,
     "questions": [
-      { "word": "ladder", "options": ["ladder", "ladir", "lader"], "correctAnswer": "ladder" },
+      { "word": "benches", "options": ["benches", "bences", "banchs"], "correctAnswer": "benches" },
       { "word": "mosaic", "options": ["mosaic", "mosiac", "mozaic"], "correctAnswer": "mosaic" },
       { "word": "notch", "options": ["notch", "noch", "notche"], "correctAnswer": "notch" },
       { "word": "oasis", "options": ["oasis", "oases", "oasiss"], "correctAnswer": "oasis" },
@@ -637,7 +639,7 @@
       { "word": "whale", "options": ["whale", "wale", "whall"], "correctAnswer": "whale" },
       { "word": "xerox", "options": ["xerox", "zerox", "xarox"], "correctAnswer": "xerox" },
       { "word": "yield", "options": ["yield", "yeld", "yeeld"], "correctAnswer": "yield" },
-      { "word": "zebra", "options": ["zebra", "zibra", "zebrah"], "correctAnswer": "zebra" },
+      { "word": "shrugged", "options": ["shrugged", "shruged", "shruggd"], "correctAnswer": "shrugged" },
       { "word": "acorn", "options": ["acorn", "acorn", "acron"], "correctAnswer": "acorn" },
       { "word": "ballet", "options": ["ballet", "balet", "ballett"], "correctAnswer": "ballet" },
       { "word": "crater", "options": ["crater", "crator", "crater"], "correctAnswer": "crater" },
@@ -652,7 +654,7 @@
       { "word": "gadget", "options": ["gadget", "gadjet", "gaget"], "correctAnswer": "gadget" },
       { "word": "harbor", "options": ["harbor", "harbur", "harber"], "correctAnswer": "harbor" },
       { "word": "inquiry", "options": ["inquiry", "inquerie", "enquiry"], "correctAnswer": "inquiry" },
-      { "word": "jungle", "options": ["jungle", "jungel", "jungal"], "correctAnswer": "jungle" },
+      { "word": "Monday", "options": ["Monday", "Monnday", "Munday"], "correctAnswer": "Monday" },
       { "word": "knight", "options": ["knight", "nite", "knigt"], "correctAnswer": "knight" },
       { "word": "launch", "options": ["launch", "lanch", "launche"], "correctAnswer": "launch" },
       { "word": "matrix", "options": ["matrix", "matrex", "matrics"], "correctAnswer": "matrix" },
@@ -683,11 +685,11 @@
       { "word": "dwarf", "options": ["dwarf", "dworf", "dwarfe"], "correctAnswer": "dwarf" },
       { "word": "emerald", "options": ["emerald", "emereld", "emeralde"], "correctAnswer": "emerald" },
       { "word": "flame", "options": ["flame", "flam", "flaime"], "correctAnswer": "flame" },
-      { "word": "giraffe", "options": ["giraffe", "girafe", "giraff"], "correctAnswer": "giraffe" },
+      { "word": "silly", "options": ["silly", "sillie", "sily"], "correctAnswer": "silly" },
       { "word": "horizon", "options": ["horizon", "horison", "horizen"], "correctAnswer": "horizon" },
       { "word": "isotope", "options": ["isotope", "isotop", "isotoap"], "correctAnswer": "isotope" },
       { "word": "jockey", "options": ["jockey", "jocky", "jockie"], "correctAnswer": "jockey" },
-      { "word": "kettle", "options": ["kettle", "ketle", "kettel"], "correctAnswer": "kettle" }
+      { "word": "never", "options": ["never", "nevar", "neveer"], "correctAnswer": "never" }
     ]
   },
   {
@@ -740,11 +742,11 @@
     "questions": [
       { "word": "reptile", "options": ["reptile", "reptil", "reptill"], "correctAnswer": "reptile" },
       { "word": "saturn", "options": ["saturn", "satern", "saturne"], "correctAnswer": "saturn" },
-      { "word": "talon", "options": ["talon", "tallon", "talone"], "correctAnswer": "talon" },
+      { "word": "filters", "options": ["filters", "fillters", "filtters"], "correctAnswer": "filters" },
       { "word": "upward", "options": ["upward", "upwird", "upword"], "correctAnswer": "upward" },
       { "word": "vacancy", "options": ["vacancy", "vakansey", "vakancy"], "correctAnswer": "vacancy" },
       { "word": "wander", "options": ["wander", "wandar", "wonder"], "correctAnswer": "wander" },
-      { "word": "xenon", "options": ["xenon", "zenon", "xennon"], "correctAnswer": "xenon" },
+      { "word": "cone", "options": ["cone", "coen", "conne"], "correctAnswer": "cone" },
       { "word": "yearn", "options": ["yearn", "yern", "yearne"], "correctAnswer": "yearn" },
       { "word": "zest", "options": ["zest", "zeste", "zestt"], "correctAnswer": "zest" },
       { "word": "abacus", "options": ["abacus", "abacuss", "abbacus"], "correctAnswer": "abacus" }
@@ -759,7 +761,7 @@
         "setNumber": 1,
         "questions": [
           { "word": "bicycle", "options": ["bicycle", "bycycle", "bickel"], "correctAnswer": "bicycle" },
-          { "word": "elephant", "options": ["elephant", "eliphant", "elefent"], "correctAnswer": "elephant" },
+          { "word": "cantaloupe", "options": ["cantaloupe", "cantaloup", "cantalope"], "correctAnswer": "cantaloupe" },
           { "word": "computer", "options": ["computer", "compoter", "compooter"], "correctAnswer": "computer" },
           { "word": "library", "options": ["library", "libary", "librery"], "correctAnswer": "library" },
           { "word": "mountain", "options": ["mountain", "mountin", "mountane"], "correctAnswer": "mountain" },
@@ -790,7 +792,7 @@
         "questions": [
           { "word": "kitchen", "options": ["kitchen", "kithen", "kittchen"], "correctAnswer": "kitchen" },
           { "word": "leopard", "options": ["leopard", "lepard", "leopord"], "correctAnswer": "leopard" },
-          { "word": "mountain", "options": ["mountain", "mountin", "mountane"], "correctAnswer": "mountain" },
+          { "word": "beeswax", "options": ["beeswax", "beeswacks", "beeswac"], "correctAnswer": "beeswax" },
           { "word": "night", "options": ["night", "nigt", "nite"], "correctAnswer": "night" },
           { "word": "ocean", "options": ["ocean", "ocian", "oceon"], "correctAnswer": "ocean" },
           { "word": "peanut", "options": ["peanut", "penut", "peenut"], "correctAnswer": "peanut" },
@@ -810,7 +812,7 @@
           { "word": "yogurt", "options": ["yogurt", "yougurt", "yogert"], "correctAnswer": "yogurt" },
           { "word": "zebra", "options": ["zebra", "zebbra", "zebra"], "correctAnswer": "zebra" },
           { "word": "apple", "options": ["apple", "aple", "appple"], "correctAnswer": "apple" },
-          { "word": "banana", "options": ["banana", "bannana", "bananna"], "correctAnswer": "banana" },
+          { "word": "still", "options": ["still", "stil", "stilll"], "correctAnswer": "still" },
           { "word": "carrot", "options": ["carrot", "carot", "carrrot"], "correctAnswer": "carrot" },
           { "word": "donkey", "options": ["donkey", "donky", "donkay"], "correctAnswer": "donkey" }
         ]
@@ -818,9 +820,9 @@
       {
         "setNumber": 5,
         "questions": [
-          { "word": "elephant", "options": ["elephant", "eliphant", "elefent"], "correctAnswer": "elephant" },
+          { "word": "nectarine", "options": ["nectarine", "nektarine", "necterin"], "correctAnswer": "nectarine" },
           { "word": "fox", "options": ["fox", "focks", "fokes"], "correctAnswer": "fox" },
-          { "word": "guitar", "options": ["guitar", "guiter", "guitor"], "correctAnswer": "guitar" },
+          { "word": "pranks", "options": ["pranks", "prankes", "prankss"], "correctAnswer": "pranks" },
           { "word": "hamburger", "options": ["hamburger", "hamburgher", "hamburgr"], "correctAnswer": "hamburger" },
           { "word": "igloo", "options": ["igloo", "iglu", "igloe"], "correctAnswer": "igloo" },
           { "word": "jacket", "options": ["jacket", "jaket", "jackit"], "correctAnswer": "jacket" },
@@ -829,7 +831,680 @@
           { "word": "monkey", "options": ["monkey", "monky", "monkei"], "correctAnswer": "monkey" },
           { "word": "notebook", "options": ["notebook", "noteebook", "notbok"], "correctAnswer": "notebook" }
         ]
-      }
+      },{
+        "setNumber": 6,
+        "questions": [
+          { "word": "strawberry", "options": ["strawberry", "strawbery", "strawbary"], "correctAnswer": "strawberry" },
+          { "word": "tangerine", "options": ["tangerine", "tangerene", "tangerin"], "correctAnswer": "tangerine" },
+          { "word": "ugli fruit", "options": ["ugli fruit", "ugli frut", "ugly fruit"], "correctAnswer": "ugli fruit" },
+          { "word": "vanilla", "options": ["vanilla", "vanila", "vanlla"], "correctAnswer": "vanilla" },
+          { "word": "watermelon", "options": ["watermelon", "watermellon", "watermellon"], "correctAnswer": "watermelon" },
+          { "word": "xigua", "options": ["xigua", "xigua", "xiguwa"], "correctAnswer": "xigua" },
+          { "word": "yam", "options": ["yam", "yamm", "yaam"], "correctAnswer": "yam" },
+          { "word": "zucchini", "options": ["zucchini", "zucchinni", "zuchini"], "correctAnswer": "zucchini" },
+          { "word": "apricot", "options": ["apricot", "appricot", "apricott"], "correctAnswer": "apricot" },
+          { "word": "blueberry", "options": ["blueberry", "blueberri", "blueberri"], "correctAnswer": "blueberry" }
+        ]
+      },{
+        "setNumber": 7,
+        "questions": [
+          { "word": "appeal", "options": ["apeal", "appeal", "appeall"], "correctAnswer": "appeal" },
+          { "word": "employees", "options": ["emploies", "employees", "employes"], "correctAnswer": "employees" },
+          { "word": "encourage", "options": ["encorage", "encourage", "encurage"], "correctAnswer": "encourage" },
+          { "word": "permanent", "options": ["perminant", "permanent", "permenant"], "correctAnswer": "permanent" },
+          { "word": "mathematically", "options": ["mathematicaly", "mathematically", "mathematicalyy"], "correctAnswer": "mathematically" },
+          { "word": "data", "options": ["dsata", "data", "datta"], "correctAnswer": "data" },
+          { "word": "permanently", "options": ["perminantly", "permanently", "permanantly"], "correctAnswer": "permanently" },
+          { "word": "hierarchal", "options": ["hierachial", "hierarchal", "hierarchical"], "correctAnswer": "hierarchal" },
+          { "word": "proviso", "options": ["provisoe", "proviso", "provisso"], "correctAnswer": "proviso" },
+          { "word": "moving", "options": ["moveing", "moving", "mooving"], "correctAnswer": "moving" }
+        ]
+      },
+      {
+        "setNumber": 8,
+        "questions": [
+          { "word": "allow", "options": ["alow", "allow", "alloww"], "correctAnswer": "allow" },
+          { "word": "credit", "options": ["creadit", "credit", "creddit"], "correctAnswer": "credit" },
+          { "word": "available", "options": ["availble", "available", "availabel"], "correctAnswer": "available" },
+          { "word": "traditionally", "options": ["traditionaly", "traditionally", "traditionnally"], "correctAnswer": "traditionally" },
+          { "word": "adaptable", "options": ["adabtable", "adaptable", "adabtible"], "correctAnswer": "adaptable" },
+          { "word": "later", "options": ["latter", "later", "lattter"], "correctAnswer": "later" },
+          { "word": "graphically", "options": ["graphicaly", "graphically", "graphicallly"], "correctAnswer": "graphically" },
+          { "word": "eventually", "options": ["eventully", "eventually", "eventuallly"], "correctAnswer": "eventually" },
+          { "word": "doubt", "options": ["doupt", "doubt", "dout"], "correctAnswer": "doubt" },
+          { "word": "academically", "options": ["academicly", "academically", "academicallly"], "correctAnswer": "academically" }
+        ]
+      },
+      {
+        "setNumber": 9,
+        "questions": [
+          { "word": "subsequent", "options": ["subsequant", "subsequent", "subsiquent"], "correctAnswer": "subsequent" },
+          { "word": "misleading", "options": ["missleading", "misleading", "missleadingg"], "correctAnswer": "misleading" },
+          { "word": "ordinary", "options": ["ordenary", "ordinary", "ordinnary"], "correctAnswer": "ordinary" },
+          { "word": "associated", "options": ["assosiated", "associated", "associatted"], "correctAnswer": "associated" },
+          { "word": "voluntary", "options": ["volantary", "voluntary", "voluntarry"], "correctAnswer": "voluntary" },
+          { "word": "enormously", "options": ["enomosly", "enormously", "enormosly"], "correctAnswer": "enormously" },
+          { "word": "table", "options": ["tasble", "table", "tablle"], "correctAnswer": "table" },
+          { "word": "useful", "options": ["usful", "useful", "usefull"], "correctAnswer": "useful" },
+          { "word": "thermawear", "options": ["thermawere", "thermawear", "thermawhere"], "correctAnswer": "thermawear" },
+          { "word": "pleasant", "options": ["plesent", "pleasant", "pleassant"], "correctAnswer": "pleasant" }
+        ]
+      },
+      {
+        "setNumber": 10,
+        "questions": [
+          { "word": "between", "options": ["beeteen", "between", "beetwen"], "correctAnswer": "between" },
+          { "word": "appreciation", "options": ["apreciation", "appreciation", "appreciaation"], "correctAnswer": "appreciation" },
+          { "word": "accept", "options": ["acept", "accept", "acceept"], "correctAnswer": "accept" },
+          { "word": "suffering", "options": ["suufering", "suffering", "sufferring"], "correctAnswer": "suffering" },
+          { "word": "comparison", "options": ["comparrison", "comparison", "comparisson"], "correctAnswer": "comparison" },
+          { "word": "majority", "options": ["majorty", "majority", "majoritty"], "correctAnswer": "majority" },
+          { "word": "smiled", "options": ["smiled", "smild", "smilled"], "correctAnswer": "smiled" },
+          { "word": "discipline", "options": ["disiplin", "discipline", "dicipline"], "correctAnswer": "discipline" },
+          { "word": "arrangement", "options": ["arrangment", "arrangement", "arrangemment"], "correctAnswer": "arrangement" },
+          { "word": "prepared", "options": ["prepaired", "prepared", "preparedd"], "correctAnswer": "prepared" }
+        ]
+      },
+      {
+        "setNumber": 11,
+        "questions": [
+          { "word": "sufficient", "options": ["suficient", "sufficient", "sufficeint"], "correctAnswer": "sufficient" },
+          { "word": "weighted", "options": ["wagted", "weighted", "weightted"], "correctAnswer": "weighted" },
+          { "word": "orientated", "options": ["orentated", "orientated", "orintated"], "correctAnswer": "orientated" },
+          { "word": "input", "options": ["inut", "input", "innput"], "correctAnswer": "input" },
+          { "word": "pivoting", "options": ["pivting", "pivoting", "pivotting"], "correctAnswer": "pivoting" },
+          { "word": "profit", "options": ["proffit", "profit", "proffitt"], "correctAnswer": "profit" },
+          { "word": "agencies", "options": ["agences", "agencies", "agencys"], "correctAnswer": "agencies" },
+          { "word": "accumulated", "options": ["acumulated", "accumulated", "accummulated"], "correctAnswer": "accumulated" },
+          { "word": "manually", "options": ["manualy", "manually", "manuallly"], "correctAnswer": "manually" },
+          { "word": "representative", "options": ["representitive", "representative", "reprentative"], "correctAnswer": "representative" }
+        ]
+      },
+      {
+        "setNumber": 12,
+        "questions": [
+          { "word": "employed", "options": ["emploied", "employed", "employeed"], "correctAnswer": "employed" },
+          { "word": "continued", "options": ["contuned", "continued", "continnued"], "correctAnswer": "continued" },
+          { "word": "dragged", "options": ["draged", "dragged", "draggd"], "correctAnswer": "dragged" },
+          { "word": "unresolved", "options": ["unresloved", "unresolved", "unresolvved"], "correctAnswer": "unresolved" },
+          { "word": "compared", "options": ["comppared", "compared", "compased"], "correctAnswer": "compared" },
+          { "word": "now", "options": ["noe", "now", "noww"], "correctAnswer": "now" },
+          { "word": "announcing", "options": ["anouncing", "announcing", "announceing"], "correctAnswer": "announcing" },
+          { "word": "unequalled", "options": ["unequaled", "unequalled", "unequalledd"], "correctAnswer": "unequalled" },
+          { "word": "currently", "options": ["curruntly", "currently", "currenttly"], "correctAnswer": "currently" },
+          { "word": "titles", "options": ["tittles", "titles", "tittlles"], "correctAnswer": "titles" }
+        ]
+      },
+      {
+        "setNumber": 13,
+        "questions": [
+          { "word": "reaching", "options": ["reching", "reaching", "reachhing"], "correctAnswer": "reaching" },
+          { "word": "approached", "options": ["aproached", "approached", "approachhed"], "correctAnswer": "approached" },
+          { "word": "suggestion", "options": ["sugestion", "suggestion", "suggetion"], "correctAnswer": "suggestion" },
+          { "word": "availability", "options": ["avaiblity", "availability", "availlability"], "correctAnswer": "availability" },
+          { "word": "dissension", "options": ["desention", "dissension", "dissenttion"], "correctAnswer": "dissension" },
+          { "word": "cancellation", "options": ["cancelation", "cancellation", "cancelltion"], "correctAnswer": "cancellation" },
+          { "word": "transactions", "options": ["trasactions", "transactions", "transactionns"], "correctAnswer": "transactions" },
+          { "word": "believe", "options": ["belive", "believe", "believee"], "correctAnswer": "believe" },
+          { "word": "operations", "options": ["operatins", "operations", "operattions"], "correctAnswer": "operations" },
+          { "word": "resulting", "options": ["reulting", "resulting", "resullting"], "correctAnswer": "resulting" }
+        ]
+      },
+      {
+        "setNumber": 14,
+        "questions": [
+          { "word": "decides", "options": ["descides", "decides", "deciides"], "correctAnswer": "decides" },
+          { "word": "peach", "options": ["peach", "pech", "peachh"], "correctAnswer": "peach" },
+          { "word": "gradual", "options": ["gradual", "gradule", "gradul"], "correctAnswer": "gradual" },
+          { "word": "ferocious", "options": ["ferocious", "fercious", "feroscious"], "correctAnswer": "ferocious" },
+        { "word": "frequently", "options": ["frequently", "frequentlly", "frequantly"], "correctAnswer": "frequently" },
+        { "word": "permission", "options": ["permission", "permisssion", "permissin"], "correctAnswer": "permission" },
+        { "word": "towel", "options": ["towel", "towell", "towl"], "correctAnswer": "towel" },
+        { "word": "sundae", "options": ["sundae", "sundea", "sunda"], "correctAnswer": "sundae" },
+        { "word": "ornament", "options": ["ornament", "ornamnt", "ornamnet"], "correctAnswer": "ornament" },
+        { "word": "rooster", "options": ["rooster", "roster", "roostter"], "correctAnswer": "rooster" }
+        ]
+      },
+      {
+        "setNumber": 15,
+        "questions": [
+
+        { "word": "scold", "options": ["scold", "scoold", "scald"], "correctAnswer": "scold" },
+        { "word": "organza", "options": ["organza", "organsa", "organzaa"], "correctAnswer": "organza" },
+        { "word": "fragile", "options": ["fragile", "fragil", "frajile"], "correctAnswer": "fragile" },
+        { "word": "galaxy", "options": ["galaxy", "galaxi", "galxy"], "correctAnswer": "galaxy" },
+        { "word": "complaint", "options": ["complaint", "complent", "complaintt"], "correctAnswer": "complaint" },
+        { "word": "curries", "options": ["curries", "curies", "curreis"], "correctAnswer": "curries" },
+        { "word": "tennis", "options": ["tennis", "teniss", "tenniss"], "correctAnswer": "tennis" },
+        { "word": "grumbling", "options": ["grumbling", "grumblng", "grumblling"], "correctAnswer": "grumbling" },
+        { "word": "garlic", "options": ["garlic", "garlick", "garlik"], "correctAnswer": "garlic" },
+        { "word": "hula", "options": ["hula", "hulah", "hulla"], "correctAnswer": "hula" }
+       
+
+        ]
+      },
+      {
+        "setNumber": 16,
+        "questions": [
+          { "word": "muscular", "options": ["muscular", "musculer", "muscalur"], "correctAnswer": "muscular" },
+          { "word": "drizzle", "options": ["drizzle", "drizel", "drissle"], "correctAnswer": "drizzle" },
+        { "word": "accurate", "options": ["accurate", "acurate", "accurat"], "correctAnswer": "accurate" },
+        { "word": "studio", "options": ["studio", "studios", "studyo"], "correctAnswer": "studio" },
+        { "word": "illusionist", "options": ["illusionist", "ilusionist", "illusonist"], "correctAnswer": "illusionist" },
+        { "word": "genetic", "options": ["genetic", "genitic", "genetick"], "correctAnswer": "genetic" },
+        { "word": "levity", "options": ["levity", "levety", "levaty"], "correctAnswer": "levity" },
+        { "word": "moisture", "options": ["moisture", "moisturre", "moistrue"], "correctAnswer": "moisture" },
+        { "word": "toughness", "options": ["toughness", "tufness", "toughnes"], "correctAnswer": "toughness" },
+        { "word": "tasteless", "options": ["tasteless", "tasetless", "tasteles"], "correctAnswer": "tasteless" }
+      ]
+      }, {
+        "setNumber": 17,
+        "questions": [
+          { "word": "astute", "options": ["astute", "astut", "astutte"], "correctAnswer": "astute" },
+          { "word": "turtle", "options": ["turtle", "turlte", "turrtle"], "correctAnswer": "turtle" },
+          { "word": "Pinkerton", "options": ["Pinkerton", "Pinkeron", "Pinkertun"], "correctAnswer": "Pinkerton" },
+          { "word": "fortune", "options": ["fortune", "fourtene", "fortun"], "correctAnswer": "fortune" },
+          { "word": "sluggard", "options": ["sluggard", "slugard", "sluggerd"], "correctAnswer": "sluggard" },
+          { "word": "bedlam", "options": ["bedlam", "bedlom", "bedlem"], "correctAnswer": "bedlam" },
+        { "word": "shortfall", "options": ["shortfall", "shortfal", "shortfawl"], "correctAnswer": "shortfall" },
+        { "word": "cowlick", "options": ["cowlick", "cowlack", "cowlik"], "correctAnswer": "cowlick" },
+        { "word": "opinionated", "options": ["opinionated", "opinated", "opinioneted"], "correctAnswer": "opinionated" },
+        { "word": "slogan", "options": ["slogan", "slogon", "slogun"], "correctAnswer": "slogan" }
+        ]
+      },
+      {
+        "setNumber": 18,
+        "questions": [
+          { "word": "triumphant", "options": ["triumphant", "triumpant", "triumphantt"], "correctAnswer": "triumphant" },
+        { "word": "parenthetic", "options": ["parenthetic", "parenthethic", "parentheticc"], "correctAnswer": "parenthetic" },
+        { "word": "listener", "options": ["listener", "listner", "lissener"], "correctAnswer": "listener" },
+        { "word": "guardian", "options": ["guardian", "gardian", "guradian"], "correctAnswer": "guardian" },
+        { "word": "dwindled", "options": ["dwindled", "dwindeled", "dwindld"], "correctAnswer": "dwindled" },
+        { "word": "fraught", "options": ["fraught", "frought", "fraughtt"], "correctAnswer": "fraught" },
+        { "word": "sturdy", "options": ["sturdy", "sturddy", "sturty"], "correctAnswer": "sturdy" },
+        { "word": "treadmill", "options": ["treadmill", "treadmil", "treadmll"], "correctAnswer": "treadmill" },
+        { "word": "originate", "options": ["originate", "originat", "orignate"], "correctAnswer": "originate" },
+        { "word": "forfend", "options": ["forfend", "forefend", "forfnd"], "correctAnswer": "forfend" }
+        ]
+      },
+      {
+        "setNumber": 19,
+        "questions": [
+         
+        { "word": "January", "options": ["January", "Januery", "Januarry"], "correctAnswer": "January" },
+        { "word": "scruple", "options": ["scruple", "scrupple", "scruplee"], "correctAnswer": "scruple" },
+        { "word": "moxie", "options": ["moxie", "moxi", "moxee"], "correctAnswer": "moxie" },
+        { "word": "winnow", "options": ["winnow", "winow", "winnowe"], "correctAnswer": "winnow" },
+        { "word": "incentive", "options": ["incentive", "incentiv", "incetive"], "correctAnswer": "incentive" },
+        { "word": "admirer", "options": ["admirer", "admiror", "admiror"], "correctAnswer": "admirer" },
+        { "word": "emotional", "options": ["emotional", "emotinol", "emotionel"], "correctAnswer": "emotional" },
+        { "word": "chia", "options": ["chia", "chiah", "chiaa"], "correctAnswer": "chia" },
+        { "word": "raspberry", "options": ["raspberry", "rasberry", "rasbery"], "correctAnswer": "raspberry" },
+        { "word": "bogus", "options": ["bogus", "bogous", "boggus"], "correctAnswer": "bogus" }
+        ]
+      },
+      {
+        "setNumber": 20,
+        "questions": [
+          { "word": "reactionary", "options": ["reactionary", "reacshionary", "reactionery"], "correctAnswer": "reactionary" },
+          { "word": "bookworm", "options": ["bookworm", "bokworm", "bookwurm"], "correctAnswer": "bookworm" },
+        { "word": "veteran", "options": ["veteran", "vetran", "veterran"], "correctAnswer": "veteran" },
+        { "word": "erase", "options": ["erase", "erease", "arase"], "correctAnswer": "erase" },
+        { "word": "handcuffs", "options": ["handcuffs", "handcufs", "handcuff"], "correctAnswer": "handcuffs" },
+        { "word": "spinal", "options": ["spinal", "spinall", "spynal"], "correctAnswer": "spinal" },
+        { "word": "demolition", "options": ["demolition", "demoliton", "demolision"], "correctAnswer": "demolition" },
+        { "word": "salsa", "options": ["salsa", "salza", "salsa"], "correctAnswer": "salsa" },
+        { "word": "chaotic", "options": ["chaotic", "chaotik", "chaotic"], "correctAnswer": "chaotic" },
+          { "word": "gargantuan", "options": ["gargantuan", "gargantuon", "gargantuan"], "correctAnswer": "gargantuan" }
+        ]
+      },
+      {
+        "setNumber": 21,
+        "questions": [
+          { "word": "shrimp", "options": ["shrimp", "shrmp", "shrimp"], "correctAnswer": "shrimp" },
+          { "word": "mandate", "options": ["mandate", "mandat", "mandate"], "correctAnswer": "mandate" },
+          { "word": "unequivocally", "options": ["unequivocaly", "unequivocally", "unequivocly"], "correctAnswer": "unequivocally" },
+          { "word": "minutes", "options": ["muinutes", "minutes", "minuts"], "correctAnswer": "minutes" },
+          { "word": "understandable", "options": ["understadable", "understandable", "understandible"], "correctAnswer": "understandable" },
+          { "word": "dependence", "options": ["dependance", "dependence", "dependense"], "correctAnswer": "dependence" },
+          { "word": "supposedly", "options": ["supposidly", "supposedly", "supposedlly"], "correctAnswer": "supposedly" },
+          { "word": "subtract", "options": ["subtrcat", "subtract", "substract"], "correctAnswer": "subtract" },
+          { "word": "sheets", "options": ["sheertes", "sheets", "sheetts"], "correctAnswer": "sheets" },
+          { "word": "consist", "options": ["consisit", "consist", "consisst"], "correctAnswer": "consist" }
+        ]
+      },
+      {
+        "setNumber": 22,
+        "questions": [
+          { "word": "immediately", "options": ["imidatly", "immediately", "immediatly"], "correctAnswer": "immediately" },
+          { "word": "exponentially", "options": ["exponentualy", "exponentially", "exponenially"], "correctAnswer": "exponentially" },
+          { "word": "overall", "options": ["overal", "overall", "overral"], "correctAnswer": "overall" },
+          { "word": "indeed", "options": ["indead", "indeed", "indded"], "correctAnswer": "indeed" },
+          { "word": "separated", "options": ["seperated", "separated", "separeted"], "correctAnswer": "separated" },
+          { "word": "length", "options": ["lengh", "length", "lenght"], "correctAnswer": "length" },
+          { "word": "families", "options": ["familys", "families", "famileis"], "correctAnswer": "families" },
+          { "word": "necessitates", "options": ["nessisitates", "necessitates", "neccessitates"], "correctAnswer": "necessitates" },
+          { "word": "described", "options": ["discribed", "described", "describd"], "correctAnswer": "described" },
+          { "word": "primarily", "options": ["pimarily", "primarily", "primarilly"], "correctAnswer": "primarily" }
+        ]
+      },
+      {
+        "setNumber": 23,
+        "questions": [
+          { "word": "suggested", "options": ["sugested", "suggested", "suggestted"], "correctAnswer": "suggested" },
+          { "word": "possibilities", "options": ["possablities", "possibilities", "possibilites"], "correctAnswer": "possibilities" },
+          { "word": "turret", "options": ["turret", "turret", "turrit"], "correctAnswer": "turret" },
+          { "word": "universally", "options": ["universaly", "universally", "universlly"], "correctAnswer": "universally" },
+          { "word": "academic", "options": ["acedemic", "academic", "academmic"], "correctAnswer": "academic" },
+          { "word": "calculate", "options": ["calculat", "calculate", "caculate"], "correctAnswer": "calculate" },
+          { "word": "convenient", "options": ["convienient", "convenient", "conveinent"], "correctAnswer": "convenient" },
+          { "word": "demonstrate", "options": ["demonstrat", "demonstrate", "demostrte"], "correctAnswer": "demonstrate" },
+          { "word": "environment", "options": ["enviroment", "environment", "envirronment"], "correctAnswer": "environment" },
+          { "word": "evaluate", "options": ["evalute", "evaluate", "evaluat"], "correctAnswer": "evaluate" }
+        ]
+      },
+      {
+        "setNumber": 24,
+        "questions": [
+          { "word": "experiment", "options": ["expreiment", "experiment", "experimment"], "correctAnswer": "experiment" },
+          { "word": "formula", "options": ["formulla", "formula", "formla"], "correctAnswer": "formula" },
+          { "word": "generate", "options": ["genrate", "generate", "generatte"], "correctAnswer": "generate" },
+          { "word": "hypothesis", "options": ["hypothesis", "hypothisis", "hypotheseis"], "correctAnswer": "hypothesis" },
+          { "word": "illustrate", "options": ["illustrat", "illustrate", "illustrete"], "correctAnswer": "illustrate" },
+          { "word": "interpret", "options": ["intrepret", "interpret", "interprate"], "correctAnswer": "interpret" },
+          { "word": "involve", "options": ["envolve", "involve", "invovle"], "correctAnswer": "involve" },
+          { "word": "logical", "options": ["logicle", "logical", "logial"], "correctAnswer": "logical" },
+          { "word": "mathematics", "options": ["mathamatics", "mathematics", "mathemattics"], "correctAnswer": "mathematics" },
+          { "word": "method", "options": ["mthod", "method", "methd"], "correctAnswer": "method" }
+        ]
+      },
+      {
+        "setNumber": 25,
+        "questions": [
+          { "word": "observe", "options": ["obserrve", "observe", "obserb"], "correctAnswer": "observe" },
+          { "word": "operation", "options": ["operattion", "operation", "operration"], "correctAnswer": "operation" },
+          { "word": "organize", "options": ["organise", "organize", "orgenize"], "correctAnswer": "organize" },
+          { "word": "parameter", "options": ["parrameter", "parameter", "parametor"], "correctAnswer": "parameter" },
+          { "word": "phenomenon", "options": ["phenominon", "phenomenon", "phenomenan"], "correctAnswer": "phenomenon" },
+          { "word": "predict", "options": ["preddict", "predict", "predect"], "correctAnswer": "predict" },
+          { "word": "process", "options": ["prosess", "process", "proccess"], "correctAnswer": "process" },
+          { "word": "random", "options": ["randum", "random", "randdom"], "correctAnswer": "random" },
+          { "word": "recognize", "options": ["recognise", "recognize", "recoggnize"], "correctAnswer": "recognize" },
+          { "word": "represent", "options": ["represnt", "represent", "represennt"], "correctAnswer": "represent" }
+        ]
+      },
+      {
+        "setNumber": 26,
+        "questions": [
+          { "word": "research", "options": ["reseach", "research", "reseerch"], "correctAnswer": "research" },
+          { "word": "simulate", "options": ["simullate", "simulate", "simulete"], "correctAnswer": "simulate" },
+          { "word": "strategy", "options": ["stratgy", "strategy", "strategey"], "correctAnswer": "strategy" },
+          { "word": "structure", "options": ["struture", "structure", "structurre"], "correctAnswer": "structure" },
+          { "word": "pigeon", "options": ["pigeon", "pigon", "pigeon"], "correctAnswer": "pigeon" },
+          { "word": "summarize", "options": ["sumarize", "summarize", "sumarrize"], "correctAnswer": "summarize" },
+          { "word": "theory", "options": ["theorry", "theory", "theary"], "correctAnswer": "theory" },
+          { "word": "variable", "options": ["variabel", "variable", "varable"], "correctAnswer": "variable" },
+          { "word": "verify", "options": ["verefy", "verify", "veriffy"], "correctAnswer": "verify" },
+          { "word": "visualize", "options": ["visualise", "visualize", "visuallize"], "correctAnswer": "visualize" }
+        ]
+      },{
+        "setNumber": 27,
+        "questions": [
+          { "word": "declarations", "options": ["declaratrions", "declarations", "declaratoins"], "correctAnswer": "declarations" },
+          { "word": "supervision", "options": ["supervison", "supervision", "supervisian"], "correctAnswer": "supervision" },
+          { "word": "questionnaire", "options": ["questionare", "questionnaire", "questionnairre"], "correctAnswer": "questionnaire" },
+          { "word": "develop", "options": ["develope", "develop", "devlop"], "correctAnswer": "develop" },
+          { "word": "unavailable", "options": ["unavailble", "unavailable", "unavaillable"], "correctAnswer": "unavailable" },
+          { "word": "appointments", "options": ["apointments", "appointments", "appointmants"], "correctAnswer": "appointments" },
+          { "word": "satellite", "options": ["satellite", "satelite", "satellite"], "correctAnswer": "satellite" },
+          { "word": "repetitive", "options": ["repetative", "repetitive", "reppetitive"], "correctAnswer": "repetitive" },
+          { "word": "equalled", "options": ["equaled", "equalled", "equallled"], "correctAnswer": "equalled" },
+          { "word": "bonus", "options": ["bonas", "bonus", "bonnus"], "correctAnswer": "bonus" }
+        ]
+      },
+      {
+        "setNumber": 28,
+        "questions": [
+          { "word": "demands", "options": ["diemands", "demands", "demans"], "correctAnswer": "demands" },
+          { "word": "scrutinized", "options": ["scrutiniesed", "scrutinized", "scrutenized"], "correctAnswer": "scrutinized" },
+          { "word": "recently", "options": ["reciently", "recently", "recenntly"], "correctAnswer": "recently" },
+          { "word": "clerk", "options": ["cleark", "clerk", "clerck"], "correctAnswer": "clerk" },
+          { "word": "adequate", "options": ["adiquate", "adequate", "adequatte"], "correctAnswer": "adequate" },
+          { "word": "feeling", "options": ["fealing", "feeling", "feleing"], "correctAnswer": "feeling" },
+          { "word": "familiar", "options": ["familer", "familiar", "familliar"], "correctAnswer": "familiar" },
+          { "word": "accepted", "options": ["acepted", "accepted", "accepeted"], "correctAnswer": "accepted" },
+          { "word": "assessing", "options": ["accesing", "assessing", "assessingg"], "correctAnswer": "assessing" },
+          { "word": "separation", "options": ["seperation", "separation", "seperration"], "correctAnswer": "separation" }
+        ]
+      },
+      {
+        "setNumber": 29,
+        "questions": [
+          { "word": "inquiries", "options": ["equiries", "inquiries", "inquiaries"], "correctAnswer": "inquiries" },
+          { "word": "receiving", "options": ["recieving", "receiving", "reciving"], "correctAnswer": "receiving" },
+          { "word": "procedure", "options": ["proceduer", "procedure", "proceddure"], "correctAnswer": "procedure" },
+          { "word": "conceived", "options": ["concieved", "conceived", "conceaved"], "correctAnswer": "conceived" },
+          { "word": "generated", "options": ["generataed", "generated", "genarated"], "correctAnswer": "generated" },
+          { "word": "flexible", "options": ["flexable", "flexible", "flexibel"], "correctAnswer": "flexible" },
+          { "word": "analysis", "options": ["analiss", "analysis", "analisis"], "correctAnswer": "analysis" },
+          { "word": "particularly", "options": ["particulary", "particularly", "particularlly"], "correctAnswer": "particularly" },
+          { "word": "routine", "options": ["rouint", "routine", "routinne"], "correctAnswer": "routine" },
+          { "word": "nature", "options": ["natior", "nature", "natuer"], "correctAnswer": "nature" }
+        ]
+      },
+      {
+        "setNumber": 30,
+        "questions": [
+          { "word": "gaining", "options": ["ganing", "gaining", "gainning"], "correctAnswer": "gaining" },
+          { "word": "geneva", "options": ["geniva", "geneva", "genava"], "correctAnswer": "geneva" },
+          { "word": "interesting", "options": ["intresting", "interesting", "interestting"], "correctAnswer": "interesting" },
+          { "word": "surroundings", "options": ["suroundings", "surroundings", "seroundings"], "correctAnswer": "surroundings" },
+          { "word": "opportunity", "options": ["oppertunity", "opportunity", "opperttunity"], "correctAnswer": "opportunity" },
+          { "word": "functionally", "options": ["functionaly", "functionally", "funtionally"], "correctAnswer": "functionally" },
+          { "word": "together", "options": ["togehter", "together", "toegther"], "correctAnswer": "together" },
+          { "word": "approach", "options": ["aproach", "approach", "approacch"], "correctAnswer": "approach" },
+          { "word": "scheme", "options": ["scheem", "scheme", "schemme"], "correctAnswer": "scheme" },
+          { "word": "occurred", "options": ["occureed", "occurred", "ocurred"], "correctAnswer": "occurred" }
+        ]
+      },
+      {
+        "setNumber": 31,
+        "questions": [
+          { "word": "profession", "options": ["preffeson", "profession", "profesion"], "correctAnswer": "profession" },
+          { "word": "recommend", "options": ["recomend", "recommend", "recommnd"], "correctAnswer": "recommend" },
+          { "word": "examine", "options": ["examin", "examine", "examene"], "correctAnswer": "examine" },
+          { "word": "there", "options": ["thear", "there", "therre"], "correctAnswer": "there" },
+          { "word": "readjusted", "options": ["reajusted", "readjusted", "readjustted"], "correctAnswer": "readjusted" },
+          { "word": "build", "options": ["biuld", "build", "builld"], "correctAnswer": "build" },
+          { "word": "organization", "options": ["oranisation", "organization", "oragnisation"], "correctAnswer": "organization" },
+          { "word": "university", "options": ["unversity", "university", "univeristy"], "correctAnswer": "university" },
+          { "word": "utilized", "options": ["utalised", "utilized", "utilizd"], "correctAnswer": "utilized" },
+          { "word": "obtaining", "options": ["optaning", "obtaining", "obtaning"], "correctAnswer": "obtaining" }
+        ]
+      },
+      {
+        "setNumber": 32,
+        "questions": [
+          { "word": "commercial", "options": ["comersial", "commercial", "commersial"], "correctAnswer": "commercial" },
+          { "word": "embellishing", "options": ["embelishing", "embellishing", "embellihing"], "correctAnswer": "embellishing" },
+          { "word": "description", "options": ["desription", "description", "descvription"], "correctAnswer": "description" },
+          { "word": "edition", "options": ["ediion", "edition", "ediition"], "correctAnswer": "edition" },
+          { "word": "forbidden", "options": ["forbiden", "forbidden", "forbiddan"], "correctAnswer": "forbidden" },
+          { "word": "applicable", "options": ["aplicable", "applicable", "aplicabble"], "correctAnswer": "applicable" },
+          { "word": "committee", "options": ["committe", "committee", "committe"], "correctAnswer": "committee" },
+          { "word": "search", "options": ["serch", "search", "searchh"], "correctAnswer": "search" },
+          { "word": "necessity", "options": ["nessesity", "necessity", "nesesity"], "correctAnswer": "necessity" },
+          { "word": "similar", "options": ["simular", "similar", "simillar"], "correctAnswer": "similar" }
+        ]
+      },
+      {
+        "setNumber": 33,
+        "questions": [
+          { "word": "luckily", "options": ["luckeley", "luckily", "luckilly"], "correctAnswer": "luckily" },
+          { "word": "econometric", "options": ["economtric", "econometric", "econommetrik"], "correctAnswer": "econometric" },
+          { "word": "again", "options": ["agiin", "again", "againn"], "correctAnswer": "again" },
+          { "word": "patterns", "options": ["pattarns", "patterns", "patternns"], "correctAnswer": "patterns" },
+          { "word": "analysing", "options": ["aalysing", "analysing", "analizing"], "correctAnswer": "analysing" },
+          { "word": "variety", "options": ["variatry", "variety", "varity"], "correctAnswer": "variety" },
+          { "word": "widely", "options": ["widly", "widely", "wideley"], "correctAnswer": "widely" },
+          { "word": "arrangements", "options": ["araingements", "arrangements", "arangements"], "correctAnswer": "arrangements" },
+          { "word": "challenge", "options": ["chalange", "challenge", "challange"], "correctAnswer": "challenge" },
+          { "word": "fourth", "options": ["forth", "fourth", "fourthe"], "correctAnswer": "fourth" }
+        ]
+      },
+      {
+        "setNumber": 34,
+        "questions": [
+          { "word": "accounts", "options": ["acounts", "accounts", "accountss"], "correctAnswer": "accounts" },
+          { "word": "politics", "options": ["polatics", "politics", "polaticks"], "correctAnswer": "politics" },
+          { "word": "decision", "options": ["descisions", "decision", "desision"], "correctAnswer": "decision" },
+          { "word": "sense", "options": ["sence", "sense", "sensse"], "correctAnswer": "sense" },
+          { "word": "beneficial", "options": ["benificial", "beneficial", "beneficcal"], "correctAnswer": "beneficial" },
+          { "word": "arguing", "options": ["aurguing", "arguing", "arging"], "correctAnswer": "arguing" },
+          { "word": "continually", "options": ["contually", "continually", "continnually"], "correctAnswer": "continually" },
+          { "word": "acquaintances", "options": ["aquantences", "acquaintances", "aquaintences"], "correctAnswer": "acquaintances" },
+          { "word": "extremely", "options": ["extreemly", "extremely", "extremly"], "correctAnswer": "extremely" },
+          { "word": "excessively", "options": ["exessively", "excessively", "excesively"], "correctAnswer": "excessively" }
+        ]
+      },
+      {
+        "setNumber": 35,
+        "questions": [
+          { "word": "composed", "options": ["compossed", "composed", "compossedd"], "correctAnswer": "composed" },
+          { "word": "seen", "options": ["seeen", "seen", "sen"], "correctAnswer": "seen" },
+          { "word": "nationally", "options": ["nationaly", "nationally", "nationaley"], "correctAnswer": "nationally" },
+          { "word": "source", "options": ["sorce", "source", "soorce"], "correctAnswer": "source" },
+          { "word": "months", "options": ["monthes", "months", "monnths"], "correctAnswer": "months" },
+          { "word": "progresses", "options": ["progressess", "progresses", "progreses"], "correctAnswer": "progresses" },
+          { "word": "were", "options": ["wer", "were", "where"], "correctAnswer": "were" },
+          { "word": "brief", "options": ["brif", "brief", "breef"], "correctAnswer": "brief" },
+          { "word": "matrix", "options": ["matriiix", "matrix", "matirx"], "correctAnswer": "matrix" },
+          { "word": "visitor", "options": ["vistor", "visitor", "visotor"], "correctAnswer": "visitor" }
+        ]
+      },
+      {
+        "setNumber": 36,
+        "questions": [
+          { "word": "adequately", "options": ["adequattly", "adequately", "adequatly"], "correctAnswer": "adequately" },
+          { "word": "security", "options": ["seurity", "security", "securrity"], "correctAnswer": "security" },
+          { "word": "successive", "options": ["sucsesive", "successive", "sucessive"], "correctAnswer": "successive" },
+          { "word": "consisting", "options": ["consisiting", "consisting", "consiisting"], "correctAnswer": "consisting" },
+          { "word": "per", "options": ["pere", "per", "pehr"], "correctAnswer": "per" },
+          { "word": "commit", "options": ["comit", "commit", "committ"], "correctAnswer": "commit" },
+          { "word": "except", "options": ["excxept", "except", "execpt"], "correctAnswer": "except" },
+          { "word": "conversely", "options": ["conversly", "conversely", "converselly"], "correctAnswer": "conversely" },
+          { "word": "decisions", "options": ["deciscions", "decisions", "descisions"], "correctAnswer": "decisions" },
+          { "word": "union", "options": ["unioun", "union", "unionn"], "correctAnswer": "union" }
+        ]
+      },
+      {
+        "setNumber": 37,
+        "questions": [
+          { "word": "when", "options": ["whn", "when", "whenn"], "correctAnswer": "when" },
+          { "word": "shown", "options": ["hown", "shown", "shon"], "correctAnswer": "shown" },
+          { "word": "will", "options": ["wil", "will", "wiil"], "correctAnswer": "will" },
+          { "word": "suited", "options": ["suted", "suited", "suitded"], "correctAnswer": "suited" },
+          { "word": "necessary", "options": ["necasery", "necessary", "nessasary"], "correctAnswer": "necessary" },
+          { "word": "essential", "options": ["esential", "essential", "esssential"], "correctAnswer": "essential" },
+          { "word": "government", "options": ["goverment", "government", "govermment"], "correctAnswer": "government" },
+          { "word": "unnecessary", "options": ["unessessay", "unnecessary", "unnesessary"], "correctAnswer": "unnecessary" },
+          { "word": "disaggregate", "options": ["disaggreagte", "disaggregate", "disaggrogate"], "correctAnswer": "disaggregate" },
+          { "word": "arguments", "options": ["aurgument", "arguments", "argumants"], "correctAnswer": "arguments" }
+        ]
+      },{
+        "setNumber": 38,
+        "questions": [
+          { "word": "are", "options": ["arte", "are", "ar"], "correctAnswer": "are" },
+          { "word": "many", "options": ["mony", "many", "maney"], "correctAnswer": "many" },
+          { "word": "surveying", "options": ["servaying", "surveying", "survaying"], "correctAnswer": "surveying" },
+          { "word": "provide", "options": ["provid", "provide", "proviide"], "correctAnswer": "provide" },
+          { "word": "within", "options": ["withing", "within", "wihtin"], "correctAnswer": "within" },
+          { "word": "session", "options": ["sesion", "session", "sesson"], "correctAnswer": "session" },
+          { "word": "false", "options": ["faulse", "false", "fals"], "correctAnswer": "false" },
+          { "word": "annual", "options": ["anual", "annual", "annul"], "correctAnswer": "annual" },
+          { "word": "summarys", "options": ["sumarys", "summarys", "summaries"], "correctAnswer": "summaries" },
+          { "word": "reference", "options": ["refereence", "reference", "refference"], "correctAnswer": "reference" }
+        ]
+      },
+      {
+        "setNumber": 39,
+        "questions": [
+          { "word": "employment", "options": ["empolyment", "employment", "employement"], "correctAnswer": "employment" },
+          { "word": "set", "options": ["et", "set", "sset"], "correctAnswer": "set" },
+          { "word": "particular", "options": ["paerticulaur", "particular", "particulur"], "correctAnswer": "particular" },
+          { "word": "surrounding", "options": ["serounding", "surrounding", "surounding"], "correctAnswer": "surrounding" },
+          { "word": "choose", "options": ["chose", "choose", "choos"], "correctAnswer": "choose" },
+          { "word": "journalism", "options": ["journaism", "journalism", "journalizm"], "correctAnswer": "journalism" },
+          { "word": "annoying", "options": ["anoying", "annoying", "annoyng"], "correctAnswer": "annoying" },
+          { "word": "expense", "options": ["expence", "expense", "exspence"], "correctAnswer": "expense" },
+          { "word": "receive", "options": ["recieve", "receive", "recive"], "correctAnswer": "receive" },
+          { "word": "however", "options": ["howeverr", "however", "howver"], "correctAnswer": "however" }
+        ]
+      },
+      {
+        "setNumber": 40,
+        "questions": [
+          { "word": "supplementary", "options": ["suplementary", "supplementary", "supplemntary"], "correctAnswer": "supplementary" },
+          { "word": "virtually", "options": ["vertually", "virtually", "virtally"], "correctAnswer": "virtually" },
+          { "word": "forecast", "options": ["forcast", "forecast", "forcst"], "correctAnswer": "forecast" },
+          { "word": "hierarchy", "options": ["heiarky", "hierarchy", "hiearchy"], "correctAnswer": "hierarchy" },
+          { "word": "combine", "options": ["comibine", "combine", "comibine"], "correctAnswer": "combine" },
+          { "word": "requested", "options": ["rquested", "requested", "reqested"], "correctAnswer": "requested" },
+          { "word": "desperately", "options": ["despratly", "desperately", "desperatly"], "correctAnswer": "desperately" },
+          { "word": "appreciated", "options": ["apreciated", "appreciated", "appreciatd"], "correctAnswer": "appreciated" },
+          { "word": "safeguard", "options": ["safegaurd", "safeguard", "safegard"], "correctAnswer": "safeguard" },
+          { "word": "shortened", "options": ["shortend", "shortened", "shortned"], "correctAnswer": "shortened" }
+        ]
+      },
+      {
+        "setNumber": 41,
+        "questions": [
+          { "word": "confirmation", "options": ["confermation", "confirmation", "confermation"], "correctAnswer": "confirmation" },
+          { "word": "advantageous", "options": ["advantageos", "advantageous", "advantagous"], "correctAnswer": "advantageous" },
+          { "word": "these", "options": ["thees", "thess", "these"], "correctAnswer": "these" },
+          { "word": "before", "options": ["befor", "before", "befoer"], "correctAnswer": "before" },
+          { "word": "progression", "options": ["progresion", "progression", "progrssion"], "correctAnswer": "progression" },
+          { "word": "component", "options": ["componant", "component", "componet"], "correctAnswer": "component" },
+          { "word": "numbers", "options": ["numbuers", "numbers", "numbrs"], "correctAnswer": "numbers" },
+          { "word": "adjournment", "options": ["adjurnment", "adjournment", "ajournment"], "correctAnswer": "adjournment" },
+          { "word": "according", "options": ["acording", "according", "accoding"], "correctAnswer": "according" },
+          { "word": "opinion", "options": ["oppinion", "opinion", "opinoin"], "correctAnswer": "opinion" }
+        ]
+      },
+      {
+        "setNumber": 42,
+        "questions": [
+          { "word": "advise", "options": ["advice", "advise", "advize"], "correctAnswer": "advise" },
+          { "word": "career", "options": ["carear", "career", "carreer"], "correctAnswer": "career" },
+          { "word": "resolved", "options": ["resoved", "resolved", "resloved"], "correctAnswer": "resolved" },
+          { "word": "accessibility", "options": ["accessability", "accessibility", "acessibility"], "correctAnswer": "accessibility" },
+          { "word": "negligible", "options": ["negligable", "negligible", "negligable"], "correctAnswer": "negligible" },
+          { "word": "students", "options": ["studens", "students", "studants"], "correctAnswer": "students" },
+          { "word": "favourable", "options": ["faverable", "favourable", "favoruable"], "correctAnswer": "favourable" },
+          { "word": "techniques", "options": ["tecniques", "techniques", "techniqes"], "correctAnswer": "techniques" },
+          { "word": "atmosphere", "options": ["atmospher", "atmosphere", "atmoshphere"], "correctAnswer": "atmosphere" },
+          { "word": "exactly", "options": ["exsactly", "exactly", "exactlly"], "correctAnswer": "exactly" }
+        ]
+      },
+      {
+        "setNumber": 43,
+        "questions": [
+          { "word": "especially", "options": ["especaily", "especially", "especialy"], "correctAnswer": "especially" },
+          { "word": "proportions", "options": ["proprtions", "proportions", "propotions"], "correctAnswer": "proportions" },
+          { "word": "geographically", "options": ["goegraphicaly", "geographically", "geogrphically"], "correctAnswer": "geographically" },
+          { "word": "encompassing", "options": ["encompasing", "encompassing", "encompasing"], "correctAnswer": "encompassing" },
+          { "word": "stopped", "options": ["stoped", "stopped", "stoped"], "correctAnswer": "stopped" },
+          { "word": "relevant", "options": ["relavent", "relevant", "relevaant"], "correctAnswer": "relevant" },
+          { "word": "they", "options": ["thay", "they", "thee"], "correctAnswer": "they" },
+          { "word": "applied", "options": ["upplied", "applied", "apliied"], "correctAnswer": "applied" },
+          { "word": "eliminated", "options": ["elimiated", "eliminated", "eliminatd"], "correctAnswer": "eliminated" },
+          { "word": "containing", "options": ["containg", "containing", "contianing"], "correctAnswer": "containing" }
+        ]
+      },
+      {
+        "setNumber": 44,
+        "questions": [
+          { "word": "conditioning", "options": ["conditining", "conditioning", "conditionng"], "correctAnswer": "conditioning" },
+          { "word": "successful", "options": ["sucssuful", "successful", "sucsessful"], "correctAnswer": "successful" },
+          { "word": "queries", "options": ["quies", "queries", "querries"], "correctAnswer": "queries" },
+          { "word": "aggravating", "options": ["agravating", "aggravating", "aggrevating"], "correctAnswer": "aggravating" },
+          { "word": "erroneous", "options": ["errounous", "erroneous", "eroneous"], "correctAnswer": "erroneous" },
+          { "word": "weapons", "options": ["wepons", "weapons", "weapones"], "correctAnswer": "weapons" },
+          { "word": "corporate", "options": ["corparate", "corporate", "coporate"], "correctAnswer": "corporate" },
+          { "word": "inconceivable", "options": ["inconcievable", "inconceivable", "inconceveable"], "correctAnswer": "inconceivable" },
+          { "word": "organized", "options": ["oranised", "organized", "orginized"], "correctAnswer": "organized" },
+          { "word": "sensible", "options": ["sensable", "sensible", "sensble"], "correctAnswer": "sensible" }
+        ]
+      },
+      {
+        "setNumber": 45,
+        "questions": [
+          { "word": "studying", "options": ["studing", "studying", "stuying"], "correctAnswer": "studying" },
+          { "word": "examination", "options": ["eximination", "examination", "examintion"], "correctAnswer": "examination" },
+          { "word": "analyse", "options": ["analiss", "analyse", "analyis"], "correctAnswer": "analyse" },
+          { "word": "lonely", "options": ["lonley", "lonely", "lonly"], "correctAnswer": "lonely" },
+          { "word": "interest", "options": ["intrest", "interest", "intrst"], "correctAnswer": "interest" },
+          { "word": "committees", "options": ["comittees", "committees", "commitees"], "correctAnswer": "committees" },
+          { "word": "explaining", "options": ["explaning", "explaining", "expaining"], "correctAnswer": "explaining" },
+          { "word": "humour", "options": ["humor", "humour", "humor"], "correctAnswer": "humour" },
+          { "word": "thoughts", "options": ["thorts", "thoughts", "thoguhts"], "correctAnswer": "thoughts" },
+          { "word": "timing", "options": ["timeing", "timing", "timng"], "correctAnswer": "timing" }
+        ]
+      },
+      {
+        "setNumber": 46,
+        "questions": [
+          { "word": "difficulty", "options": ["dificulty", "difficulty", "difuculty"], "correctAnswer": "difficulty" },
+          { "word": "careers", "options": ["currers", "carrers", "careers"], "correctAnswer": "careers" },
+          { "word": "register", "options": ["rgister", "register", "regiser"], "correctAnswer": "register" },
+          { "word": "parasite", "options": ["parasite", "parisite", "parasite"], "correctAnswer": "parasite" },
+          { "word": "appointment", "options": ["appoitment", "appointment", "apointment"], "correctAnswer": "appointment" },
+          { "word": "favorite", "options": ["favorite", "favourite", "favorit"], "correctAnswer": "favorite" },
+          { "word": "cascade", "options": ["cascade", "cascad", "cascade"], "correctAnswer": "cascade" },
+          { "word": "dandelion", "options": ["dandelion", "dandilion", "dandelion"], "correctAnswer": "dandelion" },
+          { "word": "famous", "options": ["famous", "famose", "famous"], "correctAnswer": "famous" },
+        { "word": "pristine", "options": ["pristine", "pristin", "pristine"], "correctAnswer": "pristine" }
+        ]
+      },
+      {
+        "setNumber": 47,
+        "questions": [
+          { "word": "golden", "options": ["golden", "goden", "golden"], "correctAnswer": "golden" },
+          { "word": "modesty", "options": ["modesty", "modisty", "modesty"], "correctAnswer": "modesty" },
+          { "word": "amphibian", "options": ["amphibian", "amfibian", "amphibian"], "correctAnswer": "amphibian" },
+          { "word": "jealousy", "options": ["jealousy", "jelousy", "jealousy"], "correctAnswer": "jealousy" },
+          { "word": "remedial", "options": ["remedial", "remedeal", "remedial"], "correctAnswer": "remedial" },
+          { "word": "vouch", "options": ["vouch", "vowch", "vouch"], "correctAnswer": "vouch" },
+          { "word": "trivia", "options": ["trivia", "trivea", "trivia"], "correctAnswer": "trivia" },
+        { "word": "shoulder", "options": ["shoulder", "sholder", "shoulder"], "correctAnswer": "shoulder" },
+        { "word": "apron", "options": ["apron", "aprun", "apron"], "correctAnswer": "apron" },
+        { "word": "butterscotch", "options": ["butterscotch", "buterscotch", "butterscotch"], "correctAnswer": "butterscotch" }
+        ]
+      },{
+        "setNumber": 48,
+        "questions": [
+          { "word": "surveys", "options": ["servays", "surveys", "servyes"], "correctAnswer": "surveys" },
+          { "word": "apologies", "options": ["appologies", "apologies", "apollogies"], "correctAnswer": "apologies" },
+          { "word": "approximately", "options": ["aproximatly", "approximately", "aproximatley"], "correctAnswer": "approximately" },
+          { "word": "through", "options": ["throut", "through", "thru"], "correctAnswer": "through" },
+          { "word": "prior", "options": ["piror", "prior", "preor"], "correctAnswer": "prior" },
+          { "word": "executed", "options": ["executted", "executed", "excuted"], "correctAnswer": "executed" },
+          { "word": "anomalies", "options": ["anomolies", "anomalies", "anomolys"], "correctAnswer": "anomalies" },
+          { "word": "relatively", "options": ["relativly", "relatively", "relitivly"], "correctAnswer": "relatively" },
+          { "word": "announcement", "options": ["anouncement", "announcement", "announcment"], "correctAnswer": "announcement" },
+          { "word": "accompanying", "options": ["acompaning", "accompanying", "acompaning"], "correctAnswer": "accompanying" }
+        ]
+      },
+      {
+        "setNumber": 49,
+        "questions": [
+          { "word": "projects", "options": ["projeccts", "projects", "projecs"], "correctAnswer": "projects" },
+          { "word": "analysed", "options": ["analised", "analysed", "analysed"], "correctAnswer": "analysed" },
+          { "word": "therefore", "options": ["therefoe", "therefore", "therefor"], "correctAnswer": "therefore" },
+          { "word": "parameters", "options": ["perametres", "parameters", "perameters"], "correctAnswer": "parameters" },
+          { "word": "whereas", "options": ["wheras", "whereas", "wheres"], "correctAnswer": "whereas" },
+          { "word": "their", "options": ["ther", "their", "thier"], "correctAnswer": "their" },
+          { "word": "discretion", "options": ["discresion", "discretion", "discration"], "correctAnswer": "discretion" },
+          { "word": "handle", "options": ["handel", "handle", "handl"], "correctAnswer": "handle" },
+          { "word": "disappointing", "options": ["dissapoiting", "disappointing", "dissapointing"], "correctAnswer": "disappointing" },
+          { "word": "expansion", "options": ["expanion", "expansion", "exapnsion"], "correctAnswer": "expansion" }
+        ]
+      },
+      {
+        "setNumber": 50,
+        "questions": [
+          { "word": "personnel", "options": ["personel", "personnel", "perssonel"], "correctAnswer": "personnel" },
+          { "word": "senior", "options": ["sienior", "senior", "senor"], "correctAnswer": "senior" },
+          { "word": "apologised", "options": ["appologised", "apologised", "apologized"], "correctAnswer": "apologised" },
+          { "word": "separate", "options": ["seporate", "separate", "seperat"], "correctAnswer": "separate" },
+          { "word": "mean", "options": ["meen", "mean", "meane"], "correctAnswer": "mean" },
+          { "word": "guidelines", "options": ["guidlines", "guidelines", "gidelines"], "correctAnswer": "guidelines" },
+          { "word": "busy", "options": ["buisy", "busy", "bus"], "correctAnswer": "busy" },
+          { "word": "easily", "options": ["easyly", "easily", "easliy"], "correctAnswer": "easily" },
+          { "word": "collate", "options": ["colate", "collate", "collat"], "correctAnswer": "collate" },
+          { "word": "system", "options": ["sysem", "system", "systm"], "correctAnswer": "system" }
+        ]
+      }  
     ]
   },
   "hard": {
@@ -898,7 +1573,7 @@
       {
         "setNumber": 5,
         "questions": [
-          { "word": "ubiquitous", "options": ["ubiquitous", "ubiquitus", "ubiquitous"], "correctAnswer": "ubiquitous" },
+          { "word": "beagle", "options": ["beagle", "bagle", "beagle"], "correctAnswer": "beagle" },
           { "word": "vocabulary", "options": ["vocabulary", "vocabullary", "vocabullery"], "correctAnswer": "vocabulary" },
           { "word": "wisteria", "options": ["wisteria", "wisterea", "wisteria"], "correctAnswer": "wisteria" },
           { "word": "xenophobia", "options": ["xenophobia", "xenophobea", "xenophobya"], "correctAnswer": "xenophobia" },
@@ -907,7 +1582,669 @@
           { "word": "affidavit", "options": ["affidavit", "affidavit", "affadavit"], "correctAnswer": "affidavit" },
           { "word": "bourgeoisie", "options": ["bourgeoisie", "bourgeois", "bourgoisie"], "correctAnswer": "bourgeoisie" },
           { "word": "cacophony", "options": ["cacophony", "cacophoney", "cacaphony"], "correctAnswer": "cacophony" },
-          { "word": "dichotomy", "options": ["dichotomy", "dichotomy", "dichotomie"], "correctAnswer": "dichotomy" }
+          { "word": "lacrosse", "options": ["lacrosse", "lacrose", "lacross"], "correctAnswer": "lacrosse" }
+        ]
+      },{
+        "setNumber": 6,
+        "questions": [
+          { "word": "Apennines", "options": ["Apenines", "Appenines", "Apennines"], "correctAnswer": "Apennines" },
+          { "word": "Athenian", "options": ["Athenian", "Athenean", "Athenan"], "correctAnswer": "Athenian" },
+          { "word": "Athenians", "options": ["Atheneans", "Athenians", "Athenian"], "correctAnswer": "Athenians" },
+          { "word": "Bernoulli", "options": ["Bernouilli", "Bernoulli", "Bernouli"], "correctAnswer": "Bernoulli" },
+          { "word": "Blitzkrieg", "options": ["Blitzkrieg", "Blitzkreig", "Blitzkrig"], "correctAnswer": "Blitzkrieg" },
+          { "word": "Brazilian", "options": ["Brasillian", "Brazilian", "Brazilin"], "correctAnswer": "Brazilian" },
+          { "word": "Britain", "options": ["Britain", "Britian", "Brittan"], "correctAnswer": "Britain" },
+          { "word": "British", "options": ["British", "Brittish", "Britsh"], "correctAnswer": "British" },
+          { "word": "Caesar", "options": ["Ceasar", "Caesar", "Caeser"], "correctAnswer": "Caesar" },
+          { "word": "Cambridge", "options": ["Cambridge", "Cambrige", "Cambridge"], "correctAnswer": "Cambridge" }
+        ]
+      },{
+        "setNumber": 7,
+        "questions": [
+          { "word": "Caracas", "options": ["carcas", "Caracas", "Carcas"], "correctAnswer": "Caracas" },
+          { "word": "Caribbean", "options": ["Carribean", "Caribbean", "Caribean"], "correctAnswer": "Caribbean" },
+          { "word": "Carthaginian", "options": ["Carthagian", "Carthaginian", "Carthaginan"], "correctAnswer": "Carthaginian" },
+          { "word": "Catalina", "options": ["Cataline", "Catalina", "Catalina"], "correctAnswer": "Catalina" },
+          { "word": "Catiline", "options": ["Cataline", "Catiline", "Catilina"], "correctAnswer": "Catiline" },
+          { "word": "Celsius", "options": ["Celcius", "Celsius", "Celsuis"], "correctAnswer": "Celsius" },
+          { "word": "Champagne", "options": ["Champange", "Champagne", "Champagane"], "correctAnswer": "Champagne" },
+          { "word": "Connecticut", "options": ["Conneticut", "Connecticut", "Connecticut"], "correctAnswer": "Connecticut" },
+          { "word": "Cypriot", "options": ["Cyprian", "Cypriot", "Cyprian"], "correctAnswer": "Cypriot" },
+          { "word": "Ellis", "options": ["eles", "Ellis", "Elis"], "correctAnswer": "Ellis" }
+        ]
+      },
+      {
+        "setNumber": 8,
+        "questions": [
+          { "word": "English", "options": ["Enlish", "English", "Engish"], "correctAnswer": "English" },
+          { "word": "European", "options": ["Europian", "Eurpean", "European"], "correctAnswer": "European" },
+          { "word": "Europeans", "options": ["Europians", "Europeans", "Eurpeans"], "correctAnswer": "Europeans" },
+          { "word": "February", "options": ["febuary", "February", "Febuary"], "correctAnswer": "February" },
+          { "word": "Flemish", "options": ["Flemmish", "Flemish", "Flemsh"], "correctAnswer": "Flemish" },
+          { "word": "Franciscan", "options": ["Fransiscan", "Franciscan", "Franciscan"], "correctAnswer": "Franciscan" },
+          { "word": "Franciscans", "options": ["Fransiscans", "Franciscans", "Franciscan"], "correctAnswer": "Franciscans" },
+          { "word": "Gael", "options": ["gae", "Gael", "Gae"], "correctAnswer": "Gael" },
+          { "word": "Galatians", "options": ["Galations", "Galatians", "Galatiens"], "correctAnswer": "Galatians" },
+          { "word": "Gandhi", "options": ["Ghandi", "Gandhi", "Ghandi"], "correctAnswer": "Gandhi" }
+        ]
+      },
+      {
+        "setNumber": 9,
+        "questions": [
+          { "word": "Gauguin", "options": ["gogin", "Gauguin", "Goguin"], "correctAnswer": "Gauguin" },
+          { "word": "Guatemala", "options": ["Guatamala", "Guatemala", "Guatamela"], "correctAnswer": "Guatemala" },
+          { "word": "Guatemalan", "options": ["Guatamalan", "Guatemalan", "Guatemaln"], "correctAnswer": "Guatemalan" },
+          { "word": "Guinness", "options": ["Guiness", "Guinness", "Guinness"], "correctAnswer": "Guinness" },
+          { "word": "Israelis", "options": ["Israelies", "Israelis", "Israeli"], "correctAnswer": "Israelis" },
+          { "word": "Ithaca", "options": ["Ihaca", "Ithaca", "Ithca"], "correctAnswer": "Ithaca" },
+          { "word": "Jacques", "options": ["Jaques", "Jacques", "Jacque"], "correctAnswer": "Jacques" },
+          { "word": "Japanese", "options": ["Japanes", "Japanese", "Japaneese"], "correctAnswer": "Japanese" },
+          { "word": "Joseph", "options": ["Jospeh", "Joseph", "Josehp"], "correctAnswer": "Joseph" },
+          { "word": "Judaism", "options": ["Juadaism", "Juadism", "Judaism"], "correctAnswer": "Judaism" }
+        ]
+      },{
+        "setNumber": 10,
+        "questions": [
+          { "word": "Libya", "options": ["Lybia", "Libya", "Lybia"], "correctAnswer": "Libya" },
+          { "word": "Malcolm", "options": ["Malcom", "Malcolm", "Malcom"], "correctAnswer": "Malcolm" },
+          { "word": "Maltese", "options": ["maltesian", "Maltese", "Maltesian"], "correctAnswer": "Maltese" },
+          { "word": "Mara_Liasson", "options": ["liason", "Mara_Liasson", "Liaison"], "correctAnswer": "Mara_Liasson" },
+          { "word": "Massachusetts", "options": ["Massachussets", "Massachussetts", "Massachusetts"], "correctAnswer": "Massachusetts" },
+          { "word": "Mediterranean", "options": ["Mediteranean", "Mediterranean", "Mediterrana"], "correctAnswer": "Mediterranean" },
+          { "word": "Michigan", "options": ["Michagan", "Michigan", "Mishigan"], "correctAnswer": "Michigan" },
+          { "word": "Miranda", "options": ["meranda", "Miranda", "Miranda"], "correctAnswer": "Miranda" },
+          { "word": "Mississippi", "options": ["Missisipi", "Missisippi", "Mississippi"], "correctAnswer": "Mississippi" },
+          { "word": "Missouri", "options": ["Misouri", "Missouri", "Misoury"], "correctAnswer": "Missouri" }
+        ]
+      },
+      {
+        "setNumber": 11,
+        "questions": [
+          { "word": "alive", "options": ["allieve", "alive", "alieve"], "correctAnswer": "alive" },
+          { "word": "aggressive", "options": ["aggresive", "aggressive", "agressive"], "correctAnswer": "aggressive" },
+          { "word": "amateur", "options": ["amature", "amature", "amateur"], "correctAnswer": "amateur" },
+          { "word": "ambivalent", "options": ["ambivilant", "ambivalent", "ambvivalent"], "correctAnswer": "ambivalent" },
+          { "word": "amorphous", "options": ["amourfous", "amorphous", "amorphus"], "correctAnswer": "amorphous" },
+          { "word": "amplification", "options": ["amification", "amplification", "amplifiction"], "correctAnswer": "amplification" },
+          { "word": "anatomy", "options": ["anonomy", "anatomy", "anatomy"], "correctAnswer": "anatomy" },
+          { "word": "announce", "options": ["annuncio", "announce", "annonce"], "correctAnswer": "announce" },
+          { "word": "announcement", "options": ["annonsment", "announcement", "annoucement"], "correctAnswer": "announcement" },
+          { "word": "anoint", "options": ["annoint", "anoint", "annoint"], "correctAnswer": "anoint" }
+        ]
+      },
+      {
+        "setNumber": 12,
+        "questions": [
+          { "word": "anonymous", "options": ["anynomous", "anonymous", "anonomus"], "correctAnswer": "anonymous" },
+          { "word": "appreciate", "options": ["appresteate", "appreciate", "apreciate"], "correctAnswer": "appreciate" },
+          { "word": "appreciated", "options": ["appreceiated", "appreciated", "appreciated"], "correctAnswer": "appreciated" },
+          { "word": "archetype", "options": ["archeype", "archetype", "archtype"], "correctAnswer": "archetype" },
+          { "word": "architecture", "options": ["aratictature", "aricticure", "architecture"], "correctAnswer": "architecture" },
+          { "word": "arctic", "options": ["artic", "arctic", "arctik"], "correctAnswer": "arctic" },
+          { "word": "asterisk", "options": ["asterick", "asterisk", "asteriks"], "correctAnswer": "asterisk" },
+          { "word": "asymmetric", "options": ["asymetric", "asymmetric", "asymetric"], "correctAnswer": "asymmetric" },
+          { "word": "asymptote", "options": ["asentote", "asymptote", "asymptoate"], "correctAnswer": "asymptote" },
+          { "word": "at", "options": ["ast", "at", "aet"], "correctAnswer": "at" }
+        ]
+      },
+      {
+        "setNumber": 13,
+        "questions": [
+          { "word": "attentively", "options": ["atentively", "attentively", "attentivly"], "correctAnswer": "attentively" },
+          { "word": "automatically", "options": ["autoamlly", "automatically", "automaticaly"], "correctAnswer": "automatically" },
+          { "word": "bankrupt", "options": ["bankrot", "bankrupt", "bankruot"], "correctAnswer": "bankrupt" },
+          { "word": "basically", "options": ["basicly", "basically", "basicaly"], "correctAnswer": "basically" },
+          { "word": "battalion", "options": ["batallion", "battalion", "battilion"], "correctAnswer": "battalion" },
+          { "word": "beginning", "options": ["beggining", "beging", "beginning"], "correctAnswer": "beginning" },
+          { "word": "behaviour", "options": ["behaviour", "behavior", "behaivior"], "correctAnswer": "behaviour" },
+          { "word": "believe", "options": ["beleive", "believe", "beleave"], "correctAnswer": "believe" },
+          { "word": "benefits", "options": ["benidifs", "benefits", "benfits"], "correctAnswer": "benefits" },
+          { "word": "better", "options": ["metter", "better", "bettr"], "correctAnswer": "better" }
+        ]
+      },{
+        "setNumber": 14,
+        "questions": [
+          { "word": "bleat", "options": ["blait", "bleat", "bleet"], "correctAnswer": "bleat" },
+          { "word": "boycott", "options": ["boygot", "boycott", "boycot"], "correctAnswer": "boycott" },
+          { "word": "broccoli", "options": ["brocolli", "broccoli", "broccli"], "correctAnswer": "broccoli" },
+          { "word": "browse", "options": ["bbrose", "browse", "browse"], "correctAnswer": "browse" },
+          { "word": "buoyant", "options": ["bouyant", "buoyant", "buoyent"], "correctAnswer": "buoyant" },
+          { "word": "bureau", "options": ["beauro", "bureau", "burea"], "correctAnswer": "bureau" },
+          { "word": "McIntosh", "options": ["McIntosh", "McIntoch", "McIntosh"], "correctAnswer": "McIntosh" },
+          { "word": "bush", "options": ["buch", "bush", "bushh"], "correctAnswer": "bush" },
+          { "word": "butter", "options": ["buder", "budr", "butter"], "correctAnswer": "butter" },
+          { "word": "button", "options": ["buton", "button", "buttun"], "correctAnswer": "button" }
+        ]
+      },
+      {
+        "setNumber": 15,
+        "questions": [
+          { "word": "caller", "options": ["cauler", "caller", "culler"], "correctAnswer": "caller" },
+          { "word": "came", "options": ["gamne", "came", "camee"], "correctAnswer": "came" },
+          { "word": "caveats", "options": ["cravets", "caveats", "caveets"], "correctAnswer": "caveats" },
+          { "word": "cemetery", "options": ["cemetary", "cemetery", "cemeteryy"], "correctAnswer": "cemetery" },
+          { "word": "changing", "options": ["changeing", "changing", "chaging"], "correctAnswer": "changing" },
+          { "word": "cheat", "options": ["cheet", "cheat", "chiet"], "correctAnswer": "cheat" },
+          { "word": "circle", "options": ["cicle", "circle", "circue"], "correctAnswer": "circle" },
+          { "word": "circumstances", "options": ["circumstaces", "circumstances", "circumstanes"], "correctAnswer": "circumstances" },
+          { "word": "club", "options": ["clob", "club", "clubb"], "correctAnswer": "club" },
+          { "word": "cockamamie", "options": ["cocamena", "cockamamie", "cockamamy"], "correctAnswer": "cockamamie" }
+        ]
+      },
+      {
+        "setNumber": 16,
+        "questions": [
+          { "word": "colleague", "options": ["colleaque", "colleague", "colleuge"], "correctAnswer": "colleague" },
+          { "word": "colloquialism", "options": ["colloquilism", "colloquialism", "colloquailism"], "correctAnswer": "colloquialism" },
+          { "word": "colon", "options": ["coaln", "colon", "colun"], "correctAnswer": "colon" },
+          { "word": "column", "options": ["columne", "column", "colum"], "correctAnswer": "column" },
+          { "word": "combo", "options": ["cumba", "combo", "combro"], "correctAnswer": "combo" },
+          { "word": "commercials", "options": ["commerciasl", "commercials", "commerical"], "correctAnswer": "commercials" },
+          { "word": "commitment", "options": ["comitmment", "comittmen", "comittmend", "commitment"], "correctAnswer": "commitment" },
+          { "word": "committed", "options": ["commited", "committed", "comitted"], "correctAnswer": "committed" },
+          { "word": "companies", "options": ["companys", "companies", "compnaies"], "correctAnswer": "companies" },
+          { "word": "compiler", "options": ["comiler", "compiler", "compilor"], "correctAnswer": "compiler" }
+        ]
+      },{
+        "setNumber": 17,
+        "questions": [
+          { "word": "complicated", "options": ["compicated", "complicated", "complicatd"], "correctAnswer": "complicated" },
+          { "word": "computer", "options": ["comupter", "computer", "comptuer"], "correctAnswer": "computer" },
+          { "word": "congratulations", "options": ["congradulations", "congratulations", "congradulattions"], "correctAnswer": "congratulations" },
+          { "word": "consensus", "options": ["concensus", "consensus", "consesus"], "correctAnswer": "consensus" },
+          { "word": "consistent", "options": ["consident", "consistent", "consitent"], "correctAnswer": "consistent" },
+          { "word": "consonant", "options": ["consident", "consonant", "consonent"], "correctAnswer": "consonant" },
+          { "word": "constant", "options": ["contast", "constant", "contastant"], "correctAnswer": "constant" },
+          { "word": "continue", "options": ["contunie", "continue", "continure"], "correctAnswer": "continue" },
+          { "word": "contribution", "options": ["conibation", "contribution", "contibution"], "correctAnswer": "contribution" },
+          { "word": "coolly", "options": ["cooly", "coolly", "coully"], "correctAnswer": "coolly" }
+        ]
+      },
+      {
+        "setNumber": 18,
+        "questions": [
+          { "word": "coping", "options": ["copping", "coping", "copin"], "correctAnswer": "coping" },
+          { "word": "cosmopolitan", "options": ["cosmoplyton", "cosmopolitan", "cosmopoliton"], "correctAnswer": "cosmopolitan" },
+          { "word": "court", "options": ["courst", "court", "cort"], "correctAnswer": "court" },
+          { "word": "crazy", "options": ["crasy", "crazy", "crazi"], "correctAnswer": "crazy" },
+          { "word": "credibility", "options": ["credetability", "credibility", "credibilty"], "correctAnswer": "credibility" },
+          { "word": "critique", "options": ["criqitue", "ctitique", "critique"], "correctAnswer": "critique" },
+          { "word": "croak", "options": ["croke", "croak", "croake"], "correctAnswer": "croak" },
+          { "word": "crucified", "options": ["crusifed", "crucified", "crucifed"], "correctAnswer": "crucified" },
+          { "word": "crucifixion", "options": ["crucifiction", "crucifixion", "crucifixsion"], "correctAnswer": "crucifixion" },
+          { "word": "customization", "options": ["custamisation", "customization", "custamisation"], "correctAnswer": "customization" }
+        ]
+      },
+      {
+        "setNumber": 19,
+        "questions": [
+          { "word": "daily", "options": ["daly", "daily", "daili"], "correctAnswer": "daily" },
+          { "word": "dangerous", "options": ["danguages", "dangerous", "dangers"], "correctAnswer": "dangerous" },
+          { "word": "dangle", "options": ["dongle", "dangle", "dangale"], "correctAnswer": "dangle" },
+          { "word": "decision", "options": ["disition", "decision", "decison"], "correctAnswer": "decision" },
+          { "word": "dependable", "options": ["dependeble", "dependable", "dependble"], "correctAnswer": "dependable" },
+          { "word": "defense", "options": ["defence", "defense", "defenc"], "correctAnswer": "defense" },
+          { "word": "description", "options": ["descrption", "descrptn", "description"], "correctAnswer": "description" },
+          { "word": "definite", "options": ["definate", "definite", "defintie"], "correctAnswer": "definite" },
+          { "word": "definitely", "options": ["definately", "definitely", "defintely"], "correctAnswer": "definitely" },
+          { "word": "deities", "options": ["dieties", "deities", "dieties"], "correctAnswer": "deities" }
+        ]
+      }, {
+        "setNumber": 20,
+        "questions": [
+          { "word": "dictionary", "options": ["ductioneery", "dictionary", "dictinary"], "correctAnswer": "dictionary" },
+          { "word": "dinosaur", "options": ["dinasaur", "dinasour", "dinosaur"], "correctAnswer": "dinosaur" },
+          { "word": "directly", "options": ["direcyly", "directly", "direcly"], "correctAnswer": "directly" },
+          { "word": "disagree", "options": ["diagree", "disagree", "disagri"], "correctAnswer": "disagree" },
+          { "word": "discuss", "options": ["discuess", "discuss", "discuse"], "correctAnswer": "discuss" },
+          { "word": "discussion", "options": ["disssicion", "discussion", "discuission"], "correctAnswer": "discussion" },
+          { "word": "dissect", "options": ["disect", "dissect", "disscet"], "correctAnswer": "dissect" },
+          { "word": "dissipate", "options": ["disippate", "dissipate", "dissapate"], "correctAnswer": "dissipate" },
+          { "word": "distant", "options": ["destint", "distant", "distint"], "correctAnswer": "distant" },
+          { "word": "distort", "options": ["distart", "distort", "distor"], "correctAnswer": "distort" }
+        ]
+      },
+      {
+        "setNumber": 21,
+        "questions": [
+          { "word": "distract", "options": ["distarct", "distract", "distrct"], "correctAnswer": "distract" },
+          { "word": "divulge", "options": ["devulge", "divulge", "diveulge"], "correctAnswer": "divulge" },
+          { "word": "documentation", "options": ["documtations", "documentation", "documantation"], "correctAnswer": "documentation" },
+          { "word": "dog", "options": ["dag", "doog", "dog"], "correctAnswer": "dog" },
+          { "word": "download", "options": ["doenload", "download", "downlaod"], "correctAnswer": "download" },
+          { "word": "draft", "options": ["deaft", "draft", "draf"], "correctAnswer": "draft" },
+          { "word": "dramatically", "options": ["dramaticly", "dramatically", "dramtically"], "correctAnswer": "dramatically" },
+          { "word": "drunkenness", "options": ["drunkeness", "drunkenness", "drukeness"], "correctAnswer": "drunkenness" },
+          { "word": "due", "options": ["dur", "due", "doue"], "correctAnswer": "due" },
+          { "word": "during", "options": ["duren", "during", "durig"], "correctAnswer": "during" }
+        ]
+      },
+      {
+        "setNumber": 22,
+        "questions": [
+          { "word": "dynamic", "options": ["dymatic", "dynaic", "dynamic"], "correctAnswer": "dynamic" },
+          { "word": "ecstasy", "options": ["ecstacy", "ecstasy", "exstacy"], "correctAnswer": "ecstasy" },
+          { "word": "efficacy", "options": ["efficity", "efficacy", "efficacy"], "correctAnswer": "efficacy" },
+          { "word": "efficient", "options": ["efficat", "efficient", "efficeint"], "correctAnswer": "efficient" },
+          { "word": "efforts", "options": ["effots", "efforts", "efforts"], "correctAnswer": "efforts" },
+          { "word": "elegant", "options": ["elagent", "elligit", "elegant"], "correctAnswer": "elegant" },
+          { "word": "embarrass", "options": ["embarass", "embaress", "embarrass"], "correctAnswer": "embarrass" },
+          { "word": "embarrassment", "options": ["embarassment", "embarrassment", "embarrasment"], "correctAnswer": "embarrassment" },
+          { "word": "embed", "options": ["imbed", "embed", "embedd"], "correctAnswer": "embed" },
+          { "word": "encapsulation", "options": ["encapsualtion", "encapsulation", "encapsulaton"], "correctAnswer": "encapsulation" }
+        ]
+      },{
+        "setNumber": 23,
+        "questions": [
+          { "word": "encyclopedia", "options": ["encyclapidia", "encyclopedia", "encyclopia"], "correctAnswer": "encyclopedia" },
+          { "word": "engine", "options": ["engins", "engine", "enigne"], "correctAnswer": "engine" },
+          { "word": "enhance", "options": ["enhence", "enhance", "enhanse"], "correctAnswer": "enhance" },
+          { "word": "enlightenment", "options": ["enligtment", "enlightenment", "enlightenement"], "correctAnswer": "enlightenment" },
+          { "word": "ennui", "options": ["ennuui", "ennui", "enui"], "correctAnswer": "ennui" },
+          { "word": "enough", "options": ["enought", "enough", "enugh"], "correctAnswer": "enough" },
+          { "word": "environment", "options": ["enviroment", "environment", "enviroment"], "correctAnswer": "environment" },
+          { "word": "environmental", "options": ["envireminakl", "invermeantial", "environmental"], "correctAnswer": "environmental" },
+          { "word": "epitome", "options": ["epitomy", "epitome", "epitomie"], "correctAnswer": "epitome" },
+          { "word": "error", "options": ["errara", "error", "erro"], "correctAnswer": "error" }
+        ]
+      },
+      {
+        "setNumber": 24,
+        "questions": [
+          { "word": "espresso", "options": ["expresso", "espresso", "espreso"], "correctAnswer": "espresso" },
+          { "word": "etiology", "options": ["eitiology", "etiology", "etology"], "correctAnswer": "etiology" },
+          { "word": "evaluation", "options": ["evaualtion", "evaluation", "evluation"], "correctAnswer": "evaluation" },
+          { "word": "eventually", "options": ["evtually", "eventually", "evetually"], "correctAnswer": "eventually" },
+          { "word": "everything", "options": ["evething", "everything", "evrything"], "correctAnswer": "everything" },
+          { "word": "exceed", "options": ["excede", "exceed", "exceed"], "correctAnswer": "exceed" },
+          { "word": "except", "options": ["excpt", "except", "exceot"], "correctAnswer": "except" },
+          { "word": "execution", "options": ["excution", "execution", "exceution"], "correctAnswer": "execution" },
+          { "word": "exercise", "options": ["excercise", "exercise", "exrcise"], "correctAnswer": "exercise" },
+          { "word": "exhilaration", "options": ["exhileration", "exhilaration", "exhiliration"], "correctAnswer": "exhilaration" }
+        ]
+      },
+      {
+        "setNumber": 25,
+        "questions": [
+          { "word": "existence", "options": ["egsistence", "existence", "existnce"], "correctAnswer": "existence" },
+          { "word": "expedient", "options": ["exspidient", "expedient", "expident"], "correctAnswer": "expedient" },
+          { "word": "explicitly", "options": ["expleyly", "explicitly", "explicilty"], "correctAnswer": "explicitly" },
+          { "word": "extensions", "options": ["extions", "extensions", "extenstions"], "correctAnswer": "extensions" },
+          { "word": "factorization", "options": ["factontion", "factorization", "factornization"], "correctAnswer": "factorization" },
+          { "word": "failure", "options": ["failer", "failure", "falure"], "correctAnswer": "failure" },
+          { "word": "fantasia", "options": ["phantasia", "fantasia", "fantais"], "correctAnswer": "fantasia" },
+          { "word": "fantasy", "options": ["famdasy", "fantasy", "fantacy"], "correctAnswer": "fantasy" },
+          { "word": "favor", "options": ["faver", "favor", "fovr"], "correctAnswer": "favor" },
+          { "word": "favour", "options": ["faver", "favour", "favour"], "correctAnswer": "favour" }
+        ]
+      },{
+        "setNumber": 26,
+        "questions": [
+          { "word": "fax", "options": ["faxe", "fax", "fex"], "correctAnswer": "fax" },
+          { "word": "festival", "options": ["fistival", "festival", "festaval"], "correctAnswer": "festival" },
+          { "word": "fiery", "options": ["firey", "fiery", "fiery"], "correctAnswer": "fiery" },
+          { "word": "flattering", "options": ["flatterring", "flattering", "flatering"], "correctAnswer": "flattering" },
+          { "word": "flux", "options": ["fluk", "flux", "flukse"], "correctAnswer": "flux" },
+          { "word": "foresee", "options": ["forsee", "foresee", "forese"], "correctAnswer": "foresee" },
+          { "word": "frustrating", "options": ["frustartaion", "frustrating", "frustration"], "correctAnswer": "frustrating" },
+          { "word": "function", "options": ["fuction", "function", "fuction"], "correctAnswer": "function" },
+          { "word": "generally", "options": ["generly", "generally", "genrally"], "correctAnswer": "generally" },
+          { "word": "gotten", "options": ["gotton", "gotten", "gottin"], "correctAnswer": "gotten" }
+        ]
+      },
+      {
+        "setNumber": 27,
+        "questions": [
+          { "word": "government", "options": ["goberment", "gobernement", "gobernment", "government"], "correctAnswer": "government" },
+          { "word": "graceful", "options": ["gracefull", "graceful", "graceful"], "correctAnswer": "graceful" },
+          { "word": "gradually", "options": ["gradualy", "gradually", "gradully"], "correctAnswer": "gradually" },
+          { "word": "grammar", "options": ["grammer", "grammar", "gramar"], "correctAnswer": "grammar" },
+          { "word": "guard", "options": ["gaurd", "guard", "guarde"], "correctAnswer": "guard" },
+          { "word": "guts", "options": ["futs", "guts", "guts"], "correctAnswer": "guts" },
+          { "word": "happily", "options": ["hapily", "happily", "happily"], "correctAnswer": "happily" },
+          { "word": "harass", "options": ["harrass", "harass", "haras"], "correctAnswer": "harass" },
+          { "word": "have", "options": ["havne", "have", "hvae"], "correctAnswer": "have" },
+          { "word": "height", "options": ["heighth", "height", "heigth"], "correctAnswer": "height" }
+        ]
+      },
+       {
+        "setNumber": 28,
+        "questions": [
+          { "word": "Rockefeller", "options": ["Rockerfeller", "Rockefeller", "Rockefellar"], "correctAnswer": "Rockefeller" },
+          { "word": "Palestinian", "options": ["Palistian", "Palistinian", "Palestinian"], "correctAnswer": "Palestinian" },
+          { "word": "Saturday", "options": ["Saterday", "Saturday", "Saterday"], "correctAnswer": "Saturday" },
+          { "word": "Sistine", "options": ["Sixtin", "Sistine", "Sistene"], "correctAnswer": "Sistine" },
+          { "word": "Spanish", "options": ["spainish", "Spanish", "Spainish"], "correctAnswer": "Spanish" },
+          { "word": "Tim", "options": ["tiem", "Tim", "Timm"], "correctAnswer": "Tim" },
+          { "word": "Ukrainian", "options": ["Ukranian", "Ukrainian", "Ukrainin"], "correctAnswer": "Ukrainian" },
+          { "word": "Valletta", "options": ["Valetta", "Valletta", "Valetta"], "correctAnswer": "Valletta" },
+          { "word": "Wednesday", "options": ["wendsay", "wensday", "Wednesday"], "correctAnswer": "Wednesday" },
+          { "word": "Zionist", "options": ["Sionist", "Zionist", "Zionist"], "correctAnswer": "Zionist" }
+        ]
+      },
+      {
+        "setNumber": 29,
+        "questions": [
+          { "word": "higher", "options": ["higer", "higher", "hiegher"], "correctAnswer": "higher" },
+          { "word": "ignoble", "options": ["ignoble", "ignoble", "ignoble"], "correctAnswer": "ignoble" },
+          { "word": "horse", "options": ["hourse", "horse", "hosre"], "correctAnswer": "horse" },
+          { "word": "housing", "options": ["houssing", "housing", "housig"], "correctAnswer": "housing" },
+          { "word": "however", "options": ["howaver", "howver", "however"], "correctAnswer": "however" },
+          { "word": "humanity", "options": ["humaniti", "humanity", "humanty"], "correctAnswer": "humanity" },
+          { "word": "hyphen", "options": ["hifin", "hifine", "hyfin", "hyphen"], "correctAnswer": "hyphen" },
+          { "word": "hypothesis", "options": ["hypotathes", "hypotathese", "hypothesis", "hypothesys"], "correctAnswer": "hypothesis" },
+          { "word": "hysterical", "options": ["hystrical", "hysterical", "hystircal"], "correctAnswer": "hysterical" },
+          { "word": "illegitimate", "options": ["illegitament", "illegitimate", "illegitamte"], "correctAnswer": "illegitimate" }
+        ]
+      },{
+        "setNumber": 30,
+        "questions": [
+          { "word": "immanent", "options": ["immenant", "immanent", "imennant"], "correctAnswer": "immanent" },
+          { "word": "immediately", "options": ["imediaetly", "immediately", "immediatly"], "correctAnswer": "immediately" },
+          { "word": "implements", "options": ["implemtes", "implements", "implemtnes"], "correctAnswer": "implements" },
+          { "word": "in_case", "options": ["incase", "in_case", "in-case"], "correctAnswer": "in_case" },
+          { "word": "in_depth", "options": ["indepth", "in_depth", "in-depth"], "correctAnswer": "in_depth" },
+          { "word": "in_fact", "options": ["infact", "in_fact", "in-fact"], "correctAnswer": "in_fact" },
+          { "word": "inadvertent", "options": ["inadvertant", "inadvertent", "inadverent"], "correctAnswer": "inadvertent" },
+          { "word": "incomplete", "options": ["incompleet", "incomplete", "incomplet"], "correctAnswer": "incomplete" },
+          { "word": "inconvenience", "options": ["inconvience", "inconvenience", "inconvience"], "correctAnswer": "inconvenience" },
+          { "word": "inconvenient", "options": ["inconvenant", "inconvenient", "inconveinent"], "correctAnswer": "inconvenient" }
+        ]
+      },
+      {
+        "setNumber": 31,
+        "questions": [
+          { "word": "indent", "options": ["ident", "indent", "indet"], "correctAnswer": "indent" },
+          { "word": "independent", "options": ["independant", "independent", "independenet"], "correctAnswer": "independent" },
+          { "word": "indispensable", "options": ["indispensible", "indispensable", "indispensibel"], "correctAnswer": "indispensable" },
+          { "word": "inefficient", "options": ["inefficite", "inefficient", "ineffiecent"], "correctAnswer": "inefficient" },
+          { "word": "infamy", "options": ["imfamy", "infamy", "infmamy"], "correctAnswer": "infamy" },
+          { "word": "influential", "options": ["influencial", "influential", "influencial"], "correctAnswer": "influential" },
+          { "word": "initial", "options": ["inital", "initial", "initail"], "correctAnswer": "initial" },
+          { "word": "initialized", "options": ["initinized", "initized", "initialized"], "correctAnswer": "initialized" },
+          { "word": "inoculate", "options": ["innoculate", "inoculate", "inoculatte"], "correctAnswer": "inoculate" },
+          { "word": "insidious", "options": ["incedious", "insidious", "insidous"], "correctAnswer": "insidious" }
+        ]
+      },
+      {
+        "setNumber": 32,
+        "questions": [
+          { "word": "insistent", "options": ["insistant", "insistenet", "insistent"], "correctAnswer": "insistent" },
+          { "word": "installation", "options": ["instulation", "installation", "instalation"], "correctAnswer": "installation" },
+          { "word": "intelligent", "options": ["intealignt", "intejilent", "intelligent"], "correctAnswer": "intelligent" },
+          { "word": "interested", "options": ["intertes", "intertesd", "interested"], "correctAnswer": "interested" },
+          { "word": "interface", "options": ["inerface", "interface", "interfac"], "correctAnswer": "interface" },
+          { "word": "international", "options": ["internation", "international", "internatioal"], "correctAnswer": "international" },
+          { "word": "interpret", "options": ["interpretate", "interpret", "interprate"], "correctAnswer": "interpret" },
+          { "word": "interpreter", "options": ["interpretter", "interpreter", "interptr"], "correctAnswer": "interpreter" },
+          { "word": "inventions", "options": ["enventions", "inventions", "invention"], "correctAnswer": "inventions" },
+          { "word": "irresistible", "options": ["irresistable", "irresistible", "irresistibl"], "correctAnswer": "irresistible" }
+        ]
+      },{
+        "setNumber": 33,
+        "questions": [
+          { "word": "irritable", "options": ["irritible", "irritable", "irritablee"], "correctAnswer": "irritable" },
+          { "word": "isotope", "options": ["isotrop", "isotope", "isotop"], "correctAnswer": "isotope" },
+          { "word": "iterate", "options": ["interate", "iterate", "itreate"], "correctAnswer": "iterate" },
+          { "word": "john", "options": ["johhn", "john", "jhon"], "correctAnswer": "john" },
+          { "word": "judgment", "options": ["judgement", "judgment", "judgmet"], "correctAnswer": "judgment" },
+          { "word": "kilometer", "options": ["lilometer", "kilometer", "kilometre"], "correctAnswer": "kilometer" },
+          { "word": "kipper", "options": ["kippur", "kipper", "kippr"], "correctAnswer": "kipper" },
+          { "word": "knowing", "options": ["knawing", "knowing", "knoing"], "correctAnswer": "knowing" },
+          { "word": "laser", "options": ["luser", "laser", "lasar"], "correctAnswer": "laser" },
+          { "word": "latest", "options": ["latext", "latest", "latst"], "correctAnswer": "latest" }
+        ]
+      },
+      {
+        "setNumber": 34,
+        "questions": [
+          { "word": "layer", "options": ["lloyer", "layer", "layerd"], "correctAnswer": "layer" },
+          { "word": "leave", "options": ["leasve", "leave", "lve"], "correctAnswer": "leave" },
+          { "word": "leisure", "options": ["lesure", "leisure", "leisur"], "correctAnswer": "leisure" },
+          { "word": "lesion", "options": ["liasion", "lesion", "leson"], "correctAnswer": "lesion" },
+          { "word": "liaison", "options": ["liason", "liaison", "liaisan"], "correctAnswer": "liaison" },
+          { "word": "library", "options": ["libary", "library", "librery"], "correctAnswer": "library" },
+          { "word": "likely", "options": ["likly", "likely", "likley"], "correctAnswer": "likely" },
+          { "word": "liquefy", "options": ["liquify", "liquefy", "liquefy"], "correctAnswer": "liquefy" },
+          { "word": "losing", "options": ["lossing", "losing", "loosing"], "correctAnswer": "losing" },
+          { "word": "madness", "options": ["maddness", "madness", "madnes"], "correctAnswer": "madness" }
+        ]
+      },
+      {
+        "setNumber": 35,
+        "questions": [
+          { "word": "maintenance", "options": ["maintanence", "maintenance", "maintanence"], "correctAnswer": "maintenance" },
+          { "word": "majority", "options": ["majaerly", "majority", "majorly"], "correctAnswer": "majority" },
+          { "word": "marshal", "options": ["marshall", "marshal", "mashal"], "correctAnswer": "marshal" },
+          { "word": "masks", "options": ["maks", "masks", "mask"], "correctAnswer": "masks" },
+          { "word": "maximum", "options": ["maxium", "maximum", "maxium"], "correctAnswer": "maximum" },
+          { "word": "media", "options": ["midia", "media", "meda"], "correctAnswer": "media" },
+          { "word": "memento", "options": ["momento", "memento", "memento"], "correctAnswer": "memento" },
+          { "word": "memory", "options": ["meory", "memory", "mory"], "correctAnswer": "memory" },
+          { "word": "metaphysical", "options": ["pataphysical", "metaphysical", "metaphisical"], "correctAnswer": "metaphysical" },
+          { "word": "mike", "options": ["mic", "mike", "mikee"], "correctAnswer": "mike" }
+        ]
+      },
+      {
+        "setNumber": 36,
+        "questions": [
+          { "word": "millennium", "options": ["millenium", "millennium", "millenium"], "correctAnswer": "millennium" },
+          { "word": "minimum", "options": ["minum", "minimum", "minum"], "correctAnswer": "minimum" },
+          { "word": "minuscule", "options": ["miniscule", "minuscule", "minuscul"], "correctAnswer": "minuscule" },
+          { "word": "diaphoresis", "options": ["diaphoresis", "diaphoresis", "diaphoresis"], "correctAnswer": "diaphoresis" },
+          { "word": "mischievous", "options": ["mischievious", "mischievous", "mischevious"], "correctAnswer": "mischievous" },
+          { "word": "monkey", "options": ["minkay", "monkay", "monkey"], "correctAnswer": "monkey" },
+          { "word": "more", "options": ["mroe", "more", "moore"], "correctAnswer": "more" },
+          { "word": "mosaic", "options": ["mosaik", "mosaic", "mosaik"], "correctAnswer": "mosaic" },
+          { "word": "most_likely", "options": ["mostlikely", "most_likely", "mostlikey"], "correctAnswer": "most_likely" },
+          { "word": "mouser", "options": ["mousr", "mouser", "mousser"], "correctAnswer": "mouser" }
+        ]
+      },
+      {
+        "setNumber": 37,
+        "questions": [
+          { "word": "moving", "options": ["oving", "moving", "movin"], "correctAnswer": "moving" },
+          { "word": "naive", "options": ["nieve", "naive", "naivee"], "correctAnswer": "naive" },
+          { "word": "necessary", "options": ["neccessary", "necesary", "necesser", "necessary"], "correctAnswer": "necessary" },
+          { "word": "neighbour", "options": ["neighbor", "neighbour", "neighbur"], "correctAnswer": "neighbour" },
+          { "word": "nickelodeon", "options": ["nickleodeon", "nickelodeon", "nickelodeon"], "correctAnswer": "nickelodeon" },
+          { "word": "niece", "options": ["neice", "niece", "nece"], "correctAnswer": "niece" },
+          { "word": "no_one", "options": ["noone", "no_one", "none"], "correctAnswer": "no_one" },
+          { "word": "not_in", "options": ["notin", "not_in", "notin"], "correctAnswer": "not_in" },
+          { "word": "noticeably", "options": ["noticably", "noticeably", "noticibly"], "correctAnswer": "noticeably" },
+          { "word": "nuzzled", "options": ["nozled", "nuzzled", "nuzzeled"], "correctAnswer": "nuzzled" }
+        ]
+      },
+      {
+        "setNumber": 38,
+        "questions": [
+          { "word": "obfuscate", "options": ["obsfuscate", "obfuscate", "obfuscate"], "correctAnswer": "obfuscate" },
+          { "word": "objects", "options": ["objectsion", "objects", "objecks"], "correctAnswer": "objects" },
+          { "word": "occasion", "options": ["ocassion", "occasion", "occasian"], "correctAnswer": "occasion" },
+          { "word": "occasionally", "options": ["accosinly", "occusionaly", "occasionally", "occasionaly"], "correctAnswer": "occasionally" },
+          { "word": "occupied", "options": ["occuppied", "occupied", "occupid"], "correctAnswer": "occupied" },
+          { "word": "occurrence", "options": ["occurence", "occurrence", "occurrence"], "correctAnswer": "occurrence" },
+          { "word": "octogenarian", "options": ["octagenarian", "octogenarian", "octagenarion"], "correctAnswer": "octogenarian" },
+          { "word": "old", "options": ["olf", "old", "olde"], "correctAnswer": "old" },
+          { "word": "opossum", "options": ["opposim", "opossum", "opossom"], "correctAnswer": "opossum" },
+          { "word": "organize", "options": ["organise", "organiz", "organize", "organise"], "correctAnswer": "organize" }
+        ]
+      },{
+        "setNumber": 39,
+        "questions": [
+          { "word": "kurta", "options": ["kurta", "curta", "kurta"], "correctAnswer": "kurta" },
+          { "word": "Hyperion", "options": ["Hyperion", "Hypherion", "Hyperion"], "correctAnswer": "Hyperion" },
+          { "word": "Geiger", "options": ["Geiger", "Geigor", "Geiger"], "correctAnswer": "Geiger" },
+          { "word": "thermohaline", "options": ["thermohaline", "thermohalin", "thermohaline"], "correctAnswer": "thermohaline" },
+          { "word": "gannet", "options": ["gannet", "ganet", "gannet"], "correctAnswer": "gannet" },
+          { "word": "palladium", "options": ["palladium", "palladium", "palladium"], "correctAnswer": "palladium" },
+          { "word": "brevet", "options": ["brevet", "brevett", "brevet"], "correctAnswer": "brevet" },
+          { "word": "pamphlet", "options": ["pamphlet", "pamphlet", "pamphlet"], "correctAnswer": "pamphlet" },
+          { "word": "palindrome", "options": ["palindrome", "palindrom", "palindrome"], "correctAnswer": "palindrome" },
+          { "word": "visite", "options": ["visite", "visit", "visite"], "correctAnswer": "visite" }
+        ]
+      },
+      {
+        "setNumber": 40,
+        "questions": [
+          { "word": "satsuma", "options": ["satsuma", "satsma", "satsuma"], "correctAnswer": "satsuma" },
+        { "word": "stirrups", "options": ["stirrups", "stirups", "stirrups"], "correctAnswer": "stirrups" },
+        { "word": "Connemara", "options": ["Connemara", "Conemara", "Connemara"], "correctAnswer": "Connemara" },
+        { "word": "abundance", "options": ["abundance", "abudance", "abundance"], "correctAnswer": "abundance" },
+        { "word": "calamitous", "options": ["calamitous", "calamitous", "calamitous"], "correctAnswer": "calamitous" },
+        { "word": "apprentice", "options": ["apprentice", "apprentis", "apprentice"], "correctAnswer": "apprentice" },
+        { "word": "dropsonde", "options": ["dropsonde", "dropsonde", "dropsonde"], "correctAnswer": "dropsonde" },
+        { "word": "reluctant", "options": ["reluctant", "reluctent", "reluctant"], "correctAnswer": "reluctant" },
+        { "word": "proclamation", "options": ["proclamation", "proclomation", "proclamation"], "correctAnswer": "proclamation" },
+        { "word": "heritage", "options": ["heritage", "heretige", "heritage"], "correctAnswer": "heritage" }
+        ]
+      },
+      {
+        "setNumber": 41,
+        "questions": [
+          { "word": "hokum", "options": ["hokum", "hockum", "hokum"], "correctAnswer": "hokum" },
+          { "word": "sojourner", "options": ["sojourner", "sojourer", "sojourner"], "correctAnswer": "sojourner" },
+          { "word": "colossal", "options": ["colossal", "colassal", "colossal"], "correctAnswer": "colossal" },
+          { "word": "derogatory", "options": ["derogatory", "derogotory", "derogatory"], "correctAnswer": "derogatory" },
+          { "word": "coltan", "options": ["coltan", "coltan", "coltan"], "correctAnswer": "coltan" },
+          { "word": "palsy", "options": ["palsy", "paalsy", "palsy"], "correctAnswer": "palsy" },
+          { "word": "squadron", "options": ["squadron", "squadorn", "squadron"], "correctAnswer": "squadron" },
+          { "word": "Lascaux", "options": ["Lascaux", "Lasaux", "Lascaux"], "correctAnswer": "Lascaux" },
+          { "word": "marinate", "options": ["marinate", "marinade", "marinate"], "correctAnswer": "marinate" },
+          { "word": "synesthesia", "options": ["synesthesia", "synaesthesia", "synesthesia"], "correctAnswer": "synesthesia" }
+        ]
+      },{
+        "setNumber": 42,
+        "questions": [
+          { "word": "problematic", "options": ["proplematic", "problematic", "problematic"], "correctAnswer": "problematic" },
+          { "word": "procedures", "options": ["proceedures", "procedures", "procedure"], "correctAnswer": "procedures" },
+          { "word": "pronunciation", "options": ["pronensiation", "pronisation", "pronunciation"], "correctAnswer": "pronunciation" },
+          { "word": "properly", "options": ["properally", "properly", "propley"], "correctAnswer": "properly" },
+          { "word": "psychologist", "options": ["pscolgst", "psicologest", "psychologist"], "correctAnswer": "psychologist" },
+          { "word": "pursue", "options": ["persue", "presue", "pursue"], "correctAnswer": "pursue" },
+          { "word": "pursued", "options": ["presued", "pursued", "pursude"], "correctAnswer": "pursued" },
+          { "word": "quiz", "options": ["quoz", "quiz", "quix"], "correctAnswer": "quiz" },
+          { "word": "raccoon", "options": ["reccona", "raccoon", "raccoon"], "correctAnswer": "raccoon" },
+          { "word": "radius", "options": ["radious", "radius", "raddiuss"], "correctAnswer": "radius" }
+        ]
+      },
+      {
+        "setNumber": 43,
+        "questions": [
+          { "word": "rampantly", "options": ["ramplily", "rampantly", "rampently"], "correctAnswer": "rampantly" },
+          { "word": "rank", "options": ["wrank", "rank", "runk"], "correctAnswer": "rank" },
+          { "word": "receive", "options": ["recieve", "receive", "recieve"], "correctAnswer": "receive" },
+          { "word": "recognize", "options": ["reconise", "recognize", "recognise"], "correctAnswer": "recognize" },
+          { "word": "recommend", "options": ["reccomend", "recommend", "recommed"], "correctAnswer": "recommend" },
+          { "word": "rectangle", "options": ["rectangeles", "rectangle", "rectangl"], "correctAnswer": "rectangle" },
+          { "word": "recurring", "options": ["reoccurring", "recurring", "recuring"], "correctAnswer": "recurring" },
+          { "word": "redesign", "options": ["redign", "redesign", "re-design"], "correctAnswer": "redesign" },
+          { "word": "regardless", "options": ["irregardless", "regardless", "regaurdless"], "correctAnswer": "regardless" },
+          { "word": "repetition", "options": ["repitition", "repetition", "reptition"], "correctAnswer": "repetition" }
+        ]
+      },
+      {
+        "setNumber": 44,
+        "questions": [
+          { "word": "replacement", "options": ["replasments", "replacement", "replacment"], "correctAnswer": "replacement" },
+          { "word": "resemblance", "options": ["reseblence", "resemblance", "ressemblence"], "correctAnswer": "resemblance" },
+          { "word": "respect", "options": ["respct", "respect", "respect"], "correctAnswer": "respect" },
+          { "word": "respectfully", "options": ["respecally", "respectfully", "respectfully"], "correctAnswer": "respectfully" },
+          { "word": "responsible", "options": ["reposable", "responsible", "resposible"], "correctAnswer": "responsible" },
+          { "word": "room", "options": ["roon", "room", "rom"], "correctAnswer": "room" },
+          { "word": "roughly", "options": ["rought", "roughly", "ruofly"], "correctAnswer": "roughly" },
+          { "word": "rudimentary", "options": ["rudemtry", "rudimentary", "rudementary"], "correctAnswer": "rudimentary" },
+          { "word": "running", "options": ["runnung", "running", "runing"], "correctAnswer": "running" },
+          { "word": "sacrilegious", "options": ["sacreligious", "sacreligious", "sacrilegious"], "correctAnswer": "sacrilegious" }
+        ]
+      },{
+        "setNumber": 45,
+        "questions": [
+          { "word": "safely", "options": ["saftly", "safely", "safley"], "correctAnswer": "safely" },
+          { "word": "salute", "options": ["salut", "salute", "salutte"], "correctAnswer": "salute" },
+          { "word": "satisfy", "options": ["satifly", "satisfy", "satisfai"], "correctAnswer": "satisfy" },
+          { "word": "scrabble", "options": ["scrabdle", "scrabble", "scrabll"], "correctAnswer": "scrabble" },
+          { "word": "section", "options": ["secion", "section", "secton"], "correctAnswer": "section" },
+          { "word": "segments", "options": ["segements", "segments", "segemnts"], "correctAnswer": "segments" },
+          { "word": "seize", "options": ["sieze", "seize", "sez"], "correctAnswer": "seize" },
+          { "word": "sense", "options": ["sence", "sense", "sens"], "correctAnswer": "sense" },
+          { "word": "separate", "options": ["seperate", "separate", "seperat"], "correctAnswer": "separate" },
+          { "word": "several", "options": ["seferal", "several", "sevrall"], "correctAnswer": "several" }
+        ]
+      },
+      {
+        "setNumber": 46,
+        "questions": [
+          { "word": "sherbet", "options": ["sherbert", "sherbet", "shrebert"], "correctAnswer": "sherbet" },
+          { "word": "signal", "options": ["singal", "signal", "siganl"], "correctAnswer": "signal" },
+          { "word": "simplicity", "options": ["cimplicity", "simplicity", "simiplicity"], "correctAnswer": "simplicity" },
+          { "word": "simply", "options": ["simplye", "simply", "simplly"], "correctAnswer": "simply" },
+          { "word": "site", "options": ["sitte", "site", "sitt"], "correctAnswer": "site" },
+          { "word": "situation", "options": ["situration", "situation", "situatoin"], "correctAnswer": "situation" },
+          { "word": "smile", "options": ["smil", "smile", "smiile"], "correctAnswer": "smile" },
+          { "word": "sneaked", "options": ["snuck", "sneaked", "sneeked"], "correctAnswer": "sneaked" },
+          { "word": "sometimes", "options": ["sometmes", "sometimes", "someetimes"], "correctAnswer": "sometimes" },
+          { "word": "sonic", "options": ["soonec", "sonic", "sonick"], "correctAnswer": "sonic" }
+        ]
+      },
+      {
+        "setNumber": 47,
+        "questions": [
+          { "word": "specifically", "options": ["specificialy", "specifically", "specifcally"], "correctAnswer": "specifically" },
+          { "word": "spell", "options": ["spel", "spell", "spell"], "correctAnswer": "spell" },
+          { "word": "spoke", "options": ["spoak", "spoke", "spok"], "correctAnswer": "spoke" },
+          { "word": "sponsored", "options": ["sponsered", "sponsored", "sponserd"], "correctAnswer": "sponsored" },
+          { "word": "steering", "options": ["stering", "steering", "steirng"], "correctAnswer": "steering" },
+          { "word": "stomach", "options": ["stumach", "stomach", "stmoach"], "correctAnswer": "stomach" },
+          { "word": "straitjacket", "options": ["straightjacket", "straitjacket", "straighjacket"], "correctAnswer": "straitjacket" },
+          { "word": "student", "options": ["stutent", "student", "studnet"], "correctAnswer": "student" },
+          { "word": "style_guide", "options": ["styleguide", "style_guide", "styleguide"], "correctAnswer": "style_guide" },
+          { "word": "subpoena", "options": ["subpena", "subpoena", "subpina"], "correctAnswer": "subpoena" }
+        ] 
+      },
+      {
+        "setNumber": 48,
+        "questions": [
+          { "word": "subscribed", "options": ["subjecribed", "subscribed", "subsribed"], "correctAnswer": "subscribed" },
+          { "word": "substitutions", "options": ["subisitions", "substitutions", "substations"], "correctAnswer": "substitutions" },
+          { "word": "sugar", "options": ["suger", "sugar", "suagr"], "correctAnswer": "sugar" },
+          { "word": "superfluous", "options": ["superfulous", "superfluous", "superfluous"], "correctAnswer": "superfluous" },
+          { "word": "supersede", "options": ["supercede", "supersede", "superceed"], "correctAnswer": "supersede" },
+          { "word": "swimwear", "options": ["swim_wear", "swimwear", "swimwear"], "correctAnswer": "swimwear" },
+          { "word": "sylph", "options": ["slyph", "sylph", "slyph"], "correctAnswer": "sylph" },
+          { "word": "synchronization", "options": ["syncorization", "synchronization", "syncroization"], "correctAnswer": "synchronization" },
+          { "word": "tattoos", "options": ["tattos", "tattoos", "tatos"], "correctAnswer": "tattoos" },
+          { "word": "uranium", "options": ["uranisium", "uranium", "uraniam"], "correctAnswer": "uranium" }
+        ]
+      },
+      {
+        "setNumber": 49,
+        "questions": [
+          { "word": "technically", "options": ["techniquely", "technically", "technicly"], "correctAnswer": "technically" },
+          { "word": "vinaigrette", "options": ["vinagarette", "vinaigrette", "vinaigret"], "correctAnswer": "vinaigrette" },
+          { "word": "unintelligible", "options": ["unentelegible", "unintelligible", "unintelligble"], "correctAnswer": "unintelligible" },
+          { "word": "than_or", "options": ["thanot", "than_or", "thanor"], "correctAnswer": "than_or" },
+          { "word": "unfortunately", "options": ["unformanlly", "unfortunently", "unfortunately"], "correctAnswer": "unfortunately" },
+          { "word": "themselves", "options": ["theirselves", "themselves", "themself"], "correctAnswer": "themselves" },
+          { "word": "theoretical", "options": ["teridical", "theoretical", "theridically"], "correctAnswer": "theoretical" },
+          { "word": "theoretically", "options": ["thredically", "theoretically", "theoreticly"], "correctAnswer": "theoretically" },
+          { "word": "throughout", "options": ["thruout", "throughout", "throuhout"], "correctAnswer": "throughout" },
+          { "word": "verandas", "options": ["verandas", "verandahs", "verandas"], "correctAnswer": "verandas" }
+        ]
+      },
+      {
+        "setNumber": 50,
+        "questions": [
+          { "word": "tomorrow", "options": ["tommorrow", "tomorow", "tomorrow"], "correctAnswer": "tomorrow" },
+          { "word": "tough", "options": ["taff", "tough", "tugh"], "correctAnswer": "tough" },
+          { "word": "tragedy", "options": ["tradegy", "tragedy", "tragdy"], "correctAnswer": "tragedy" },
+          { "word": "trouble", "options": ["trubbel", "trouble", "troble"], "correctAnswer": "trouble" },
+          { "word": "tunnel_like", "options": ["tunnellike", "tunnel_like", "tunnellike"], "correctAnswer": "tunnel_like" },
+          { "word": "turned", "options": ["tured", "turned", "turrned"], "correctAnswer": "turned" },
+          { "word": "tyranny", "options": ["tyrrany", "tyranny", "tyraney"], "correctAnswer": "tyranny" },
+          { "word": "unconscious", "options": ["unconscience", "unconscious", "unconsious"], "correctAnswer": "unconscious" },
+          { "word": "unconstitutional", "options": ["unconisitional", "unconstitutional", "unconstititional"], "correctAnswer": "unconstitutional" },
+          { "word": "under_ladder", "options": ["underladder", "under_ladder", "underlader"], "correctAnswer": "under_ladder" }
         ]
       }
     ]

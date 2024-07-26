@@ -3,6 +3,7 @@ import IntentClassifier from '../intent/intent.classifier';
 import { MessageService } from 'src/message/message.service';
 import { UserService } from 'src/model/user.service';
 import { SwiftchatMessageService } from 'src/swiftchat/swiftchat.service';
+import { localised } from 'src/i18n/quiz/localised-string';
 
 @Injectable()
 export class ChatbotService {
@@ -123,9 +124,12 @@ export class ChatbotService {
     }
 
     // Handle text message
-    this.message.sendWelcomeMessage(from, userData.language);
+    if (localised.validText.includes(text.body)) {
+      await this.message.sendWelcomeMessage(from, userData.language);
+      return 'ok';
+    }
 
-    return 'ok';
+    console.log('Please, enter a valid text');
   }
 }
 

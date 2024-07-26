@@ -107,10 +107,7 @@ export class SwiftchatMessageService extends MessageService {
     const randomSetIndex = Math.floor(Math.random() * sets.length);
     const selectedSet = sets[randomSetIndex];
 
-    // // Pick a random question from the selected set
-    // const randomQuestionIndex = Math.floor(
-    //   Math.random() * selectedSet.questions.length,
-    // );
+    
     // Initialize current question index to 0
     const currentQuestionIndex = 0;
     const question = selectedSet.questions[currentQuestionIndex];
@@ -171,10 +168,6 @@ export class SwiftchatMessageService extends MessageService {
       return;
     }
 
-    // Pick a random question from the selected set
-    // const randomQuestionIndex = Math.floor(
-    //   Math.random() * selectedSet.questions.length,
-    // );
     if (currentQuestionIndex >= selectedSet.questions.length) {
       console.log('No more questions in the set');
       return;
