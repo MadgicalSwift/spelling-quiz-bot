@@ -843,7 +843,7 @@
           { "word": "yam", "options": ["yam", "yamm", "yaam"], "correctAnswer": "yam" },
           { "word": "zucchini", "options": ["zucchini", "zucchinni", "zuchini"], "correctAnswer": "zucchini" },
           { "word": "apricot", "options": ["apricot", "appricot", "apricott"], "correctAnswer": "apricot" },
-          { "word": "blueberry", "options": ["blueberry", "blueberri", "blueberri"], "correctAnswer": "blueberry" }
+          { "word": "blueberry", "options": ["blueberry", "blueb  erri", "blueberri"], "correctAnswer": "blueberry" }
         ]
       },{
         "setNumber": 7,

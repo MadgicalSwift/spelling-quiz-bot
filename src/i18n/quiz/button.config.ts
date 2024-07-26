@@ -1,14 +1,6 @@
-
-
-export const difficultyButtons = {
-    type: 'button',
-    button: {
-      body: {
-        type: 'text',
-        text: {
-          body: 'Select Difficulty',
-        },
-      },
+import { localised } from "./localised-string";
+export const levelButtons = {
+  
       buttons: [
         {
           type: 'solid',
@@ -26,9 +18,9 @@ export const difficultyButtons = {
           reply: 'Hard',
         },
       ],
-      allow_custom_response: false,
-    },
-  };
+     
+    }
+  
   
   export const nextQuestionButtons = {
     type: 'button',

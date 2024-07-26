@@ -7,6 +7,7 @@ import questionData from '../chat/questions.json';
 import { response } from 'express';
 import { repl } from '@nestjs/core';
 import { localised } from 'src/i18n/quiz/localised-string';
+import { levelButtons } from 'src/i18n/quiz/button.config';
 
 dotenv.config();
 
@@ -49,7 +50,7 @@ export class SwiftchatMessageService extends MessageService {
     );
     await this.difficultyButtons(from);
   }
-  
+
   async difficultyButtons(from: string) {
     const messageData = {
       to: from,
@@ -107,7 +108,6 @@ export class SwiftchatMessageService extends MessageService {
     const randomSetIndex = Math.floor(Math.random() * sets.length);
     const selectedSet = sets[randomSetIndex];
 
-    
     // Initialize current question index to 0
     const currentQuestionIndex = 0;
     const question = selectedSet.questions[currentQuestionIndex];
@@ -201,32 +201,32 @@ export class SwiftchatMessageService extends MessageService {
     return { response, selectedSet };
   }
 
-  async checkAnswer(from: string, selectedOption: string) {
-    const difficultyLevels = ['easy', 'medium', 'hard'];
-    let correctAnswer = '';
-
-    for (const level of difficultyLevels) {
-      const levelData = questionData[level];
-      if (!levelData) {
-        console.log(`Difficulty level ${level} not found in questionData.`);
-        continue;
-      }
-
-      for (const set of levelData.sets) {
-        const question = set.questions.find(
-          (currentQuestion) => currentQuestion.correctAnswer === selectedOption,
-        );
-        if (question) {
-          correctAnswer = question.correctAnswer;
-          break;
-        }
-      }
-
-      if (correctAnswer) {
-        break;
-      }
+  async checkAnswer(
+    from: string,
+    selectedOption: string,
+    difficulty: string,
+    selectedSet: string,
+    currentQuestionIndex: number,
+  ) {
+    const difficultyData = questionData[difficulty.toLowerCase()];
+    if (!difficultyData) {
+      console.log('Difficulty level  not found.');
     }
 
+    const setData = difficultyData.sets.find(
+      (set) => set.setNumber === selectedSet,
+    );
+    if (!setData) {
+      console.log('SetNumber not found.');
+    }
+    const questionIndex = currentQuestionIndex - 1;
+
+    // Get the current question
+    const question = setData.questions[questionIndex];
+    if (!question) {
+      console.log('Question index out of range.');
+    }
+    const correctAnswer = question.correctAnswer;
     if (selectedOption === correctAnswer) {
       const requestData = this.prepareRequestData(from, localised.correct);
 

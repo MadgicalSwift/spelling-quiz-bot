@@ -43,7 +43,7 @@ export class ChatbotService {
         process.env.BOT_ID,
       );
     }
-
+  
     // Handle button response
     if (button_response) {
       const difficulty = ['Easy', 'Medium', 'Hard'];
@@ -99,6 +99,9 @@ export class ChatbotService {
         const answer = await this.swiftchatMessageService.checkAnswer(
           from,
           selectedOption,
+          userData.difficulty,
+          userData.selectedSet,
+          userData.currentQuestionIndex
         );
 
         //update user question and score

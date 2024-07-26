@@ -30,7 +30,7 @@ export abstract class MessageService {
   abstract sendWelcomeMessage(from: string, language: string);
   abstract difficultyButtons(from: string);
   abstract getQuestionByDifficulty(from: string, selectedDifficulty: string);
-  abstract checkAnswer(from: string, selectedOption: string);
+  abstract checkAnswer(from: string, selectedOption: string,  difficulty:string, selectedSet:string, currentQuestionIndex: number);
   abstract afterAnswerButtons(from: string);
   abstract sendLanguageChangedMessage(from: string, language: string);
   abstract getQuestionBySet(from: string, difficulty: string, setNumber: string, currentQuestionIndex: number);
