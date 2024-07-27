@@ -7,7 +7,7 @@ import questionData from '../chat/questions.json';
 import { response } from 'express';
 import { repl } from '@nestjs/core';
 import { localised } from 'src/i18n/quiz/localised-string';
-import { levelButtons } from 'src/i18n/quiz/button.config';
+
 
 dotenv.config();
 
@@ -246,7 +246,7 @@ export class SwiftchatMessageService extends MessageService {
       })
       return 'correct';
     } else {
-      const requestData = this.prepareRequestData(from, localised.wrong);
+      const requestData = this.prepareRequestData(from, `${localised.wrong} The correct answer is ${correctAnswer}. Don't worry, keep going! You're doing great!`);
 
       const response = await this.sendMessage(
         this.baseUrl,

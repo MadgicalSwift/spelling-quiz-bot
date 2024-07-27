@@ -4,7 +4,7 @@ export const localised = {
   difficulty: 'Please select your preferred difficulty level.',
   spelling: 'Select the correct spelling.',
   correct: 'Well done! Your answer is correct. Great job!',
-  wrong: `Unfortunately, that's not correct. Please try again!`,
+  wrong: `Oops! It looks like that's not quite right.`,
   nextquestion: 'Next Question or Back to Main Menu.',
   validText:['hi', 'Hi', 'HI', 'hI', 'Hello', 'hello', 'hola'],
 };
