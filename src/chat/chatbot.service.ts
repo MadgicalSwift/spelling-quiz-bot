@@ -4,6 +4,7 @@ import { MessageService } from 'src/message/message.service';
 import { UserService } from 'src/model/user.service';
 import { SwiftchatMessageService } from 'src/swiftchat/swiftchat.service';
 import { localised } from 'src/i18n/quiz/localised-string';
+import { MixpanelService } from 'src/mixpanel/mixpanel.service';
 
 @Injectable()
 export class ChatbotService {
@@ -11,17 +12,20 @@ export class ChatbotService {
   private readonly message: MessageService;
   private readonly userService: UserService;
   private readonly swiftchatMessageService: SwiftchatMessageService;
+  private readonly mixpanel: MixpanelService;
 
   constructor(
     intentClassifier: IntentClassifier,
     message: MessageService,
     userService: UserService,
     swiftchatMessageService: SwiftchatMessageService,
+    mixpanel: MixpanelService
   ) {
     this.intentClassifier = intentClassifier;
     this.message = message;
     this.userService = userService;
     this.swiftchatMessageService = swiftchatMessageService;
+    this.mixpanel = mixpanel;
   }
 
   public async processMessage(body: any): Promise<any> {
@@ -67,6 +71,11 @@ export class ChatbotService {
         userData.currentQuestionIndex = 1;
 
         await this.userService.saveUser(userData);
+        this.mixpanel.track('Button_Click', {
+          distinct_id: from,
+          language: userData.language,
+          button_text: body?.button_response?.body,
+        })
         return 'done';
       }
 
@@ -76,6 +85,11 @@ export class ChatbotService {
         userData.score = 0;
         await this.userService.saveUser(userData);
         await this.message.sendWelcomeMessage(from, userData.language);
+        this.mixpanel.track('Button_Click', {
+          distinct_id: from,
+          language: userData.language,
+          button_text: body?.button_response?.body,
+        })
         return 'ok';
       }
 
@@ -90,7 +104,11 @@ export class ChatbotService {
         );
         userData.currentQuestionIndex += 1;
         await this.userService.saveUser(userData);
-
+        this.mixpanel.track('Button_Click', {
+          distinct_id: from,
+          language: userData.language,
+          button_text: body?.button_response?.body,
+        })
         return 'ok';
       }
 
@@ -98,6 +116,7 @@ export class ChatbotService {
       else {
         const answer = await this.swiftchatMessageService.checkAnswer(
           from,
+          userData.language,
           selectedOption,
           userData.difficulty,
           userData.selectedSet,

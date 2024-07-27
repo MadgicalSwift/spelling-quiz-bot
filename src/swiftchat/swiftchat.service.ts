@@ -203,6 +203,7 @@ export class SwiftchatMessageService extends MessageService {
 
   async checkAnswer(
     from: string,
+    language:string,
     selectedOption: string,
     difficulty: string,
     selectedSet: string,
@@ -235,6 +236,14 @@ export class SwiftchatMessageService extends MessageService {
         requestData,
         this.apiKey,
       );
+      this.mixpanel.track('Taking_Quiz', {
+        distinct_id: from,
+        language: language,
+        question:question.question,
+        user_answer:selectedOption,
+        answer_is:'correct'
+       
+      })
       return 'correct';
     } else {
       const requestData = this.prepareRequestData(from, localised.wrong);
@@ -244,6 +253,14 @@ export class SwiftchatMessageService extends MessageService {
         requestData,
         this.apiKey,
       );
+      this.mixpanel.track('Taking_Quiz', {
+        distinct_id: from,
+        language: language,
+        question:question.question,
+        user_answer:selectedOption,
+        answer_is:'incorrect'
+       
+      })
       return 'incorrect';
     }
   }

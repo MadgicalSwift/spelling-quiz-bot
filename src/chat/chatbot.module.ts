@@ -7,6 +7,7 @@ import IntentClassifier from 'src/intent/intent.classifier';
 import { UserModule } from 'src/model/user.module'; // Import UserModule
 import { SwiftchatMessageService } from 'src/swiftchat/swiftchat.service';
 import { MessageService } from 'src/message/message.service';
+import { MixpanelService } from 'src/mixpanel/mixpanel.service';
 
 @Module({
   imports: [SwiftchatModule, UserModule], // Import UserModule to access UserService
@@ -17,6 +18,7 @@ import { MessageService } from 'src/message/message.service';
       provide: MessageService,
       useClass: SwiftchatMessageService,
     },
+    MixpanelService
   ],
   exports: [ChatbotService, IntentClassifier],
 })
