@@ -1,14 +1,30 @@
-#  Chatbot NestJS Boilerplate
+# Spelling Quiz Game
 
-In this comprehensive guide, we introduce you to our Chatbot Starter Kit, a resource designed to empower developers in building robust chatbot applications. Whether you are just starting your journey in chatbot development or are an experienced developer seeking an efficient solution, this document is your go-to resource for mastering the use of our starter kit.
+1. Welcome Message:
+The game starts with a greeting: "Hi"
+You will then receive a welcome message along with buttons to select the difficulty level: Easy, Medium, or Hard.
 
+2.Select Difficulty Level:
+Choose your desired difficulty level by clicking on the appropriate button.
+
+3.Answer Questions:
+Based on your selected difficulty level, you will receive a series of 10 spelling questions.
+Click on "Next Question" after answering each question to proceed to the next one.
+
+4.Change Difficulty (Optional):
+During the quiz, if you want to change the difficulty level, click on the "Main Menu" button.
+Select a new difficulty level from the menu.
+You will then receive a new set of 10 questions according to the newly selected difficulty level.
+
+5.View Score:
+After completing 10 questions, your score will be displayed out of 10.
 
 # Prerequisites
 Before you begin, ensure you have met the following requirements:
 
 * Node.js and npm installed
 * Nest.js CLI installed (npm install -g @nestjs/cli)
-* MySQL database accessible
+* DynamoDB database 
 
 ## Getting Started
 ### Installation
@@ -18,11 +34,11 @@ Click the "Fork" button in the upper right corner of the repository page. This w
 
 * Clone this repository:
 ```
-https://github.com/madgicaltechdom/chatbot-nestjs-boilerplate.git
+https://github.com/MadgicalSwift/spelling-quiz-bot
 ```
 * Navigate to the Project Directory:
 ```
-cd chatbot-nestjs-boilerplate
+cd spelling-quiz-bot
 ```
 * Install Project Dependencies:
 ```bash
@@ -61,10 +77,10 @@ $ npm run test:cov
 API_URL = API_URL
 BOT_ID = BOT_ID
 API_KEY = API_KEY
-DATA_BASE=DATA_BASE
-DB_HOST=DB_HOST
-DB_USER=DB_USER
-DB_PASSWORD=DB_PASSWORD
+REGION=region
+USER_TABLE=xyz_table
+ACCESS_KEY_ID=your_access_key_id_
+SECRET_ACCESS_KEY=your_secret_access_key
 ```
 # API Endpoints
 ```
@@ -81,6 +97,7 @@ src/
 ├── chat/
 │   ├── chat.service.ts
 │   └── chatbot.model.ts
+|   └── questions.json
 ├── common/
 │   ├── exceptions/
 │   │   ├── custom.exception.ts
@@ -93,10 +110,12 @@ src/
 ├── config/
 │   └── database.config.ts
 ├── i18n/
-│   ├── en/
-│   │   └── localised-strings.ts
-│   └── hi/
-│       └── localised-strings.ts
+|      ├── en/
+|      │   └── localised-strings.ts
+|      ├── hi/
+|      │   └── localised-strings.ts
+|      └── quiz/
+|           └── localised-strings.ts
 ├── localization/
 │   ├── localization.service.ts
 │   └── localization.module.ts
@@ -114,6 +133,5 @@ src/
 
 ```
 
-# Link
-* [Documentation](https://app.clickup.com/43312857/v/dc/199tpt-7824/199tpt-19527)
+
 
