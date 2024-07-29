@@ -1,7 +1,7 @@
-# Spelling Quiz Game
+# Spelling Quiz Bot
 
 1. Welcome Message:
-The game starts with a greeting: "Hi"
+The bot starts with a greeting: "Hi"
 You will then receive a welcome message along with buttons to select the difficulty level: Easy, Medium, or Hard.
 
 2.Select Difficulty Level:
