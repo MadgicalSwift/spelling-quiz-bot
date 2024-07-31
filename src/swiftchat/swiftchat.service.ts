@@ -7,6 +7,8 @@ import questionData from '../chat/questions.json';
 import { response } from 'express';
 import { repl } from '@nestjs/core';
 import { localised } from 'src/i18n/quiz/localised-string';
+import * as _ from 'lodash';
+
 
 
 dotenv.config();
@@ -111,6 +113,7 @@ export class SwiftchatMessageService extends MessageService {
     // Initialize current question index to 0
     const currentQuestionIndex = 0;
     const question = selectedSet.questions[currentQuestionIndex];
+    const shuffledOptions = _.shuffle(question.options);
 
     const chooseAnswer = {
       to: from,
@@ -123,7 +126,7 @@ export class SwiftchatMessageService extends MessageService {
           },
         },
 
-        buttons: question.options.map((option: string) => ({
+        buttons: shuffledOptions.map((option: string) => ({
           type: 'solid',
           body: option,
           reply: option,
@@ -173,6 +176,8 @@ export class SwiftchatMessageService extends MessageService {
       return;
     }
     const question = selectedSet.questions[currentQuestionIndex];
+    const shuffledOptions = _.shuffle(question.options);
+
     const chooseAnswer = {
       to: from,
       type: 'button',
@@ -183,7 +188,7 @@ export class SwiftchatMessageService extends MessageService {
             body: localised.spelling,
           },
         },
-        buttons: question.options.map((option: string) => ({
+        buttons: shuffledOptions.map((option: string) => ({
           type: 'solid',
           body: option,
           reply: option,
@@ -200,10 +205,10 @@ export class SwiftchatMessageService extends MessageService {
 
     return { response, selectedSet };
   }
-
+ 
   async checkAnswer(
     from: string,
-    language:string,
+    language: string,
     selectedOption: string,
     difficulty: string,
     selectedSet: string,
@@ -228,8 +233,10 @@ export class SwiftchatMessageService extends MessageService {
       console.log('Question index out of range.');
     }
     const correctAnswer = question.correctAnswer;
+    const explanation =  question.explanation
     if (selectedOption === correctAnswer) {
-      const requestData = this.prepareRequestData(from, localised.correct);
+      const requestData = this.prepareRequestData(from, `${localised.correct}. 
+      ${correctAnswer} : ${explanation}`);
 
       const response = await this.sendMessage(
         this.baseUrl,
@@ -239,14 +246,17 @@ export class SwiftchatMessageService extends MessageService {
       this.mixpanel.track('Taking_Quiz', {
         distinct_id: from,
         language: language,
-        question:question.question,
-        user_answer:selectedOption,
-        answer_is:'correct'
-       
-      })
+        question: question.question,
+        user_answer: selectedOption,
+        answer_is: 'correct',
+      });
       return 'correct';
     } else {
-      const requestData = this.prepareRequestData(from, `${localised.wrong} The correct answer is ${correctAnswer}. Don't worry, keep going! You're doing great!`);
+      const requestData = this.prepareRequestData(
+        from,
+        `${localised.wrong} The correct answer is ${correctAnswer}.Don't worry, keep going! You're doing great!.
+         ${correctAnswer} : ${explanation}`,
+      );
 
       const response = await this.sendMessage(
         this.baseUrl,
@@ -256,11 +266,10 @@ export class SwiftchatMessageService extends MessageService {
       this.mixpanel.track('Taking_Quiz', {
         distinct_id: from,
         language: language,
-        question:question.question,
-        user_answer:selectedOption,
-        answer_is:'incorrect'
-       
-      })
+        question: question.question,
+        user_answer: selectedOption,
+        answer_is: 'incorrect',
+      });
       return 'incorrect';
     }
   }

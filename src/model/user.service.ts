@@ -89,7 +89,7 @@ export class UserService {
       Item: user,
     };
     try {
-      console.log('Updating user score:', user);
+      // console.log('Updating user score:', user);
       await dynamoDBClient().put(updateUser).promise();
     } catch (error) {
       console.error('Error updating user score in DynamoDB:', error);
