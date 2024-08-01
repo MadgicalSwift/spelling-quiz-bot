@@ -2802,7 +2802,7 @@
         "questions": [
           {
             "word": "feast",
-            "options": ["feast", "fist", "fest"],
+            "options": ["feast", "feeast", "faest"],
             "correctAnswer": "feast",
             "explanation": "A large meal, often for a celebration."
           },
@@ -2844,7 +2844,7 @@
           },
           {
             "word": "matrix",
-            "options": ["matrix", "matrex", "matrics"],
+            "options": ["matrix", "matrex", "matriecs"],
             "correctAnswer": "matrix",
             "explanation": "A rectangular array of numbers or other elements."
           },
