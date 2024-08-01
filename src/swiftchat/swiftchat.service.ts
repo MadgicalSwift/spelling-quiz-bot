@@ -254,7 +254,7 @@ export class SwiftchatMessageService extends MessageService {
     } else {
       const requestData = this.prepareRequestData(
         from,
-        `${localised.wrong} The correct answer is ${correctAnswer}.Don't worry, keep going! You're doing great!.
+        `${localised.wrong} The correct answer is ${correctAnswer}. Don't worry, keep going! You're doing great!.
          ${correctAnswer} : ${explanation}`,
       );
 
