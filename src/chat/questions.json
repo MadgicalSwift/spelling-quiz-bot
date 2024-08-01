@@ -25,7 +25,7 @@
           },
           {
             "word": "moon",
-            "options": ["moon", "mun", "moan"],
+            "options": ["moon", "mun", "mon"],
             "correctAnswer": "moon",
             "explanation": "The natural satellite of the earth."
           },
