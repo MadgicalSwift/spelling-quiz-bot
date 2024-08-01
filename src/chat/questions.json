@@ -332,7 +332,7 @@
         "questions": [
           {
             "word": "pen",
-            "options": ["pen", "penn", "pan"],
+            "options": ["pen", "penn", "pann"],
             "correctAnswer": "pen",
             "explanation": "A writing instrument with a pointed tip and ink used for writing or drawing."
           },
