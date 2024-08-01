@@ -350,13 +350,13 @@
           },
           {
             "word": "men",
-            "options": ["men", "menn", "man"],
+            "options": ["men", "menn", "mann"],
             "correctAnswer": "men",
             "explanation": "Plural form of 'man,' referring to adult human males."
           },
           {
             "word": "ten",
-            "options": ["ten", "tenn", "tan"],
+            "options": ["ten", "tenn", "taan"],
             "correctAnswer": "ten",
             "explanation": "The number following nine and preceding eleven."
           },
@@ -386,7 +386,7 @@
           },
           {
             "word": "vet",
-            "options": ["vet", "vett", "vat"],
+            "options": ["vet", "vett", "vaat"],
             "correctAnswer": "vet",
             "explanation": "A veterinarian, a person who practices veterinary medicine, or to examine carefully."
           }
@@ -397,13 +397,13 @@
         "questions": [
           {
             "word": "big",
-            "options": ["big", "bige", "bag"],
+            "options": ["big", "bige", "bagg"],
             "correctAnswer": "big",
             "explanation": "Of considerable size or extent; larger than average."
           },
           {
             "word": "pig",
-            "options": ["pig", "pigg", "pag"],
+            "options": ["pig", "pigg", "pagg"],
             "correctAnswer": "pig",
             "explanation": "A domesticated omnivorous animal with a large snout and cloven hoofs."
           },
@@ -451,7 +451,7 @@
           },
           {
             "word": "mid",
-            "options": ["mid", "midd", "mad"],
+            "options": ["mid", "midd", "madd"],
             "correctAnswer": "mid",
             "explanation": "The middle point or part of something, especially between the beginning and the end."
           }
@@ -474,7 +474,7 @@
           },
           {
             "word": "mop",
-            "options": ["mop", "mopp", "map"],
+            "options": ["mop", "mopp", "mapp"],
             "correctAnswer": "mop",
             "explanation": "A tool for cleaning floors consisting of a long handle with a head made of absorbent material."
           },
@@ -486,7 +486,7 @@
           },
           {
             "word": "cop",
-            "options": ["cop", "copp", "cap"],
+            "options": ["cop", "copp", "cep"],
             "correctAnswer": "cop",
             "explanation": "A slang term for a police officer."
           },
@@ -498,7 +498,7 @@
           },
           {
             "word": "lop",
-            "options": ["lop", "lopp", "lap"],
+            "options": ["lop", "lopp", "lapp"],
             "correctAnswer": "lop",
             "explanation": "To cut off a branch or part of a tree or plant."
           },
@@ -510,7 +510,7 @@
           },
           {
             "word": "fop",
-            "options": ["fop", "fopp", "fap"],
+            "options": ["fop", "fopp", "fep"],
             "correctAnswer": "fop",
             "explanation": "A man who is excessively concerned with his clothes and appearance."
           },
@@ -539,13 +539,13 @@
           },
           {
             "word": "hot",
-            "options": ["hot", "hott", "hat"],
+            "options": ["hot", "hott", "hatt"],
             "correctAnswer": "hot",
             "explanation": "Having a high temperature or causing a sensation of heat."
           },
           {
             "word": "lot",
-            "options": ["lot", "lott", "lat"],
+            "options": ["lot", "lott", "laat"],
             "correctAnswer": "lot",
             "explanation": "A large quantity or number of something, or a piece of land."
           },
@@ -557,31 +557,31 @@
           },
           {
             "word": "rot",
-            "options": ["rot", "rott", "rat"],
+            "options": ["rot", "rott", "raat"],
             "correctAnswer": "rot",
             "explanation": "The process of decay or decomposition of organic matter."
           },
           {
             "word": "got",
-            "options": ["got", "gott", "gat"],
+            "options": ["got", "gott", "gatt"],
             "correctAnswer": "got",
             "explanation": "The past tense of 'get,' meaning to obtain or receive something."
           },
           {
             "word": "jot",
-            "options": ["jot", "jott", "jat"],
+            "options": ["jot", "jott", "jait"],
             "correctAnswer": "jot",
             "explanation": "To write something quickly or briefly."
           },
           {
             "word": "cot",
-            "options": ["cot", "cott", "cat"],
+            "options": ["cot", "cott", "caoot"],
             "correctAnswer": "cot",
             "explanation": "A small, portable bed or camp bed, often used for sleeping outdoors."
           },
           {
             "word": "tot",
-            "options": ["tot", "tott", "tat"],
+            "options": ["tot", "tott", "ttat"],
             "correctAnswer": "tot",
             "explanation": "A small child or a small amount, especially of liquid."
           }
@@ -657,19 +657,19 @@
         "questions": [
           {
             "word": "bug",
-            "options": ["bug", "bugg", "bag"],
+            "options": ["bug", "bugg", "buugg"],
             "correctAnswer": "bug",
             "explanation": "An insect or a small creature, or a problem or glitch in a system."
           },
           {
             "word": "hug",
-            "options": ["hug", "hugg", "hag"],
+            "options": ["hug", "hugg", "hagg"],
             "correctAnswer": "hug",
             "explanation": "To hold someone tightly in your arms, usually to show affection."
           },
           {
             "word": "jug",
-            "options": ["jug", "jugg", "jag"],
+            "options": ["jug", "jugg", "jaag"],
             "correctAnswer": "jug",
             "explanation": "A container with a handle and a spout, used for holding and pouring liquids."
           },
@@ -681,37 +681,37 @@
           },
           {
             "word": "rug",
-            "options": ["rug", "rugg", "rag"],
+            "options": ["rug", "rugg", "rrag"],
             "correctAnswer": "rug",
             "explanation": "A piece of thick fabric used to cover part of a floor or a carpet."
           },
           {
             "word": "tug",
-            "options": ["tug", "tugg", "tag"],
+            "options": ["tug", "tugg", "tagg"],
             "correctAnswer": "tug",
             "explanation": "To pull something with a sharp or sudden movement."
           },
           {
             "word": "lug",
-            "options": ["lug", "lugg", "lag"],
+            "options": ["lug", "lugg", "llag"],
             "correctAnswer": "lug",
             "explanation": "To carry or drag something heavy or cumbersome."
           },
           {
             "word": "plug",
-            "options": ["plug", "plugg", "plag"],
+            "options": ["plug", "plugg", "pllag"],
             "correctAnswer": "plug",
             "explanation": "A device used to close a hole or opening, or a piece of equipment to connect electrical devices."
           },
           {
             "word": "slug",
-            "options": ["slug", "slugg", "slag"],
+            "options": ["slug", "slugg", "sluug"],
             "correctAnswer": "slug",
             "explanation": "A slow-moving, soft-bodied mollusk, or a type of bullet used in shotguns."
           },
           {
             "word": "drug",
-            "options": ["drug", "drugg", "drag"],
+            "options": ["drug", "drugg", "druug"],
             "correctAnswer": "drug",
             "explanation": "A substance used for medical treatment or for recreational purposes."
           }
@@ -722,7 +722,7 @@
         "questions": [
           {
             "word": "fan",
-            "options": ["fan", "fann", "fen"],
+            "options": ["fan", "fann", "ffan"],
             "correctAnswer": "fan",
             "explanation": "An appliance used to create airflow and cool down a space, or a person who is enthusiastic about something."
           },
@@ -746,19 +746,19 @@
           },
           {
             "word": "can",
-            "options": ["can", "cann", "cen"],
+            "options": ["can", "cann", "ccen"],
             "correctAnswer": "can",
             "explanation": "A container used for storing food or drinks, or the ability to do something."
           },
           {
             "word": "ran",
-            "options": ["ran", "rann", "ren"],
+            "options": ["ran", "rann", "reen"],
             "correctAnswer": "ran",
             "explanation": "The past tense of 'run,' meaning to have moved quickly on foot."
           },
           {
             "word": "tan",
-            "options": ["tan", "tann", "ten"],
+            "options": ["tan", "tann", "taan"],
             "correctAnswer": "tan",
             "explanation": "A light brown color, or the process of darkening the skin by exposure to the sun."
           },
@@ -787,37 +787,37 @@
         "questions": [
           {
             "word": "bag",
-            "options": ["bag", "bagg", "big"],
+            "options": ["bag", "bagg", "baag"],
             "correctAnswer": "bag",
             "explanation": "A container made of flexible material, often used for carrying items."
           },
           {
             "word": "lag",
-            "options": ["lag", "lagg", "leg"],
+            "options": ["lag", "lagg", "leag"],
             "correctAnswer": "lag",
             "explanation": "To fall behind in progress or movement."
           },
           {
             "word": "nag",
-            "options": ["nag", "nagg", "neg"],
+            "options": ["nag", "nagg", "negg"],
             "correctAnswer": "nag",
             "explanation": "To continuously annoy or criticize someone."
           },
           {
             "word": "rag",
-            "options": ["rag", "ragg", "reg"],
+            "options": ["rag", "ragg", "regg"],
             "correctAnswer": "rag",
             "explanation": "A piece of old cloth used for cleaning or wiping."
           },
           {
             "word": "sag",
-            "options": ["sag", "sagg", "seg"],
+            "options": ["sag", "sagg", "segg"],
             "correctAnswer": "sag",
             "explanation": "To sink, droop, or bend down under weight or pressure."
           },
           {
             "word": "wag",
-            "options": ["wag", "wagg", "weg"],
+            "options": ["wag", "wagg", "wegg"],
             "correctAnswer": "wag",
             "explanation": "To move something rapidly from side to side, often used to describe the motion of a tail."
           },
@@ -852,19 +852,19 @@
         "questions": [
           {
             "word": "cab",
-            "options": ["cab", "cabb", "cub"],
+            "options": ["cab", "cabb", "cuub"],
             "correctAnswer": "cab",
             "explanation": "A vehicle for hire, usually with a driver, used for transportation."
           },
           {
             "word": "dab",
-            "options": ["dab", "dabb", "dub"],
+            "options": ["dab", "dabb", "dubb"],
             "correctAnswer": "dab",
             "explanation": "To lightly touch or apply a small amount of something."
           },
           {
             "word": "jab",
-            "options": ["jab", "jabb", "jub"],
+            "options": ["jab", "jabb", "jubb"],
             "correctAnswer": "jab",
             "explanation": "A quick, sharp thrust or punch."
           },
@@ -888,25 +888,25 @@
           },
           {
             "word": "grab",
-            "options": ["grab", "grabb", "grub"],
+            "options": ["grab", "grabb", "gruub"],
             "correctAnswer": "grab",
             "explanation": "To seize or take hold of something suddenly or quickly."
           },
           {
             "word": "stab",
-            "options": ["stab", "stabb", "stub"],
+            "options": ["stab", "stabb", "stubb"],
             "correctAnswer": "stab",
             "explanation": "To pierce or wound with a pointed object, usually a knife."
           },
           {
             "word": "crab",
-            "options": ["crab", "crabb", "club"],
+            "options": ["crab", "crabb", "claab"],
             "correctAnswer": "crab",
             "explanation": "A crustacean with a hard shell and pincers, found in oceans and some freshwater environments."
           },
           {
             "word": "slab",
-            "options": ["slab", "slabb", "slub"],
+            "options": ["slab", "slabb", "slubb"],
             "correctAnswer": "slab",
             "explanation": "A large, flat piece of stone, concrete, or other material, often used in construction or as a surface."
           }
@@ -917,7 +917,7 @@
         "questions": [
           {
             "word": "bat",
-            "options": ["bat", "batt", "bet"],
+            "options": ["bat", "batt", "beett"],
             "correctAnswer": "bat",
             "explanation": "A flying mammal, or a piece of equipment used in sports such as baseball."
           },
@@ -941,13 +941,13 @@
           },
           {
             "word": "pat",
-            "options": ["pat", "patt", "pet"],
+            "options": ["pat", "patt", "paat"],
             "correctAnswer": "pat",
             "explanation": "To touch gently with an open hand."
           },
           {
             "word": "sat",
-            "options": ["sat", "satt", "set"],
+            "options": ["sat", "satt", "saat"],
             "correctAnswer": "sat",
             "explanation": "The past tense of 'sit'."
           },
@@ -959,19 +959,19 @@
           },
           {
             "word": "flat",
-            "options": ["flat", "flatt", "flet"],
+            "options": ["flat", "flatt", "fllet"],
             "correctAnswer": "flat",
             "explanation": "Level and smooth, with no raised areas or indentations."
           },
           {
             "word": "that",
-            "options": ["that", "thatt", "thet"],
+            "options": ["that", "thatt", "theet"],
             "correctAnswer": "that",
             "explanation": "Used to identify a specific person or thing observed by the speaker."
           },
           {
             "word": "crowd",
-            "options": ["crod", "crowd", "crawd"],
+            "options": ["crod", "crowd", "craawd"],
             "correctAnswer": "crowd",
             "explanation": "A large group of people gathered together in a public place."
           }
@@ -982,13 +982,13 @@
         "questions": [
           {
             "word": "bet",
-            "options": ["bet", "bett", "bat"],
+            "options": ["bet", "bett", "baatt"],
             "correctAnswer": "bet",
             "explanation": "To risk something, usually money, on the outcome of an event."
           },
           {
             "word": "get",
-            "options": ["get", "gett", "gat"],
+            "options": ["get", "gett", "ggat"],
             "correctAnswer": "get",
             "explanation": "To obtain, receive, or gain something."
           },
@@ -1000,13 +1000,13 @@
           },
           {
             "word": "let",
-            "options": ["let", "lett", "lat"],
+            "options": ["let", "lett", "latt"],
             "correctAnswer": "let",
             "explanation": "To allow or permit something to happen."
           },
           {
             "word": "met",
-            "options": ["met", "mett", "mat"],
+            "options": ["met", "mett", "meaatt"],
             "correctAnswer": "met",
             "explanation": "The past tense of 'meet'."
           },
@@ -1024,7 +1024,7 @@
           },
           {
             "word": "set",
-            "options": ["set", "sett", "sat"],
+            "options": ["set", "sett", "satt"],
             "correctAnswer": "set",
             "explanation": "To put or place something in a particular position."
           },
@@ -1036,7 +1036,7 @@
           },
           {
             "word": "pardon",
-            "options": ["pardon", "pardone", "pardun"],
+            "options": ["pardon", "pardone", "parrdun"],
             "correctAnswer": "pardon",
             "explanation": "The action of forgiving or being forgiven for an error or offense."
           }
@@ -1047,25 +1047,25 @@
         "questions": [
           {
             "word": "bed",
-            "options": ["bed", "bedd", "bad"],
+            "options": ["bed", "bedd", "beead"],
             "correctAnswer": "bed",
             "explanation": "A piece of furniture for sleep or rest, typically a framework with a mattress."
           },
           {
             "word": "fed",
-            "options": ["fed", "fedd", "fad"],
+            "options": ["fed", "fedd", "ffad"],
             "correctAnswer": "fed",
             "explanation": "The past tense of 'feed', meaning to give food to."
           },
           {
             "word": "led",
-            "options": ["led", "ledd", "lad"],
+            "options": ["led", "ledd", "laad"],
             "correctAnswer": "led",
             "explanation": "The past tense of 'lead', meaning to guide or direct."
           },
           {
             "word": "red",
-            "options": ["red", "redd", "rad"],
+            "options": ["red", "redd", "radd"],
             "correctAnswer": "red",
             "explanation": "A color at the end of the spectrum next to orange and opposite violet."
           },
@@ -1077,7 +1077,7 @@
           },
           {
             "word": "shed",
-            "options": ["shed", "shedd", "shad"],
+            "options": ["shed", "shedd", "shadd"],
             "correctAnswer": "shed",
             "explanation": "A simple roofed structure used for storage or shelter."
           },
@@ -1112,7 +1112,7 @@
         "questions": [
           {
             "word": "log",
-            "options": ["log", "logg", "lag"],
+            "options": ["log", "logg", "llag"],
             "correctAnswer": "log",
             "explanation": "A part of the trunk or a large branch of a tree that has fallen or been cut off."
           },
@@ -1130,7 +1130,7 @@
           },
           {
             "word": "bog",
-            "options": ["bog", "bogg", "bag"],
+            "options": ["bog", "bogg", "boog"],
             "correctAnswer": "bog",
             "explanation": "Wet, spongy ground with soil composed mainly of decayed vegetable matter."
           },
@@ -1154,13 +1154,13 @@
           },
           {
             "word": "slog",
-            "options": ["slog", "slogg", "slag"],
+            "options": ["slog", "slogg", "slaogg"],
             "correctAnswer": "slog",
             "explanation": "To work hard over a long period, typically against difficulty."
           },
           {
             "word": "blog",
-            "options": ["blog", "blogg", "blag"],
+            "options": ["blog", "blogg", "blaag"],
             "correctAnswer": "blog",
             "explanation": "A regularly updated website or web page, typically one run by an individual or small group, that is written in an informal or conversational style."
           },
@@ -1183,43 +1183,43 @@
           },
           {
             "word": "dim",
-            "options": ["dim", "dimm", "dam"],
+            "options": ["dim", "dimm", "dem"],
             "correctAnswer": "dim",
             "explanation": "Not bright or clear."
           },
           {
             "word": "rim",
-            "options": ["rim", "rimm", "ram"],
+            "options": ["rim", "rimm", "rem"],
             "correctAnswer": "rim",
             "explanation": "The outer edge of an object, typically something circular or approximately circular."
           },
           {
             "word": "lim",
-            "options": ["lim", "limm", "lam"],
+            "options": ["lim", "limm", "llam"],
             "correctAnswer": "lim",
             "explanation": "A shortened form of 'limb', often referring to a part of the body."
           },
           {
             "word": "kim",
-            "options": ["kim", "kimm", "kam"],
+            "options": ["kim", "kimm", "kkam"],
             "correctAnswer": "kim",
             "explanation": "A common first name, often used for both males and females."
           },
           {
             "word": "sim",
-            "options": ["sim", "simm", "sam"],
+            "options": ["sim", "simm", "siem"],
             "correctAnswer": "sim",
             "explanation": "A shortened form of 'simulation' or a name, like 'Sim' in 'The Sims' game."
           },
           {
             "word": "grim",
-            "options": ["grim", "grimm", "gram"],
+            "options": ["grim", "grimm", "griom"],
             "correctAnswer": "grim",
             "explanation": "Forbidding or uninviting, often referring to something dark or depressing."
           },
           {
             "word": "slim",
-            "options": ["slim", "slimm", "slam"],
+            "options": ["slim", "slimm", "sllam"],
             "correctAnswer": "slim",
             "explanation": "Thin in an attractive or healthy way."
           },
@@ -1231,7 +1231,7 @@
           },
           {
             "word": "prim",
-            "options": ["prim", "primm", "pram"],
+            "options": ["prim", "primm", "prrim"],
             "correctAnswer": "prim",
             "explanation": "Stiffly formal and respectable."
           }
@@ -1242,61 +1242,61 @@
         "questions": [
           {
             "word": "sit",
-            "options": ["sit", "sitt", "sat"],
+            "options": ["sit", "sitt", "saat"],
             "correctAnswer": "sit",
             "explanation": "To be in a position in which one's weight is supported by one's buttocks rather than one's feet and one's back is upright."
           },
           {
             "word": "fit",
-            "options": ["fit", "fitt", "fat"],
+            "options": ["fit", "fitt", "faat"],
             "correctAnswer": "fit",
             "explanation": "Of a suitable quality, standard, or type to meet the required purpose."
           },
           {
             "word": "kit",
-            "options": ["kit", "kitt", "kat"],
+            "options": ["kit", "kitt", "katt"],
             "correctAnswer": "kit",
             "explanation": "A set of articles or equipment needed for a specific purpose."
           },
           {
             "word": "lit",
-            "options": ["lit", "litt", "lat"],
+            "options": ["lit", "litt", "llat"],
             "correctAnswer": "lit",
             "explanation": "Provided with light or illumination; past tense of 'light'."
           },
           {
             "word": "pit",
-            "options": ["pit", "pitt", "pat"],
+            "options": ["pit", "pitt", "patt"],
             "correctAnswer": "pit",
             "explanation": "A large hole in the ground."
           },
           {
             "word": "wit",
-            "options": ["wit", "witt", "wat"],
+            "options": ["wit", "witt", "waat"],
             "correctAnswer": "wit",
             "explanation": "The capacity for inventive thought and quick understanding; keen intelligence."
           },
           {
             "word": "split",
-            "options": ["split", "splitt", "splat"],
+            "options": ["split", "splitt", "spliat"],
             "correctAnswer": "split",
             "explanation": "To divide or cause to divide into parts or elements."
           },
           {
             "word": "quit",
-            "options": ["quit", "quitt", "quat"],
+            "options": ["quit", "quitt", "qquat"],
             "correctAnswer": "quit",
             "explanation": "To stop doing something or leave a place."
           },
           {
             "word": "flit",
-            "options": ["flit", "flitt", "flat"],
+            "options": ["flit", "flitt", "flutt"],
             "correctAnswer": "flit",
             "explanation": "To move lightly and swiftly."
           },
           {
             "word": "hit",
-            "options": ["hit", "hitt", "hat"],
+            "options": ["hit", "hitt", "hiit"],
             "correctAnswer": "hit",
             "explanation": "To strike someone or something with a hand, tool, or weapon."
           }
@@ -1307,31 +1307,31 @@
         "questions": [
           {
             "word": "pin",
-            "options": ["pin", "pinn", "pan"],
+            "options": ["pin", "pinn", "piin"],
             "correctAnswer": "pin",
             "explanation": "A small, slender piece of metal with a sharp point, used for fastening things together."
           },
           {
             "word": "tin",
-            "options": ["tin", "tinn", "tan"],
+            "options": ["tin", "tinn", "tiin"],
             "correctAnswer": "tin",
             "explanation": "A silvery-white metal used in making containers and other items."
           },
           {
             "word": "fin",
-            "options": ["fin", "finn", "fan"],
+            "options": ["fin", "finn", "fien"],
             "correctAnswer": "fin",
             "explanation": "A thin, flat part that sticks out from the body of a fish and is used in moving through water."
           },
           {
             "word": "win",
-            "options": ["win", "winn", "wan"],
+            "options": ["win", "winn", "wwan"],
             "correctAnswer": "win",
             "explanation": "To achieve victory in a competition or contest."
           },
           {
             "word": "kin",
-            "options": ["kin", "kinn", "kan"],
+            "options": ["kin", "kinn", "kkan"],
             "correctAnswer": "kin",
             "explanation": "One's family and relations."
           },
@@ -1343,7 +1343,7 @@
           },
           {
             "word": "spin",
-            "options": ["spin", "spinn", "span"],
+            "options": ["spin", "spinn", "sspan"],
             "correctAnswer": "spin",
             "explanation": "To turn or cause to turn or whirl around quickly."
           },
@@ -1355,13 +1355,13 @@
           },
           {
             "word": "thin",
-            "options": ["thin", "thinn", "than"],
+            "options": ["thin", "thinn", "thiin"],
             "correctAnswer": "thin",
             "explanation": "Having little, or too little, flesh or fat on the body."
           },
           {
             "word": "chin",
-            "options": ["chin", "chinn", "chan"],
+            "options": ["chin", "chinn", "chiin"],
             "correctAnswer": "chin",
             "explanation": "The part of the face below the mouth, formed by the lower jaw."
           }
@@ -1491,7 +1491,7 @@
           },
           {
             "word": "stop",
-            "options": ["stop", "stopp", "stap"],
+            "options": ["stop", "stopp", "sttap"],
             "correctAnswer": "stop",
             "explanation": "To come to an end or halt."
           }
@@ -1502,61 +1502,61 @@
         "questions": [
           {
             "word": "cub",
-            "options": ["cub", "cubb", "cab"],
+            "options": ["cub", "cubb", "cuub"],
             "correctAnswer": "cub",
             "explanation": "A young animal, such as a bear, lion, or fox."
           },
           {
             "word": "rub",
-            "options": ["rub", "rubb", "rab"],
+            "options": ["rub", "rubb", "ruub"],
             "correctAnswer": "rub",
             "explanation": "To move one's hand or a cloth repeatedly back and forth on the surface of something with pressure."
           },
           {
             "word": "hub",
-            "options": ["hub", "hubb", "hab"],
+            "options": ["hub", "hubb", "haab"],
             "correctAnswer": "hub",
             "explanation": "The central part of a wheel, rotating on or with the axle, and from which the spokes radiate."
           },
           {
             "word": "tub",
-            "options": ["tub", "tubb", "tab"],
+            "options": ["tub", "tubb", "tuub"],
             "correctAnswer": "tub",
             "explanation": "A large container, typically round and made of wood, metal, or plastic, used for washing or holding liquid."
           },
           {
             "word": "sub",
-            "options": ["sub", "subb", "sab"],
+            "options": ["sub", "subb", "suub"],
             "correctAnswer": "sub",
             "explanation": "A submarine; a person who plays a secondary role."
           },
           {
             "word": "pub",
-            "options": ["pub", "pubb", "pab"],
+            "options": ["pub", "pubb", "puub"],
             "correctAnswer": "pub",
             "explanation": "A place where people go to drink and socialize, especially one that serves beer."
           },
           {
             "word": "club",
-            "options": ["club", "clubb", "clab"],
+            "options": ["club", "clubb", "cluub"],
             "correctAnswer": "club",
             "explanation": "An association dedicated to a particular interest or activity."
           },
           {
             "word": "scrub",
-            "options": ["scrub", "scrubb", "scrab"],
+            "options": ["scrub", "scrubb", "scruub"],
             "correctAnswer": "scrub",
             "explanation": "To clean something by rubbing it hard with a brush."
           },
           {
             "word": "snub",
-            "options": ["snub", "snubb", "snab"],
+            "options": ["snub", "snubb", "snuub"],
             "correctAnswer": "snub",
             "explanation": "To ignore or spurn disdainfully."
           },
           {
             "word": "grub",
-            "options": ["grub", "grubb", "grab"],
+            "options": ["grub", "grubb", "gruub"],
             "correctAnswer": "grub",
             "explanation": "The larva of an insect, especially a beetle; food."
           }
@@ -1567,13 +1567,13 @@
         "questions": [
           {
             "word": "gun",
-            "options": ["gun", "gunn", "gan"],
+            "options": ["gun", "gunn", "guun"],
             "correctAnswer": "gun",
             "explanation": "A weapon incorporating a metal tube from which bullets, shells, or other missiles are propelled by explosive force."
           },
           {
             "word": "bun",
-            "options": ["bun", "bunn", "ban"],
+            "options": ["bun", "bunn", "buun"],
             "correctAnswer": "bun",
             "explanation": "A small bread roll, often sweetened or containing dried fruit."
           },
@@ -1798,25 +1798,25 @@
           },
           {
             "word": "bad",
-            "options": ["bad", "badd", "bat"],
+            "options": ["bad", "badd", "baad"],
             "correctAnswer": "bad",
             "explanation": "Of poor quality or a low standard."
           },
           {
             "word": "dad",
-            "options": ["dad", "dadd", "dat"],
+            "options": ["dad", "dadd", "daad"],
             "correctAnswer": "dad",
             "explanation": "One's father."
           },
           {
             "word": "fad",
-            "options": ["fad", "fadd", "fat"],
+            "options": ["fad", "fadd", "faad"],
             "correctAnswer": "fad",
             "explanation": "An intense and widely shared enthusiasm for something, especially one that is short-lived."
           },
           {
             "word": "had",
-            "options": ["had", "hadd", "hat"],
+            "options": ["had", "hadd", "haad"],
             "correctAnswer": "had",
             "explanation": "Past tense and past participle of have."
           }
@@ -1827,61 +1827,61 @@
         "questions": [
           {
             "word": "sip",
-            "options": ["sip", "sipp", "sap"],
+            "options": ["sip", "sipp", "ssap"],
             "correctAnswer": "sip",
             "explanation": "Drink (something) by taking small mouthfuls."
           },
           {
             "word": "tip",
-            "options": ["tip", "tipp", "tap"],
+            "options": ["tip", "tipp", "tiip"],
             "correctAnswer": "tip",
             "explanation": "The pointed or rounded end or extremity of something slender or tapering."
           },
           {
             "word": "dip",
-            "options": ["dip", "dipp", "dap"],
+            "options": ["dip", "dipp", "diip"],
             "correctAnswer": "dip",
             "explanation": "Put or let something down quickly or briefly in or into (liquid)."
           },
           {
             "word": "lip",
-            "options": ["lip", "lipp", "lap"],
+            "options": ["lip", "lipp", "liip"],
             "correctAnswer": "lip",
             "explanation": "Either of the two fleshy parts which form the upper and lower edges of the opening of the mouth."
           },
           {
             "word": "rip",
-            "options": ["rip", "ripp", "rap"],
+            "options": ["rip", "ripp", "riip"],
             "correctAnswer": "rip",
             "explanation": "Tear or pull (something) quickly or forcibly away from something or someone."
           },
           {
             "word": "hip",
-            "options": ["hip", "hipp", "hap"],
+            "options": ["hip", "hipp", "hiip"],
             "correctAnswer": "hip",
             "explanation": "A projection of the pelvis and upper thigh bone on each side of the body in human beings and quadrupeds."
           },
           {
             "word": "skip",
-            "options": ["skip", "skipp", "skap"],
+            "options": ["skip", "skipp", "skiip"],
             "correctAnswer": "skip",
             "explanation": "Move along lightly, stepping from one foot to the other with a hop or bounce."
           },
           {
             "word": "trip",
-            "options": ["trip", "tripp", "trap"],
+            "options": ["trip", "tripp", "triip"],
             "correctAnswer": "trip",
             "explanation": "Catch one's foot on something and stumble or fall."
           },
           {
             "word": "flip",
-            "options": ["flip", "flipp", "flap"],
+            "options": ["flip", "flipp", "fliip"],
             "correctAnswer": "flip",
             "explanation": "Turn over or cause to turn over with a sudden quick movement."
           },
           {
             "word": "grip",
-            "options": ["grip", "gripp", "grap"],
+            "options": ["grip", "gripp", "grrip"],
             "correctAnswer": "grip",
             "explanation": "Take and keep a firm hold of; grasp tightly."
           }
@@ -1981,7 +1981,7 @@
           },
           {
             "word": "snake",
-            "options": ["snake", "snack", "snak"],
+            "options": ["snake", "snac", "snak"],
             "correctAnswer": "snake",
             "explanation": "A long, legless reptile with a cylindrical body."
           },
@@ -2531,7 +2531,7 @@
           },
           {
             "word": "feats",
-            "options": ["feats", "feates", "fets"],
+            "options": ["feats", "feates", "feets"],
             "correctAnswer": "feats",
             "explanation": "Accomplishments or achievements that require skill, strength, or bravery."
           }
@@ -3222,7 +3222,7 @@
           },
           {
             "word": "wander",
-            "options": ["wander", "wandar", "wonder"],
+            "options": ["wander", "wandar", "waander"],
             "correctAnswer": "wander",
             "explanation": "To move about without a fixed course."
           },
@@ -3599,7 +3599,7 @@
           },
           {
             "word": "ugli fruit",
-            "options": ["ugli fruit", "ugli frut", "ugly fruit"],
+            "options": ["ugli fruit", "ugli frut", "ugly fruitt"],
             "correctAnswer": "ugli fruit",
             "explanation": "A hybrid citrus fruit that originated in Jamaica."
           },
@@ -3617,7 +3617,7 @@
           },
           {
             "word": "xigua",
-            "options": ["xigua", "xigwua", "xiguwa"],
+            "options": ["xigua", "xiigua", "xiguwa"],
             "correctAnswer": "xigua",
             "explanation": "A type of watermelon native to Africa."
           },
@@ -4172,7 +4172,7 @@
         "questions": [
           {
             "word": "scold",
-            "options": ["scold", "scoold", "scald"],
+            "options": ["scold", "scoold", "sccold"],
             "correctAnswer": "scold",
             "explanation": "To criticize angrily someone who has done something wrong."
           },
@@ -4539,7 +4539,7 @@
           },
           {
             "word": "salsa",
-            "options": ["salsa", "salza", "salssa"],
+            "options": ["salsa", "sallza", "salssa"],
             "correctAnswer": "salsa",
             "explanation": "A type of Latin American dance music characterized by lively rhythms."
           },
@@ -4562,7 +4562,7 @@
         "questions": [
           {
             "word": "shrimp",
-            "options": ["shrimpie", "shrmp", "shrimp"],
+            "options": ["shrimpi", "shrmp", "shrimp"],
             "correctAnswer": "shrimp",
             "explanation": "A small, typically marine crustacean with a soft body and long legs."
           },
@@ -4774,10 +4774,10 @@
             "explanation": "To produce or create something."
           },
           {
-            "word": "hypothesis",
-            "options": ["hypothesis", "hypothisis", "hypotheseis"],
-            "correctAnswer": "hypothesis",
-            "explanation": "An educated guess or proposed explanation made on the basis of limited evidence."
+            "word": "possession",
+            "options": ["possession", "posseesion", "possesion"],
+            "correctAnswer": "possession",
+            "explanation": "The state of having, owning, or controlling something."
           },
           {
             "word": "illustrate",
@@ -5082,7 +5082,7 @@
         "questions": [
           {
             "word": "inquiries",
-            "options": ["equiries", "inquiries", "inquiaries"],
+            "options": ["eequiries", "inquiries", "inquiaries"],
             "correctAnswer": "inquiries",
             "explanation": "Questions or requests for information."
           },
@@ -5100,7 +5100,7 @@
           },
           {
             "word": "conceived",
-            "options": ["concieved", "conceived", "conceaved"],
+            "options": ["concieved", "conceived", "conciaved"],
             "correctAnswer": "conceived",
             "explanation": "Formed or devised in the mind."
           },
@@ -5153,7 +5153,7 @@
           },
           {
             "word": "geneva",
-            "options": ["geniva", "geneva", "genava"],
+            "options": ["geneeva", "geneva", "genava"],
             "correctAnswer": "geneva",
             "explanation": "A city in Switzerland known for its international organizations."
           },
@@ -5230,7 +5230,7 @@
           },
           {
             "word": "there",
-            "options": ["thear", "there", "therre"],
+            "options": ["therie", "there", "therre"],
             "correctAnswer": "there",
             "explanation": "In or at that place or position."
           },
@@ -5425,7 +5425,7 @@
           },
           {
             "word": "sense",
-            "options": ["sence", "sense", "sensse"],
+            "options": ["sencce", "sense", "sensse"],
             "correctAnswer": "sense",
             "explanation": "A faculty by which the body perceives an external stimulus (sight, smell, hearing, touch, taste)."
           },
@@ -5478,7 +5478,7 @@
           },
           {
             "word": "seen",
-            "options": ["seeen", "seen", "sen"],
+            "options": ["seeen", "seen", "senn"],
             "correctAnswer": "seen",
             "explanation": "Past participle of 'see'; perceived with the eyes."
           },
@@ -5608,7 +5608,7 @@
           },
           {
             "word": "shown",
-            "options": ["hown", "shown", "shon"],
+            "options": ["shhown", "shown", "shonn"],
             "correctAnswer": "shown",
             "explanation": "Past participle of 'show'; presented or displayed."
           },
@@ -5703,7 +5703,7 @@
           },
           {
             "word": "false",
-            "options": ["faulse", "false", "fals"],
+            "options": ["faullse", "false", "fals"],
             "correctAnswer": "false",
             "explanation": "Not true; incorrect."
           },
@@ -5714,7 +5714,7 @@
             "explanation": "Occurring once every year."
           },
           {
-            "word": "summarys",
+            "word": "summaries",
             "options": ["sumarys", "summarys", "summaries"],
             "correctAnswer": "summaries",
             "explanation": "Plural of summary; brief statements of the main points."
@@ -5927,7 +5927,7 @@
         "questions": [
           {
             "word": "advise",
-            "options": ["advice", "advise", "advize"],
+            "options": ["advisse", "advise", "advize"],
             "correctAnswer": "advise",
             "explanation": "To offer suggestions or recommendations about what should be done."
           },
