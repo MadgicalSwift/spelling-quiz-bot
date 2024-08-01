@@ -7124,7 +7124,7 @@
           },
           {
             "word": "Mara_Liasson",
-            "options": ["liasson", "Mara_Liasson", "Lliaison"],
+            "options": ["liiasson", "Mara_Liasson", "Lliaison"],
             "correctAnswer": "Mara_Liasson",
             "explanation": "Refers to Mara Liasson, an American journalist and political correspondent."
           },
@@ -7520,7 +7520,7 @@
           },
           {
             "word": "combo",
-            "options": ["cumba", "combo", "combro"],
+            "options": ["cumbaa", "combo", "combro"],
             "correctAnswer": "combo",
             "explanation": "A combination or mixture of different elements or items."
           },
@@ -7672,13 +7672,13 @@
           },
           {
             "word": "crucified",
-            "options": ["crusifed", "crucified", "crucifed"],
+            "options": ["cruusifed", "crucified", "crucifed"],
             "correctAnswer": "crucified",
             "explanation": "To be nailed to a cross as a form of execution, or used metaphorically for severe suffering or persecution."
           },
           {
             "word": "crucifixion",
-            "options": ["crucifiction", "crucifixion", "crucifixsion"],
+            "options": ["cruciefiction", "crucifixion", "crucifixsion"],
             "correctAnswer": "crucifixion",
             "explanation": "The execution of a person by nailing them to a cross, or a method of severe punishment."
           },
@@ -7814,7 +7814,7 @@
           },
           {
             "word": "distort",
-            "options": ["distart", "distort", "distor"],
+            "options": ["disart", "distort", "distor"],
             "correctAnswer": "distort",
             "explanation": "To alter or twist out of shape; to change something so that it is no longer accurate."
           }
@@ -8020,7 +8020,7 @@
         "questions": [
           {
             "word": "espresso",
-            "options": ["expresso", "espresso", "espreso"],
+            "options": ["epresso", "espresso", "espreso"],
             "correctAnswer": "espresso",
             "explanation": "A concentrated coffee brewed by forcing hot water through finely-ground coffee beans."
           },
@@ -8150,7 +8150,7 @@
         "questions": [
           {
             "word": "fax",
-            "options": ["faxe", "fax", "fex"],
+            "options": ["faxe", "fax", "feex"],
             "correctAnswer": "fax",
             "explanation": "A system for transmitting printed material via telephone lines."
           },
@@ -8381,7 +8381,7 @@
           },
           {
             "word": "hyphen",
-            "options": ["hifin", "hifine", "hyfin", "hyphen"],
+            "options": ["hifin", "hyfin", "hyphen"],
             "correctAnswer": "hyphen",
             "explanation": "A punctuation mark (-) used to join words or separate syllables."
           },
@@ -8390,8 +8390,7 @@
             "options": [
               "hypotathes",
               "hypotathese",
-              "hypothesis",
-              "hypothesys"
+              "hypothesis"
             ],
             "correctAnswer": "hypothesis",
             "explanation": "A proposed explanation based on limited evidence, used as a starting point for further investigation."
@@ -8433,19 +8432,19 @@
           },
           {
             "word": "in_case",
-            "options": ["incase", "in_case", "in-case"],
+            "options": ["incaase", "in_case", "inn-case"],
             "correctAnswer": "in_case",
             "explanation": "Used to denote a condition or situation that might occur."
           },
           {
             "word": "in_depth",
-            "options": ["indepth", "in_depth", "in-depth"],
+            "options": ["idepth", "in_depth", "in-deptth"],
             "correctAnswer": "in_depth",
             "explanation": "Thorough and detailed; examining something with great detail."
           },
           {
             "word": "in_fact",
-            "options": ["infact", "in_fact", "in-fact"],
+            "options": ["infactt", "in_fact", "inffact"],
             "correctAnswer": "in_fact",
             "explanation": "Used to emphasize that something is true."
           },
@@ -8853,7 +8852,7 @@
           },
           {
             "word": "most_likely",
-            "options": ["mostlikely", "most_likely", "mostlikey"],
+            "options": ["mostlikaly", "most_likely", "mostlikey"],
             "correctAnswer": "most_likely",
             "explanation": "The most probable or expected outcome."
           },
@@ -8906,13 +8905,13 @@
           },
           {
             "word": "no_one",
-            "options": ["noone", "no_one", "none"],
+            "options": ["noonee", "no_one", "none"],
             "correctAnswer": "no_one",
             "explanation": "No person; not a single person."
           },
           {
             "word": "not_in",
-            "options": ["nottin", "not_in", "notin"],
+            "options": ["nottin", "not_in", "notiin"],
             "correctAnswer": "not_in",
             "explanation": "Not present or included."
           },
@@ -9271,7 +9270,7 @@
           },
           {
             "word": "rank",
-            "options": ["wrank", "rank", "runk"],
+            "options": ["wrank", "rank", "raank"],
             "correctAnswer": "rank",
             "explanation": "A position in a hierarchy or scale; a classification."
           },
@@ -9313,7 +9312,7 @@
           },
           {
             "word": "regardless",
-            "options": ["irregardless", "regardless", "regaurdless"],
+            "options": ["rregardless", "regardless", "regurdless"],
             "correctAnswer": "regardless",
             "explanation": "Without being affected by other circumstances or considerations."
           },
@@ -9484,7 +9483,7 @@
           },
           {
             "word": "site",
-            "options": ["sitte", "site", "sitt"],
+            "options": ["sitte", "site", "sitee"],
             "correctAnswer": "site",
             "explanation": "A location or place where something is situated or occurs."
           },
@@ -9502,7 +9501,7 @@
           },
           {
             "word": "sneaked",
-            "options": ["snuck", "sneaked", "sneeked"],
+            "options": ["sneuck", "sneaked", "sneeked"],
             "correctAnswer": "sneaked",
             "explanation": "Moved quietly and secretly to avoid detection."
           },
@@ -9573,7 +9572,7 @@
           },
           {
             "word": "style_guide",
-            "options": ["stylegide", "style_guide", "styleguide"],
+            "options": ["stylegide", "style_guide", "styyleguide"],
             "correctAnswer": "style_guide",
             "explanation": "A document that outlines standards for writing and formatting."
           },
@@ -9620,7 +9619,7 @@
           },
           {
             "word": "swimwear",
-            "options": ["swim_wear", "swimmwear", "swimwear"],
+            "options": ["swim_weear", "swimwear", "swiimwear"],
             "correctAnswer": "swimwear",
             "explanation": "Clothing designed to be worn while swimming."
           },
@@ -9673,7 +9672,7 @@
           },
           {
             "word": "than_or",
-            "options": ["thanot", "than_or", "thanor"],
+            "options": ["thanoot", "than_or", "thanor"],
             "correctAnswer": "than_or",
             "explanation": "A phrase used in programming or logic to compare two conditions."
           },
@@ -9685,7 +9684,7 @@
           },
           {
             "word": "themselves",
-            "options": ["theirselves", "themselves", "themself"],
+            "options": ["themsellves", "themselves", "themsellf"],
             "correctAnswer": "themselves",
             "explanation": "A reflexive pronoun used to refer to a group of people or animals previously mentioned."
           },
@@ -9996,13 +9995,13 @@
           },
           {
             "word": "co-exist",
-            "options": ["co-exist", "coexist", "coexiste"],
+            "options": ["co-exist", "coexisst", "coexiste"],
             "correctAnswer": "co-exist",
             "explanation": "To exist at the same time or in the same place."
           },
           {
             "word": "co-author",
-            "options": ["co-author", "coauthour", "co-auther"],
+            "options": ["co-author", "coautthour", "co-auther"],
             "correctAnswer": "co-author",
             "explanation": "A person who collaborates with another to write a book or article."
           },
