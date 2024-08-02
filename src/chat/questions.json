@@ -2371,7 +2371,7 @@
           },
           {
             "word": "mix",
-            "options": ["mix", "mixx", "micks"],
+            "options": ["mix", "mixx", "miicks"],
             "correctAnswer": "mix",
             "explanation": "To combine different substances or elements together."
           },
