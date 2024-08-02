@@ -19,7 +19,7 @@
           },
           {
             "word": "sun",
-            "options": ["sun", "son", "sunn"],
+            "options": ["sun", "suun", "sunn"],
             "correctAnswer": "sun",
             "explanation": "The star around which the earth orbits."
           },
@@ -61,7 +61,7 @@
           },
           {
             "word": "book",
-            "options": ["book", "bok", "buuk"],
+            "options": ["book", "bokk", "buuk"],
             "correctAnswer": "book",
             "explanation": "A set of written, printed, or blank pages fastened together along one side and encased between protective covers."
           }
@@ -143,7 +143,7 @@
           },
           {
             "word": "lamp",
-            "options": ["llamp", "lamp", "lump"],
+            "options": ["llamp", "lamp", "luump"],
             "correctAnswer": "lamp",
             "explanation": "A device for giving light, either one consisting of an electric bulb together with its holder and shade or cover."
           },
@@ -380,7 +380,7 @@
           },
           {
             "word": "wet",
-            "options": ["wet", "wett", "wat"],
+            "options": ["wet", "wett", "watt"],
             "correctAnswer": "wet",
             "explanation": "Covered with, or saturated with liquid, usually water."
           },
@@ -427,13 +427,13 @@
           },
           {
             "word": "lid",
-            "options": ["lid", "lidd", "lad"],
+            "options": ["lid", "lidd", "laad"],
             "correctAnswer": "lid",
             "explanation": "A removable or hinged cover for the top of a container."
           },
           {
             "word": "bid",
-            "options": ["bid", "bidd", "bad"],
+            "options": ["bid", "bidd", "baad"],
             "correctAnswer": "bid",
             "explanation": "To offer a certain amount of money for something, usually at an auction."
           },
@@ -462,7 +462,7 @@
         "questions": [
           {
             "word": "top",
-            "options": ["top", "topp", "tap"],
+            "options": ["top", "topp", "toop"],
             "correctAnswer": "top",
             "explanation": "The highest or uppermost point, part, or surface of something."
           },
@@ -492,7 +492,7 @@
           },
           {
             "word": "sop",
-            "options": ["sop", "sopp", "sap"],
+            "options": ["sop", "sopp", "soop"],
             "correctAnswer": "sop",
             "explanation": "A piece of bread or other food used to soak up liquid."
           },
@@ -882,7 +882,7 @@
           },
           {
             "word": "tab",
-            "options": ["tab", "tabb", "tub"],
+            "options": ["tab", "tabb", "tubb"],
             "correctAnswer": "tab",
             "explanation": "A small projection or label used for identification or organization."
           },
@@ -1384,7 +1384,7 @@
           },
           {
             "word": "town",
-            "options": ["townn", "tawn", "town"],
+            "options": ["townn", "tawon", "town"],
             "correctAnswer": "town",
             "explanation": "A human settlement that is smaller than a city but larger than a village."
           },
@@ -1762,37 +1762,37 @@
         "questions": [
           {
             "word": "mad",
-            "options": ["mad", "madd", "mat"],
+            "options": ["mad", "madd", "maad"],
             "correctAnswer": "mad",
             "explanation": "Very angry."
           },
           {
             "word": "lad",
-            "options": ["lad", "ladd", "lat"],
+            "options": ["lad", "ladd", "laat"],
             "correctAnswer": "lad",
             "explanation": "A boy or young man (often as a form of address)."
           },
           {
             "word": "pad",
-            "options": ["pad", "padd", "pat"],
+            "options": ["pad", "padd", "paad"],
             "correctAnswer": "pad",
             "explanation": "A thick piece of soft material, typically used to protect or shape something."
           },
           {
             "word": "sad",
-            "options": ["sad", "sadd", "sat"],
+            "options": ["sad", "sadd", "saad"],
             "correctAnswer": "sad",
             "explanation": "Feeling or showing sorrow; unhappy."
           },
           {
             "word": "tad",
-            "options": ["tad", "tadd", "tat"],
+            "options": ["tad", "tadd", "taad"],
             "correctAnswer": "tad",
             "explanation": "A small amount of something."
           },
           {
             "word": "glad",
-            "options": ["glad", "gladd", "glat"],
+            "options": ["glad", "gladd", "glaad"],
             "correctAnswer": "glad",
             "explanation": "Feeling pleasure or happiness."
           },
@@ -2909,7 +2909,7 @@
           },
           {
             "word": "wreath",
-            "options": ["wreath", "reath", "wreathe"],
+            "options": ["wreath", "reeath", "wreathe"],
             "correctAnswer": "wreath",
             "explanation": "A circular arrangement of flowers or leaves used for decoration."
           },
@@ -5508,7 +5508,7 @@
           },
           {
             "word": "were",
-            "options": ["wer", "were", "where"],
+            "options": ["wer", "were", "werre"],
             "correctAnswer": "were",
             "explanation": "Past tense of 'are'; used with plural subjects."
           },
@@ -6388,7 +6388,7 @@
           },
           {
             "word": "analysed",
-            "options": ["analised", "analysied", "analysed"],
+            "options": ["anallised", "analysied", "analysed"],
             "correctAnswer": "analysed",
             "explanation": "Examined or studied something in detail to understand it better or draw conclusions."
           },
@@ -7707,7 +7707,7 @@
           },
           {
             "word": "dangle",
-            "options": ["dongle", "dangle", "dangale"],
+            "options": ["donggle", "dangle", "dangale"],
             "correctAnswer": "dangle",
             "explanation": "To hang or swing loosely."
           },
@@ -7843,7 +7843,7 @@
           },
           {
             "word": "dog",
-            "options": ["dag", "doog", "dog"],
+            "options": ["dagg", "doog", "dog"],
             "correctAnswer": "dog",
             "explanation": "A domesticated carnivorous mammal known for its loyalty and companionship."
           },
@@ -8133,7 +8133,7 @@
           },
           {
             "word": "favor",
-            "options": ["faver", "favor", "fovr"],
+            "options": ["favoer", "favor", "fovr"],
             "correctAnswer": "favor",
             "explanation": "An act of kindness or a benefit given to someone."
           },
@@ -8793,7 +8793,7 @@
           },
           {
             "word": "mike",
-            "options": ["mic", "mike", "mikee"],
+            "options": ["mikke", "mike", "mikee"],
             "correctAnswer": "mike",
             "explanation": "Short for 'microphone,' a device used to amplify or record sound."
           }
@@ -9743,7 +9743,7 @@
           },
           {
             "word": "tunnel_like",
-            "options": ["tunnelike", "tunnel_like", "tunnellike"],
+            "options": ["tunnlike", "tunnel_like", "tunnellike"],
             "correctAnswer": "tunnel_like",
             "explanation": "Resembling or characteristic of a tunnel."
           },
@@ -10403,7 +10403,7 @@
           },
           {
             "word": "mythic",
-            "options": ["mythic", "mythik", "mythical"],
+            "options": ["mythic", "mythik", "mythica"],
             "correctAnswer": "mythic",
             "explanation": "Pertaining to myths or mythologies."
           },
