@@ -233,7 +233,7 @@ export class SwiftchatMessageService extends MessageService {
       console.log('Question index out of range.');
     }
     const correctAnswer = question.correctAnswer;
-    const explanation =  question.explanation
+    const explanation =  question.explanation;
     if (selectedOption === correctAnswer) {
       const requestData = this.prepareRequestData(from, `${localised.correct}. 
       ${correctAnswer} : ${explanation}`);
