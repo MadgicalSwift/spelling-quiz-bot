@@ -9,15 +9,14 @@ Choose your desired difficulty level by clicking on the appropriate button.
 
 3.Answer Questions:
 Based on your selected difficulty level, you will receive a series of 10 spelling questions.
-Click on "Next Question" after answering each question to proceed to the next one.
+Each question will automatically proceed to the next one after you submit your answer.
 
-4.Change Difficulty (Optional):
-During the quiz, if you want to change the difficulty level, click on the "Main Menu" button.
-Select a new difficulty level from the menu.
-You will then receive a new set of 10 questions according to the newly selected difficulty level.
-
-5.View Score:
+4.View Score::
 After completing 10 questions, your score will be displayed out of 10.
+You will then be presented with buttons to select a difficulty level again to start a new quiz.
+
+5.Change Difficulty:
+After completing the quiz, you can select a new difficulty level from the provided buttons to start over with a new set of 10 questions.
 
 # Prerequisites
 Before you begin, ensure you have met the following requirements:
