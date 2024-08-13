@@ -1537,10 +1537,10 @@
             "explanation": "A place where people go to drink and socialize, especially one that serves beer."
           },
           {
-            "word": "club",
-            "options": ["club", "clubb", "cluub"],
-            "correctAnswer": "club",
-            "explanation": "An association dedicated to a particular interest or activity."
+            "word": "Americana",
+            "options": ["Americana", "Amerciana", "Americanna"],
+            "correctAnswer": "Americana",
+            "explanation": "Artifacts, traditions, or customs associated with American culture."
           },
           {
             "word": "scrub",
@@ -2075,10 +2075,10 @@
             "explanation": "A piece of land surrounded by water."
           },
           {
-            "word": "jungle",
-            "options": ["jungle", "jungel", "jungl"],
-            "correctAnswer": "jungle",
-            "explanation": "An area of dense, tropical vegetation with many trees and plants."
+            "word": "leeway",
+            "options": ["leeway", "lewey", "leway"],
+            "correctAnswer": "leeway",
+            "explanation": "The amount of freedom to move or act within limits."
           }
         ]
       },
@@ -2677,10 +2677,10 @@
             "explanation": "Long seats for multiple people, typically made of wood or metal and found in parks or public areas."
           },
           {
-            "word": "mosaic",
-            "options": ["mosaic", "mosiac", "mozaic"],
-            "correctAnswer": "mosaic",
-            "explanation": "A decorative art form using small pieces of colored glass, stone, or other materials arranged to form a pattern or image."
+            "word": "tarmac",
+            "options": ["tarmac", "tarcmac", "tarmacc"],
+            "correctAnswer": "tarmac",
+            "explanation": "A material used for surfacing roads or airport runways; also refers to the surface itself."
           },
           {
             "word": "notch",
@@ -2909,7 +2909,7 @@
           },
           {
             "word": "wreath",
-            "options": ["wreath", "reeath", "wreathe"],
+            "options": ["wreath", "reeath", "wreatthe"],
             "correctAnswer": "wreath",
             "explanation": "A circular arrangement of flowers or leaves used for decoration."
           },
@@ -3050,10 +3050,10 @@
             "explanation": "A cold, treeless biome found in polar regions."
           },
           {
-            "word": "uranium",
-            "options": ["uranium", "uranim", "urenium"],
-            "correctAnswer": "uranium",
-            "explanation": "A heavy metal used as a fuel in nuclear reactors."
+            "word": "pedigree",
+            "options": ["pedigree", "pedegrie", "pedigreee"],
+            "correctAnswer": "pedigree",
+            "explanation": "The record of descent of an animal, showing it to be purebred."
           }
         ]
       },
@@ -3215,10 +3215,10 @@
             "explanation": "Direction towards a higher place or position."
           },
           {
-            "word": "vacancy",
-            "options": ["vacancy", "vakansey", "vakancy"],
-            "correctAnswer": "vacancy",
-            "explanation": "An unoccupied position or space."
+            "word": "lambkin",
+            "options": ["lambkin", "lambkinn", "lambken"],
+            "correctAnswer": "lambkin",
+            "explanation": "A term of endearment for a young lamb or a child."
           },
           {
             "word": "wander",
@@ -3463,10 +3463,10 @@
             "explanation": "Say something in order to obtain an answer or some information."
           },
           {
-            "word": "are",
-            "options": ["ar", "are", "arre"],
-            "correctAnswer": "are",
-            "explanation": "Second person singular and plural and first and third person plural present of be."
+            "word": "freight",
+            "options": ["freight", "freit", "frieght"],
+            "correctAnswer": "freight",
+            "explanation": "Goods transported by truck, train, ship, or aircraft."
           },
           {
             "word": "area",
@@ -3942,10 +3942,10 @@
             "explanation": "A large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare."
           },
           {
-            "word": "busy",
-            "options": ["busy", "bsy", "buisy"],
-            "correctAnswer": "busy",
-            "explanation": "Having a great deal to do."
+            "word": "purse",
+            "options": ["purse", "pruse", "pursee"],
+            "correctAnswer": "purse",
+            "explanation": "A small bag used for carrying money and personal items."
           },
           {
             "word": "but",
@@ -4279,10 +4279,10 @@
             "explanation": "Having all the necessary or appropriate parts."
           },
           {
-            "word": "computer",
-            "options": ["computer", "comuter", "compter"],
-            "correctAnswer": "computer",
-            "explanation": "An electronic device for storing and processing data."
+            "word": "gimmick",
+            "options": ["gimick", "gimic", "gimmick"],
+            "correctAnswer": "gimmick",
+            "explanation": "A trick or device intended to attract attention, publicity, or trade."
           },
           {
             "word": "control",
@@ -4438,10 +4438,10 @@
             "explanation": "To cause something to cease to exist by damaging or attacking it."
           },
           {
-            "word": "develop",
-            "options": ["develop", "develp", "dvelop"],
-            "correctAnswer": "develop",
-            "explanation": "To grow or cause to grow and become more mature, advanced, or elaborate."
+            "word": "newbie",
+            "options": ["newbie", "newb", "newbe"],
+            "correctAnswer": "newbie",
+            "explanation": "A person who is new to a particular activity or field."
           },
           {
             "word": "die",
@@ -5391,10 +5391,10 @@
             "explanation": "A representative form or pattern; a case to be followed."
           },
           {
-            "word": "except",
-            "options": ["except", "exept", "excpt"],
-            "correctAnswer": "except",
-            "explanation": "Not including; other than."
+            "word": "cucumber",
+            "options": ["cucmber", "cucumber", "cucmbeer"],
+            "correctAnswer": "cucumber",
+            "explanation": "A long green fruit with a tough skin, used in salads and cooking."
           }
         ]
       },
@@ -6230,10 +6230,10 @@
             "explanation": "Able to be used for a practical purpose or in several ways."
           },
           {
-            "word": "usual",
-            "options": ["usual", "ususal", "usul"],
-            "correctAnswer": "usual",
-            "explanation": "Habitually or typically occurring or done."
+            "word": "chowder",
+            "options": ["chowder", "chowdr", "chowdor"],
+            "correctAnswer": "chowder",
+            "explanation": "A thick soup or stew made with milk, seafood, or vegetables."
           },
           {
             "word": "usually",
@@ -6512,10 +6512,10 @@
         "setNumber": 1,
         "questions": [
           {
-            "word": "bicycle",
-            "options": ["bicycle", "bycycle", "bickel"],
-            "correctAnswer": "bicycle",
-            "explanation": "A two-wheeled vehicle that you ride by pushing on foot pedals."
+            "word": "harmonious",
+            "options": ["harmonious", "harmonous", "harmonouss"],
+            "correctAnswer": "harmonious",
+            "explanation": "Forming a pleasing or consistent whole."
           },
           {
             "word": "cantaloupe",
@@ -6536,10 +6536,10 @@
             "explanation": "A place where books and other materials for reading, viewing, listening, study, or reference are kept."
           },
           {
-            "word": "mountain",
-            "options": ["mountain", "mountin", "mountane"],
-            "correctAnswer": "mountain",
-            "explanation": "A large natural elevation of the earth's surface rising abruptly from the surrounding level."
+            "word": "boorish",
+            "options": ["boorish", "borish", "boorrish"],
+            "correctAnswer": "boorish",
+            "explanation": "Rude or insensitive behavior."
           },
           {
             "word": "banana",
@@ -6548,22 +6548,22 @@
             "explanation": "A long curved fruit that grows in clusters and has soft pulpy flesh and yellow skin when ripe."
           },
           {
-            "word": "camera",
-            "options": ["camera", "camra", "cammera"],
-            "correctAnswer": "camera",
-            "explanation": "A device for recording visual images in the form of photographs, film, or video signals."
+            "word": "raisin",
+            "options": ["raisin", "raisan", "raissin"],
+            "correctAnswer": "raisin",
+            "explanation": "A dried grape, often used in baking and cooking."
           },
           {
-            "word": "puzzle",
-            "options": ["puzzle", "puzel", "puzle"],
-            "correctAnswer": "puzzle",
-            "explanation": "A game, toy, or problem designed to test ingenuity or knowledge."
+            "word": "angora",
+            "options": ["angora", "angroa", "angorra"],
+            "correctAnswer": "angora",
+            "explanation": "A type of wool or fabric made from the hair of the Angora rabbit or goat."
           },
           {
-            "word": "guitar",
-            "options": ["guitar", "guiter", "gitor"],
-            "correctAnswer": "guitar",
-            "explanation": "A stringed musical instrument played with the fingers or a plectrum."
+            "word": "kindred",
+            "options": ["kindred", "kndred", "kindrid"],
+            "correctAnswer": "kindred",
+            "explanation": "One's family and relations or having a similar nature or character."
           },
           {
             "word": "jungle",
@@ -6589,10 +6589,10 @@
             "explanation": "A structure with a roof and walls, such as a house, school, store, or factory."
           },
           {
-            "word": "chocolate",
-            "options": ["chocolate", "chocolet", "chocolat"],
-            "correctAnswer": "chocolate",
-            "explanation": "A sweet, brown food made from roasted and ground cacao seeds."
+            "word": "bias",
+            "options": ["bias", "bais", "biass"],
+            "correctAnswer": "bias",
+            "explanation": "Prejudice in favor or against something, often considered unfair."
           },
           {
             "word": "dentist",
@@ -6613,10 +6613,10 @@
             "explanation": "A day or period of celebration, typically for religious reasons."
           },
           {
-            "word": "giraffe",
-            "options": ["giraffe", "girafe", "girraffe"],
-            "correctAnswer": "giraffe",
-            "explanation": "A large African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines."
+            "word": "tantrum",
+            "options": ["tantrum", "tantrumm", "tantum"],
+            "correctAnswer": "tantrum",
+            "explanation": "An uncontrolled outburst of anger and frustration, typically in a young child."
           },
           {
             "word": "hospital",
@@ -6625,10 +6625,10 @@
             "explanation": "An institution providing medical and surgical treatment and nursing care for sick or injured people."
           },
           {
-            "word": "insect",
-            "options": ["insect", "insekt", "insact"],
-            "correctAnswer": "insect",
-            "explanation": "A small arthropod animal that has six legs and generally one or two pairs of wings."
+            "word": "lactose",
+            "options": ["lactose", "lactosse", "lacose"],
+            "correctAnswer": "lactose",
+            "explanation": "A sugar found in milk and dairy products."
           },
           {
             "word": "journey",
@@ -6648,10 +6648,10 @@
             "explanation": "A room where food is prepared and cooked."
           },
           {
-            "word": "leopard",
-            "options": ["leopard", "lepard", "leopord"],
-            "correctAnswer": "leopard",
-            "explanation": "A large wild cat with a yellow-brown coat that has black spots."
+            "word": "trendy",
+            "options": ["trendy", "trenddy", "trendey"],
+            "correctAnswer": "trendy",
+            "explanation": "Very fashionable or up-to-date."
           },
           {
             "word": "beeswax",
@@ -6666,10 +6666,10 @@
             "explanation": "The period of darkness in each twenty-four hours; the time from sunset to sunrise."
           },
           {
-            "word": "ocean",
-            "options": ["ocean", "ocian", "oceon"],
-            "correctAnswer": "ocean",
-            "explanation": "A very large expanse of sea."
+            "word": "verbiage",
+            "options": ["verbiage", "verbeage", "verbiagee"],
+            "correctAnswer": "verbiage",
+            "explanation": "Excessive use of words, often unnecessary."
           },
           {
             "word": "peanut",
@@ -6707,10 +6707,10 @@
         "setNumber": 4,
         "questions": [
           {
-            "word": "umbrella",
-            "options": ["umbrella", "umberela", "umbrel"],
-            "correctAnswer": "umbrella",
-            "explanation": "A device for protection against rain or sun, consisting of a collapsible canopy mounted on a central rod."
+            "word": "lambasted",
+            "options": ["lambasted", "lambbasted", "lambastd"],
+            "correctAnswer": "lambasted",
+            "explanation": "To criticize someone or something harshly."
           },
           {
             "word": "volcano",
@@ -6719,22 +6719,22 @@
             "explanation": "A mountain or hill with a crater or vent through which lava, rock fragments, hot vapor, and gas are or have been erupted from the earth's crust."
           },
           {
-            "word": "whistle",
-            "options": ["whistle", "whistel", "whitle"],
-            "correctAnswer": "whistle",
-            "explanation": "A small device that makes a high-pitched sound when blown through the lips, often used as a signal."
+            "word": "misconception",
+            "options": ["misconception", "misconcetion", "misconceptionn"],
+            "correctAnswer": "misconception",
+            "explanation": "A view or opinion that is incorrect because it is based on faulty thinking or understanding."
           },
           {
-            "word": "xylophone",
-            "options": ["xylophone", "xilofone", "zylophone"],
-            "correctAnswer": "xylophone",
-            "explanation": "A musical instrument played by striking a row of wooden bars of graduated length with one or more small wooden or plastic mallets."
+            "word": "freckle",
+            "options": ["freckle", "frekle", "freckl"],
+            "correctAnswer": "freckle",
+            "explanation": "A small brownish spot on the skin, often becoming more pronounced through exposure to the sun."
           },
           {
-            "word": "yogurt",
-            "options": ["yogurt", "yougurt", "yogert"],
-            "correctAnswer": "yogurt",
-            "explanation": "A semi-solid food prepared from milk fermented by added bacteria, often sweetened and flavored."
+            "word": "penguin",
+            "options": ["penguin", "pengiun", "pengin"],
+            "correctAnswer": "penguin",
+            "explanation": "A flightless seabird with a black back and white belly, living in the Southern Hemisphere."
           },
           {
             "word": "reflexive",
@@ -6743,10 +6743,10 @@
             "explanation": "Reflexive Pronouns are used when the subject and the object of a sentence are the same person or thing."
           },
           {
-            "word": "apple",
-            "options": ["apple", "aple", "appple"],
-            "correctAnswer": "apple",
-            "explanation": "A round fruit with red or green skin and a whitish interior."
+            "word": "distraught",
+            "options": ["distraught", "distrut", "distruagt"],
+            "correctAnswer": "distraught",
+            "explanation": "Deeply upset and agitated."
           },
           {
             "word": "still",
@@ -6778,10 +6778,10 @@
             "explanation": "A smooth-skinned peach of the family Rosaceae."
           },
           {
-            "word": "fox",
-            "options": ["fox", "focks", "fokes"],
-            "correctAnswer": "fox",
-            "explanation": "A small, wild animal with a pointed face and large ears."
+            "word": "thicket",
+            "options": ["thicket", "thiket", "thickett"],
+            "correctAnswer": "thicket",
+            "explanation": "A dense group of bushes or trees."
           },
           {
             "word": "pranks",
@@ -6790,46 +6790,46 @@
             "explanation": "Mischievous tricks or playful acts."
           },
           {
-            "word": "hamburger",
-            "options": ["hamburger", "hamburgher", "hamburgr"],
-            "correctAnswer": "hamburger",
-            "explanation": "A sandwich consisting of a cooked patty of ground meat."
+            "word": "troll",
+            "options": ["troll", "trol", "trroll"],
+            "correctAnswer": "troll",
+            "explanation": "A mythical, cave-dwelling being or a person who intentionally provokes others online."
           },
           {
-            "word": "igloo",
-            "options": ["igloo", "iglu", "igloe"],
-            "correctAnswer": "igloo",
-            "explanation": "A dome-shaped Eskimo house, typically built from blocks of solid snow."
+            "word": "onion",
+            "options": ["onion", "onon", "onnion"],
+            "correctAnswer": "onion",
+            "explanation": "A vegetable with a strong smell and flavor, composed of several concentric layers."
           },
           {
-            "word": "jacket",
-            "options": ["jacket", "jaket", "jackit"],
-            "correctAnswer": "jacket",
-            "explanation": "An outer garment extending either to the waist or the hips, typically having sleeves and a fastening down the front."
+            "word": "pilferer",
+            "options": ["pilferer", "pilfrer", "pilferrer"],
+            "correctAnswer": "pilferer",
+            "explanation": "A person who steals things of little value."
           },
           {
-            "word": "kangaroo",
-            "options": ["kangaroo", "kangeroo", "kengaru"],
-            "correctAnswer": "kangaroo",
-            "explanation": "A large Australian marsupial with powerful hind legs for leaping."
+            "word": "nationalism",
+            "options": ["nationalism", "natonalism", "nationalims"],
+            "correctAnswer": "nationalism",
+            "explanation": "Patriotic feeling, principles, or efforts."
           },
           {
-            "word": "lemon",
-            "options": ["lemon", "lemen", "leamon"],
-            "correctAnswer": "lemon",
-            "explanation": "A yellow, oval citrus fruit with thick skin and fragrant, acidic juice."
+            "word": "permafrost",
+            "options": ["permafrost", "permaforst", "permafrosst"],
+            "correctAnswer": "permafrost",
+            "explanation": "A thick subsurface layer of soil that remains frozen throughout the year."
           },
           {
-            "word": "monkey",
-            "options": ["monkey", "monky", "monkei"],
-            "correctAnswer": "monkey",
-            "explanation": "A small to medium-sized primate that typically has a long tail and lives in trees."
+            "word": "headdress",
+            "options": ["headres", "headdress", "headress"],
+            "correctAnswer": "headdress",
+            "explanation": "A decorative covering or ornament for the head."
           },
           {
-            "word": "notebook",
-            "options": ["notebook", "noteebook", "notbok"],
-            "correctAnswer": "notebook",
-            "explanation": "A book of blank pages for writing notes."
+            "word": "nephew",
+            "options": ["nephew", "nepheew", "nephw"],
+            "correctAnswer": "nephew",
+            "explanation": "The son of one's brother or sister."
           }
         ]
       },
@@ -6967,10 +6967,10 @@
         "setNumber": 8,
         "questions": [
           {
-            "word": "allow",
-            "options": ["alow", "allow", "alloww"],
-            "correctAnswer": "allow",
-            "explanation": "To give permission for something to happen."
+            "word": "guess",
+            "options": ["guess", "gues", "gess"],
+            "correctAnswer": "guess",
+            "explanation": "To estimate or suppose something without sufficient information."
           },
           {
             "word": "credit",
@@ -7068,16 +7068,16 @@
             "explanation": "To a very great degree or extent."
           },
           {
-            "word": "table",
-            "options": ["tasble", "table", "tablle"],
-            "correctAnswer": "table",
-            "explanation": "A piece of furniture with a flat top and one or more legs."
+            "word": "simmer",
+            "options": ["simmer", "simerr", "simr"],
+            "correctAnswer": "simmer",
+            "explanation": "To cook gently just below boiling point."
           },
           {
-            "word": "useful",
-            "options": ["usful", "useful", "usefull"],
-            "correctAnswer": "useful",
-            "explanation": "Able to be used for a practical purpose or in several ways."
+            "word": "sunflower",
+            "options": ["sunflower", "sunflwer", "sunflover"],
+            "correctAnswer": "sunflower",
+            "explanation": "A tall plant with a large yellow flower, known for turning its head to follow the sun."
           },
           {
             "word": "thermawear",
@@ -7086,10 +7086,10 @@
             "explanation": "Clothing designed to retain heat and provide warmth."
           },
           {
-            "word": "pleasant",
-            "options": ["plesent", "pleasant", "pleassant"],
-            "correctAnswer": "pleasant",
-            "explanation": "Giving a sense of happy satisfaction or enjoyment."
+            "word": "snippet",
+            "options": ["snippet", "snipet", "snippit"],
+            "correctAnswer": "snippet",
+            "explanation": "A small piece or brief extract."
           }
         ]
       },
@@ -7097,10 +7097,10 @@
         "setNumber": 10,
         "questions": [
           {
-            "word": "between",
-            "options": ["beeteen", "between", "beetwen"],
-            "correctAnswer": "between",
-            "explanation": "At, into, or across the space separating two objects or regions."
+            "word": "squirm",
+            "options": ["squirm", "squirmm", "squirrm"],
+            "correctAnswer": "squirm",
+            "explanation": "To make continuous twisting, squirming movements."
           },
           {
             "word": "appreciation",
@@ -7334,10 +7334,10 @@
             "explanation": "Instances of buying or selling something; business deals."
           },
           {
-            "word": "believe",
-            "options": ["belive", "believe", "believee"],
-            "correctAnswer": "believe",
-            "explanation": "Accept (something) as true; feel sure of the truth of."
+            "word": "crumpet",
+            "options": ["crumpet", "crumpett", "crumpt"],
+            "correctAnswer": "crumpet",
+            "explanation": "A type of soft, round bread, often toasted and eaten with butter."
           },
           {
             "word": "operations",
@@ -7558,10 +7558,10 @@
             "explanation": "Having or showing an ability to accurately assess situations or people and turn this to one's advantage."
           },
           {
-            "word": "turtle",
-            "options": ["turtle", "turlte", "turrtle"],
-            "correctAnswer": "turtle",
-            "explanation": "A slow-moving reptile, enclosed in a scaly or leathery domed shell."
+            "word": "volumetric",
+            "options": ["volumetric", "volumetricc", "volmetrick"],
+            "correctAnswer": "volumetric",
+            "explanation": "Relating to the measurement of volume."
           },
           {
             "word": "Pinkerton",
@@ -8386,10 +8386,10 @@
             "explanation": "A sequence of actions regularly followed."
           },
           {
-            "word": "nature",
-            "options": ["natior", "nature", "natuer"],
-            "correctAnswer": "nature",
-            "explanation": "The inherent qualities or characteristics of something."
+            "word": "savvy",
+            "options": ["savvy", "savy", "savvvy"],
+            "correctAnswer": "savvy",
+            "explanation": "Shrewdness and practical knowledge; the ability to make good judgments."
           }
         ]
       },
@@ -8492,10 +8492,10 @@
             "explanation": "Adjusted or changed something again."
           },
           {
-            "word": "build",
-            "options": ["biuld", "build", "builld"],
-            "correctAnswer": "build",
-            "explanation": "To construct by putting together (parts or materials)."
+            "word": "valiant",
+            "options": ["valiant", "vailant", "valent"],
+            "correctAnswer": "valiant",
+            "explanation": "Possessing or showing courage or determination."
           },
           {
             "word": "organization",
@@ -8539,10 +8539,10 @@
             "explanation": "Making something more attractive by adding decorative details."
           },
           {
-            "word": "description",
-            "options": ["desription", "description", "descvription"],
-            "correctAnswer": "description",
-            "explanation": "A spoken or written account of a person, object, or event."
+            "word": "omission",
+            "options": ["omission", "omision", "omisison"],
+            "correctAnswer": "omission",
+            "explanation": "The act of leaving something out or neglecting to do something."
           },
           {
             "word": "edition",
@@ -8604,10 +8604,10 @@
             "explanation": "Relating to the application of statistical methods to economic data."
           },
           {
-            "word": "again",
-            "options": ["agiin", "again", "againn"],
-            "correctAnswer": "again",
-            "explanation": "Once more; another time."
+            "word": "amulet",
+            "options": ["amulet", "amult", "amltu"],
+            "correctAnswer": "amulet",
+            "explanation": "A small charm or ornament worn to ward off evil or injury."
           },
           {
             "word": "patterns",
@@ -8705,10 +8705,10 @@
             "explanation": "People one knows slightly but who are not close friends."
           },
           {
-            "word": "extremely",
-            "options": ["extreemly", "extremely", "extremly"],
-            "correctAnswer": "extremely",
-            "explanation": "To a very great degree; very."
+            "word": "stencil",
+            "options": ["stencil", "stencill", "stencel"],
+            "correctAnswer": "stencil",
+            "explanation": "A template used to draw or paint identical shapes, letters, or patterns."
           },
           {
             "word": "excessively",
@@ -8770,10 +8770,10 @@
             "explanation": "Short in duration or length."
           },
           {
-            "word": "matrix",
-            "options": ["matriiix", "matrix", "matirx"],
-            "correctAnswer": "matrix",
-            "explanation": "An environment or structure in which something develops; a grid-like arrangement."
+            "word": "iteration",
+            "options": ["iteration", "iterattion", "itertion"],
+            "correctAnswer": "iteration",
+            "explanation": "The process of repeating something, often to improve it."
           },
           {
             "word": "visitor",
@@ -8823,10 +8823,10 @@
             "explanation": "To carry out or perpetrate something."
           },
           {
-            "word": "except",
-            "options": ["excxept", "except", "execpt"],
-            "correctAnswer": "except",
-            "explanation": "Not including; other than."
+            "word": "McMansion",
+            "options": ["McManssion", "McMansin", "McMansion"],
+            "correctAnswer": "McMansion",
+            "explanation": "A large, often ostentatious house built in a suburban area."
           },
           {
             "word": "conversely",
@@ -8876,10 +8876,10 @@
             "explanation": "Appropriate or fitting for a particular purpose or person."
           },
           {
-            "word": "necessary",
-            "options": ["necasery", "necessary", "nessasary"],
-            "correctAnswer": "necessary",
-            "explanation": "Required or needed; essential."
+            "word": "imbibe",
+            "options": ["imbibe", "imbib", "imbibee"],
+            "correctAnswer": "imbibe",
+            "explanation": "To drink, often referring to alcoholic beverages."
           },
           {
             "word": "essential",
@@ -8953,10 +8953,10 @@
             "explanation": "A period of time devoted to a particular activity."
           },
           {
-            "word": "false",
-            "options": ["faullse", "false", "fals"],
-            "correctAnswer": "false",
-            "explanation": "Not true; incorrect."
+            "word": "cement",
+            "options": ["cement", "cemet", "cementt"],
+            "correctAnswer": "cement",
+            "explanation": "A powdery substance used to bind building materials together."
           },
           {
             "word": "annual",
@@ -8988,10 +8988,10 @@
             "explanation": "The condition of having paid work."
           },
           {
-            "word": "set",
-            "options": ["et", "set", "sset"],
-            "correctAnswer": "set",
-            "explanation": "A collection of items or objects, or to place something in a particular position."
+            "word": "bathtub",
+            "options": ["bathtub", "batthub", "battub"],
+            "correctAnswer": "bathtub",
+            "explanation": "A large container for holding water in which a person may bathe."
           },
           {
             "word": "particular",
@@ -9006,10 +9006,10 @@
             "explanation": "The area or environment around a particular place or object."
           },
           {
-            "word": "choose",
-            "options": ["chose", "choose", "choos"],
-            "correctAnswer": "choose",
-            "explanation": "To select or pick from a range of options."
+            "word": "lettuce",
+            "options": ["lettuce", "letuce", "lettucee"],
+            "correctAnswer": "lettuce",
+            "explanation": "A green leafy vegetable often used in salads."
           },
           {
             "word": "journalism",
@@ -9030,10 +9030,10 @@
             "explanation": "The cost incurred in something; expenditure."
           },
           {
-            "word": "receive",
-            "options": ["recieve", "receive", "recive"],
-            "correctAnswer": "receive",
-            "explanation": "To get or be given something."
+            "word": "fragrance",
+            "options": ["fragrnce", "fragrance", "fragance"],
+            "correctAnswer": "fragrance",
+            "explanation": "A pleasant, sweet smell."
           },
           {
             "word": "however",
@@ -9130,10 +9130,10 @@
             "explanation": "Refers to multiple items or people that are close to the speaker."
           },
           {
-            "word": "before",
-            "options": ["befor", "before", "befoer"],
-            "correctAnswer": "before",
-            "explanation": "At an earlier time; in front of or prior to something."
+            "word": "blemish",
+            "options": ["blemish", "blemis", "blemsh"],
+            "correctAnswer": "blemish",
+            "explanation": "A small mark or flaw that spoils the appearance of something."
           },
           {
             "word": "progression",
@@ -9378,10 +9378,10 @@
             "explanation": "The act of devoting time and attention to acquiring knowledge on an academic subject."
           },
           {
-            "word": "examination",
-            "options": ["eximination", "examination", "examintion"],
-            "correctAnswer": "examination",
-            "explanation": "A formal test of a person's knowledge or proficiency in a subject or skill."
+            "word": "genius",
+            "options": ["genius", "genus", "geniuss"],
+            "correctAnswer": "genius",
+            "explanation": "Exceptional intellectual or creative power or other natural ability."
           },
           {
             "word": "analyse",
@@ -9485,10 +9485,10 @@
             "explanation": "A common flowering plant with yellow flowers that turn into a sphere of seeds."
           },
           {
-            "word": "famous",
-            "options": ["famoeus", "famose", "famous"],
-            "correctAnswer": "famous",
-            "explanation": "Known about by many people; well-known or celebrated."
+            "word": "venomous",
+            "options": ["venomous", "venemus", "venomus"],
+            "correctAnswer": "venomous",
+            "explanation": "Capable of injecting venom by means of a bite or sting."
           },
           {
             "word": "pristine",
@@ -9715,10 +9715,10 @@
             "explanation": "Expressed regret or sorrow for a mistake or offense; the British spelling of 'apologized'."
           },
           {
-            "word": "separate",
-            "options": ["seporate", "separate", "seperat"],
-            "correctAnswer": "separate",
-            "explanation": "To divide or disconnect something into parts or sections."
+            "word": "fantastically",
+            "options": ["fantastically", "fantasticaly", "fantstically"],
+            "correctAnswer": "fantastically",
+            "explanation": "In an extraordinary or imaginative manner."
           },
           {
             "word": "mean",
@@ -9751,10 +9751,10 @@
             "explanation": "To gather and arrange information or documents in a proper order."
           },
           {
-            "word": "system",
-            "options": ["sysem", "system", "systm"],
-            "correctAnswer": "system",
-            "explanation": "A set of connected things or parts working together as a whole."
+            "word": "whisk",
+            "options": ["whisk", "whiks", "whiskk"],
+            "correctAnswer": "whisk",
+            "explanation": "A kitchen utensil used for whipping or stirring ingredients."
           }
         ]
       },
@@ -9969,10 +9969,10 @@
             "explanation": "An organization responsible for enforcing the law."
           },
           {
-            "word": "certain",
-            "options": ["certain", "sertain", "cartain"],
-            "correctAnswer": "certain",
-            "explanation": "Known for sure; established beyond doubt."
+            "word": "trumpet",
+            "options": ["trumpet", "trumpett", "trumpte"],
+            "correctAnswer": "trumpet",
+            "explanation": "A brass musical instrument with a flared bell and three valves."
           },
           {
             "word": "barograph",
@@ -10330,10 +10330,10 @@
             "explanation": "Very great or intense."
           },
           {
-            "word": "wreath",
-            "options": ["wreath", "wreeth", "wreathh"],
-            "correctAnswer": "wreath",
-            "explanation": "An arrangement of flowers, leaves, or stems fastened in a ring and used for decoration or for laying on a grave."
+            "word": "blooper",
+            "options": ["blooper", "bloopr", "bloper"],
+            "correctAnswer": "blooper",
+            "explanation": "A clumsy or embarrassing mistake, especially one made in public."
           },
           {
             "word": "profile",
@@ -12008,10 +12008,10 @@
             "explanation": "The theory and practice of dramatic composition and theatrical representation."
           },
           {
-            "word": "flourish",
-            "options": ["flourish", "fluurish", "floush"],
-            "correctAnswer": "flourish",
-            "explanation": "To grow or develop in a healthy or vigorous way, or an elaborate decoration."
+            "word": "mayhem",
+            "options": ["mayhem", "mayhim", "mayem"],
+            "correctAnswer": "mayhem",
+            "explanation": "Violent or damaging disorder; chaos."
           },
           {
             "word": "murmuration",
@@ -12049,10 +12049,10 @@
             "explanation": "A method of teaching reading and spelling that stresses symbol-sound relationships."
           },
           {
-            "word": "dissipate",
-            "options": ["dissipate", "dissipait", "dissapate"],
-            "correctAnswer": "dissipate",
-            "explanation": "To scatter or spread widely, often until it disappears or is no longer noticeable."
+            "word": "badger",
+            "options": ["badger", "baddger", "badgger"],
+            "correctAnswer": "badger",
+            "explanation": "A burrowing mammal with a distinctive striped face."
           },
           {
             "word": "calisthenics",
@@ -12238,10 +12238,10 @@
             "explanation": "Loyalty or commitment to a group or cause."
           },
           {
-            "word": "buffet",
-            "options": ["buffet", "buffitt", "bufet"],
-            "correctAnswer": "buffet",
-            "explanation": "A meal where guests serve themselves from a variety of dishes."
+            "word": "lawyer",
+            "options": ["lawyer", "laweir", "lawyerer"],
+            "correctAnswer": "lawyer",
+            "explanation": "A person who practices or studies law; an attorney or counselor."
           },
           {
             "word": "basaltic",
@@ -13035,10 +13035,10 @@
             "explanation": "Visually attractive or charming, often like a picture."
           },
           {
-            "word": "questionnaire",
-            "options": ["questionnaire", "questionare", "qustionnaire"],
-            "correctAnswer": "questionnaire",
-            "explanation": "A set of written questions used to gather information or opinions from people."
+            "word": "target",
+            "options": ["target", "targat", "targit"],
+            "correctAnswer": "target",
+            "explanation": "An object or area aimed at in shooting or striking."
           },
           {
             "word": "consciousness",
@@ -13193,10 +13193,10 @@
             "explanation": "Fond of company; sociable and outgoing."
           },
           {
-            "word": "hierarchy",
-            "options": ["hierarchy", "heirarchy", "hierchy"],
-            "correctAnswer": "hierarchy",
-            "explanation": "A system or organization in which people or groups are ranked one above the other according to status or authority."
+            "word": "jamboree",
+            "options": ["jamboree", "jambore", "jamborre"],
+            "correctAnswer": "jamboree",
+            "explanation": "A large celebration or party, often organized by scouts."
           },
           {
             "word": "idiosyncratic",
@@ -13719,10 +13719,10 @@
             "explanation": "To make a public statement or declaration about something."
           },
           {
-            "word": "announcement",
-            "options": ["annonsment", "announcement", "annoucement"],
-            "correctAnswer": "announcement",
-            "explanation": "A formal public statement or declaration, typically used to inform people of important news or information."
+            "word": "magician",
+            "options": ["magician", "magicain", "magican"],
+            "correctAnswer": "magician",
+            "explanation": "A person who performs magic tricks for entertainment."
           },
           {
             "word": "anoint",
@@ -13790,10 +13790,10 @@
             "explanation": "In mathematics, a line that a curve approaches but never touches or intersects."
           },
           {
-            "word": "at",
-            "options": ["ast", "at", "aet"],
-            "correctAnswer": "at",
-            "explanation": "A preposition used to indicate a location, time, or a particular point in context."
+            "word": "honeybee",
+            "options": ["honeybee", "honeybe", "honebee"],
+            "correctAnswer": "honeybee",
+            "explanation": "A bee that collects nectar and pollen, producing honey."
           }
         ]
       },
@@ -13855,10 +13855,10 @@
             "explanation": "Advantages or positive effects of something, or something that promotes well-being."
           },
           {
-            "word": "better",
-            "options": ["metter", "better", "bettr"],
-            "correctAnswer": "better",
-            "explanation": "Describes an improved or superior quality, or something more favorable than another option."
+            "word": "blizzard",
+            "options": ["blizzard", "blizzzard", "blizard"],
+            "correctAnswer": "blizzard",
+            "explanation": "A severe snowstorm with strong winds and low visibility."
           }
         ]
       },
@@ -13967,10 +13967,10 @@
             "explanation": "To act dishonestly or unfairly to gain an advantage."
           },
           {
-            "word": "circle",
-            "options": ["cicle", "circle", "circue"],
-            "correctAnswer": "circle",
-            "explanation": "A round shape where all points are equidistant from the center."
+            "word": "shamrock",
+            "options": ["shamrock", "shamroc", "shamrck"],
+            "correctAnswer": "shamrock",
+            "explanation": "A three-leaved plant often associated with Ireland and St. Patrick's Day."
           },
           {
             "word": "circumstances",
@@ -14067,10 +14067,10 @@
             "explanation": "Something that is difficult to understand or deal with due to its complexity."
           },
           {
-            "word": "computer",
-            "options": ["comupter", "computer", "comptuer"],
-            "correctAnswer": "computer",
-            "explanation": "An electronic device that processes data and performs tasks according to instructions."
+            "word": "flannel",
+            "options": ["flanell", "flannle", "flannel"],
+            "correctAnswer": "flannel",
+            "explanation": "A soft fabric of wool or cotton, often used for shirts or pajamas."
           },
           {
             "word": "congratulations",
@@ -14201,10 +14201,10 @@
             "explanation": "Occurring every day or relating to each day."
           },
           {
-            "word": "dangerous",
-            "options": ["danguages", "dangerous", "dangers"],
-            "correctAnswer": "dangerous",
-            "explanation": "Able or likely to cause harm or injury."
+            "word": "monopolize",
+            "options": ["monopolize", "monopolise", "monopoliza"],
+            "correctAnswer": "monopolize",
+            "explanation": "To control or dominate a market or industry exclusively."
           },
           {
             "word": "dangle",
@@ -14213,10 +14213,10 @@
             "explanation": "To hang or swing loosely."
           },
           {
-            "word": "decision",
-            "options": ["disition", "decision", "decison"],
-            "correctAnswer": "decision",
-            "explanation": "A conclusion or resolution reached after consideration."
+            "word": "marathon",
+            "options": ["marathon", "maraton", "marathn"],
+            "correctAnswer": "marathon",
+            "explanation": "A long-distance running race of 26.2 miles or 42.195 kilometers."
           },
           {
             "word": "dependable",
@@ -14290,10 +14290,10 @@
             "explanation": "To talk about something with others to reach a decision or to exchange ideas."
           },
           {
-            "word": "discussion",
-            "options": ["disssicion", "discussion", "discuission"],
-            "correctAnswer": "discussion",
-            "explanation": "The action or process of talking about something to reach a decision or to exchange ideas."
+            "word": "spreadsheet",
+            "options": ["spreadsheet", "spreadshett", "spreadhett"],
+            "correctAnswer": "spreadsheet",
+            "explanation": "A digital tool used for organizing, analyzing, and storing data in tabular form."
           },
           {
             "word": "dissect",
@@ -14343,10 +14343,10 @@
             "explanation": "The process of providing detailed information or evidence about something."
           },
           {
-            "word": "dog",
-            "options": ["dagg", "doog", "dog"],
-            "correctAnswer": "dog",
-            "explanation": "A domesticated carnivorous mammal known for its loyalty and companionship."
+            "word": "fortification",
+            "options": ["fortification", "fortifcation", "fortifcattion"],
+            "correctAnswer": "fortification",
+            "explanation": "A defensive wall or other reinforcement built to strengthen a place against attack."
           },
           {
             "word": "download",
@@ -14461,10 +14461,10 @@
             "explanation": "A comprehensive reference work containing articles on various subjects or extensive knowledge."
           },
           {
-            "word": "engine",
-            "options": ["engins", "engine", "enigne"],
-            "correctAnswer": "engine",
-            "explanation": "A machine designed to convert energy into mechanical force or motion."
+            "word": "astonish",
+            "options": ["astonish", "astonsh", "astonissh"],
+            "correctAnswer": "astonish",
+            "explanation": "To surprise or amaze someone greatly."
           },
           {
             "word": "enhance",
@@ -14485,16 +14485,16 @@
             "explanation": "A feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement."
           },
           {
-            "word": "enough",
-            "options": ["enought", "enough", "enugh"],
-            "correctAnswer": "enough",
-            "explanation": "Sufficient quantity, degree, or extent to meet the needs."
+            "word": "manta",
+            "options": ["manta", "mant", "mantta"],
+            "correctAnswer": "manta",
+            "explanation": "A large species of ray known for its broad, flat body and long pectoral fins."
           },
           {
-            "word": "environment",
-            "options": ["envirooment", "environment", "enviroment"],
-            "correctAnswer": "environment",
-            "explanation": "The surroundings or conditions in which a person, animal, or plant lives or operates."
+            "word": "fashionista",
+            "options": ["fashionista", "fashionsta", "fashonista"],
+            "correctAnswer": "fashionista",
+            "explanation": "A person who is very interested in or involved in fashion."
           },
           {
             "word": "environmental",
@@ -14538,10 +14538,10 @@
             "explanation": "The process of assessing or appraising something, especially to determine its value or effectiveness."
           },
           {
-            "word": "eventually",
-            "options": ["evtually", "eventually", "evetually"],
-            "correctAnswer": "eventually",
-            "explanation": "In the end, especially after a long period of time or a series of events."
+            "word": "stubble",
+            "options": ["stubble", "stubbl", "stubbel"],
+            "correctAnswer": "stubble",
+            "explanation": "Short, rough hair that grows after shaving or cutting."
           },
           {
             "word": "everything",
@@ -14568,10 +14568,10 @@
             "explanation": "The carrying out or putting into effect of a plan, order, or course of action."
           },
           {
-            "word": "exercise",
-            "options": ["excercise", "exercise", "exrcise"],
-            "correctAnswer": "exercise",
-            "explanation": "Physical activity intended to improve strength and fitness."
+            "word": "nuance",
+            "options": ["nuance", "nuanc", "nuancee"],
+            "correctAnswer": "nuance",
+            "explanation": "A subtle or slight difference in meaning, expression, or tone."
           },
           {
             "word": "exhilaration",
@@ -14615,10 +14615,10 @@
             "explanation": "The process of breaking down a number or algebraic expression into its factors."
           },
           {
-            "word": "failure",
-            "options": ["failer", "failure", "falure"],
-            "correctAnswer": "failure",
-            "explanation": "The lack of success in achieving a goal or objective."
+            "word": "science",
+            "options": ["science", "scince", "sience"],
+            "correctAnswer": "science",
+            "explanation": "The systematic study of the structure and behavior of the physical and natural world."
           },
           {
             "word": "fantasia",
@@ -14656,10 +14656,10 @@
             "explanation": "A system for transmitting printed material via telephone lines."
           },
           {
-            "word": "festival",
-            "options": ["fistival", "festival", "festaval"],
-            "correctAnswer": "festival",
-            "explanation": "A series of events or activities held to celebrate something, often including performances or exhibits."
+            "word": "plaintiff",
+            "options": ["plaintiff", "plantiff", "plainiff"],
+            "correctAnswer": "plaintiff",
+            "explanation": "A person who brings a case against another in a court of law."
           },
           {
             "word": "fiery",
@@ -14869,10 +14869,10 @@
             "explanation": "Buildings or structures that provide shelter, especially for people."
           },
           {
-            "word": "however",
-            "options": ["howaver", "howver", "however"],
-            "correctAnswer": "however",
-            "explanation": "Used to introduce a statement that contrasts with or seems to contradict something previously said."
+            "word": "abandon",
+            "options": ["abandon", "abandonn", "abandone"],
+            "correctAnswer": "abandon",
+            "explanation": "To leave someone or something completely, often without the intention of returning."
           },
           {
             "word": "humanity",
@@ -14916,10 +14916,10 @@
             "explanation": "Existing or operating within; inherent."
           },
           {
-            "word": "immediately",
-            "options": ["imediaetly", "immediately", "immediatly"],
-            "correctAnswer": "immediately",
-            "explanation": "Without delay; at once."
+            "word": "domineering",
+            "options": ["domineering", "dominerng", "domeneering"],
+            "correctAnswer": "domineering",
+            "explanation": "Asserting one's will over another in an arrogant way."
           },
           {
             "word": "implements",
@@ -15076,10 +15076,10 @@
             "explanation": "Existing or occurring between nations; global."
           },
           {
-            "word": "interpret",
-            "options": ["interpretate", "interpret", "interprate"],
-            "correctAnswer": "interpret",
-            "explanation": "To explain the meaning of something; to translate spoken language."
+            "word": "quart",
+            "options": ["quart", "quarrt", "quatt"],
+            "correctAnswer": "quart",
+            "explanation": "A unit of liquid capacity equal to a quarter of a gallon."
           },
           {
             "word": "interpreter",
@@ -15111,10 +15111,10 @@
             "explanation": "Easily annoyed or angered; prone to irritation."
           },
           {
-            "word": "isotope",
-            "options": ["isotrop", "isotope", "isotop"],
-            "correctAnswer": "isotope",
-            "explanation": "Variants of a particular chemical element that have the same number of protons but different numbers of neutrons."
+            "word": "rollicking",
+            "options": ["rollicking", "roliking", "rollickng"],
+            "correctAnswer": "rollicking",
+            "explanation": "Exuberantly lively and amusing."
           },
           {
             "word": "iterate",
@@ -15153,10 +15153,10 @@
             "explanation": "Possessing knowledge or information about something."
           },
           {
-            "word": "laser",
-            "options": ["luser", "laser", "lasar"],
-            "correctAnswer": "laser",
-            "explanation": "A device that emits light through a process of optical amplification based on the stimulated emission of radiation."
+            "word": "cactus",
+            "options": ["cactus", "cactuss", "cactuus"],
+            "correctAnswer": "cactus",
+            "explanation": "A type of plant that thrives in dry, desert environments."
           },
           {
             "word": "latest",
@@ -15200,10 +15200,10 @@
             "explanation": "Communication or cooperation that facilitates a close working relationship between people or organizations."
           },
           {
-            "word": "library",
-            "options": ["libary", "library", "librery"],
-            "correctAnswer": "library",
-            "explanation": "A collection of books and other materials for reading, study, or reference, usually housed in a building."
+            "word": "miraculous",
+            "options": ["miraculous", "miraclous", "miracoulous"],
+            "correctAnswer": "miraculous",
+            "explanation": "Occurring through divine or supernatural intervention."
           },
           {
             "word": "likely",
@@ -15241,10 +15241,10 @@
             "explanation": "The process of maintaining or preserving something, or the state of being maintained."
           },
           {
-            "word": "majority",
-            "options": ["majaerly", "majority", "majorly"],
-            "correctAnswer": "majority",
-            "explanation": "The greater number or part; more than half."
+            "word": "nurture",
+            "options": ["nurture", "nurtre", "nurturee"],
+            "correctAnswer": "nurture",
+            "explanation": "To care for and encourage growth or development."
           },
           {
             "word": "marshal",
@@ -15330,10 +15330,10 @@
             "explanation": "Showing a playful desire to cause trouble; causing minor damage or inconvenience."
           },
           {
-            "word": "monkey",
-            "options": ["minkay", "monkay", "monkey"],
-            "correctAnswer": "monkey",
-            "explanation": "A primate that is generally characterized by having a prehensile tail and more rounded face."
+            "word": "lionize",
+            "options": ["lionize", "lionise", "lionizze"],
+            "correctAnswer": "lionize",
+            "explanation": "To treat someone as a celebrity."
           },
           {
             "word": "more",
@@ -15365,10 +15365,10 @@
         "setNumber": 37,
         "questions": [
           {
-            "word": "moving",
-            "options": ["oving", "moving", "movin"],
-            "correctAnswer": "moving",
-            "explanation": "The act of changing position or going from one place to another."
+            "word": "reckon",
+            "options": ["reckon", "reccon", "reckn"],
+            "correctAnswer": "reckon",
+            "explanation": "To calculate or conclude after consideration."
           },
           {
             "word": "naive",
@@ -15489,10 +15489,10 @@
             "explanation": "A marsupial with a prehensile tail found in the Americas."
           },
           {
-            "word": "organize",
-            "options": ["organise", "organiz", "organize"],
-            "correctAnswer": "organize",
-            "explanation": "To arrange systematically; to put things in order."
+            "word": "hodgepodge",
+            "options": ["hodgepodge", "hodgpodge", "hodgepodg"],
+            "correctAnswer": "hodgepodge",
+            "explanation": "A confused mixture of different things."
           }
         ]
       },
@@ -15772,22 +15772,22 @@
             "explanation": "A position in a hierarchy or scale; a classification."
           },
           {
-            "word": "receive",
-            "options": ["reciev", "receive", "recieve"],
-            "correctAnswer": "receive",
-            "explanation": "To get or be given something."
+            "word": "ascribe",
+            "options": ["ascribe", "ascrib", "ascribb"],
+            "correctAnswer": "ascribe",
+            "explanation": "To attribute something to a cause or source."
           },
           {
-            "word": "recognize",
-            "options": ["reconise", "recognize", "recognise"],
-            "correctAnswer": "recognize",
-            "explanation": "To identify or acknowledge someone or something as familiar."
+            "word": "mosquito",
+            "options": ["mosquito", "mosqito", "mosqueto"],
+            "correctAnswer": "mosquito",
+            "explanation": "A small flying insect known for biting and sucking blood."
           },
           {
-            "word": "recommend",
-            "options": ["reccomend", "recommend", "recommed"],
-            "correctAnswer": "recommend",
-            "explanation": "To suggest or endorse something as suitable or desirable."
+            "word": "tolerable",
+            "options": ["tolerable", "tollerable", "tolerabel"],
+            "correctAnswer": "tolerable",
+            "explanation": "Capable of being endured or tolerated."
           },
           {
             "word": "rectangle",
@@ -15932,10 +15932,10 @@
             "explanation": "To take hold or possession of something quickly."
           },
           {
-            "word": "sense",
-            "options": ["sence", "sense", "sens"],
-            "correctAnswer": "sense",
-            "explanation": "A faculty by which the body perceives an external stimulus (e.g., sight, hearing)."
+            "word": "failure",
+            "options": ["failure", "failur", "failurre"],
+            "correctAnswer": "failure",
+            "explanation": "Lack of success in achieving or doing something."
           },
           {
             "word": "separate",
@@ -16139,10 +16139,10 @@
             "explanation": "Designs marked on the skin using ink."
           },
           {
-            "word": "uranium",
-            "options": ["uranisium", "uranium", "uraniam"],
-            "correctAnswer": "uranium",
-            "explanation": "A heavy metal used as fuel in nuclear reactors and in nuclear weapons."
+            "word": "system",
+            "options": ["sistem", "system", "sytem"],
+            "correctAnswer": "system",
+            "explanation": "A set of connected things or parts forming a complex whole."
           }
         ]
       },
@@ -16198,10 +16198,10 @@
             "explanation": "In theory or according to theoretical principles."
           },
           {
-            "word": "throughout",
-            "options": ["thruout", "throughout", "throuhout"],
-            "correctAnswer": "throughout",
-            "explanation": "In every part of something or during the entire period of time."
+            "word": "flattery",
+            "options": ["flattery", "flatterry", "flater"],
+            "correctAnswer": "flattery",
+            "explanation": "Excessive and insincere praise given to further one's own interests."
           },
           {
             "word": "verandas",
@@ -16367,10 +16367,10 @@
             "explanation": "A deep or seemingly bottomless chasm."
           },
           {
-            "word": "achromatic",
-            "options": ["achromatic", "achromatik", "achromatick"],
-            "correctAnswer": "achromatic",
-            "explanation": "Without color."
+            "word": "grouse",
+            "options": ["grouse", "grousse", "grou  s"],
+            "correctAnswer": "grouse",
+            "explanation": "A type of bird often found in woodland areas, or to complain or grumble."
           },
           {
             "word": "anhydrous",
@@ -16598,10 +16598,10 @@
             "explanation": "The large-scale structure of something."
           },
           {
-            "word": "macrocosm",
-            "options": ["macrocosm", "macrocism", "macrocosym"],
-            "correctAnswer": "macrocosm",
-            "explanation": "The universe considered as a whole; a large-scale system."
+            "word": "forensics",
+            "options": ["forensics", "forensicks", "forenics"],
+            "correctAnswer": "forensics",
+            "explanation": "The scientific study of crime scene evidence."
           }
         ]
       },
@@ -16840,10 +16840,10 @@
             "explanation": "Relating to grammar; conforming to the rules of grammar."
           },
           {
-            "word": "emotional",
-            "options": ["emotional", "emotinal", "emotionl"],
-            "correctAnswer": "emotional",
-            "explanation": "Related to a person's emotions or feelings."
+            "word": "hydra",
+            "options": ["hydra", "hydrra", "hiedra"],
+            "correctAnswer": "hydra",
+            "explanation": "A water monster from Greek mythology with many heads, or a genus of freshwater organisms."
           },
           {
             "word": "coastal",
